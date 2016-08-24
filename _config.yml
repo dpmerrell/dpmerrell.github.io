@@ -17,7 +17,7 @@ title: David Merrell's Topical Blog
 email: dmerrell@cs.wisc.edu
 description: > #
                I am pursuing a PhD in Computer Science at 
-               UW - Madison. In this blog, I ramble about
+               UW-Madison. In this blog, I ramble about
                topics encountered in my coursework and research.
 #  this means to ignore newlines until "baseurl:"
 #  Write an awesome description for your new site here. You can edit this
@@ -28,6 +28,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 github_username:  dpmerrell
+linkedin_username: David Merrell
 
 # Build settings
 markdown: kramdown
