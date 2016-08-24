@@ -31,7 +31,7 @@ github_username:  dpmerrell
 linkedin_username: David Merrell
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet 
 theme: minima
 
 gems: 
