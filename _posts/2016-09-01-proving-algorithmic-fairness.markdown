@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Proving Algorithmic Fairness"
+title:  "Proving Algorithmic Fairness---Part 1"
 date:   2016-09-01 20:00:00 -0500
 category: article
 tags: [wisconsin, albarghouthi, dantoni, drews, microsoft, nori, fairness] 
