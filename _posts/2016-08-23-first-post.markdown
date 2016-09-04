@@ -44,5 +44,5 @@ my blog is too empty for Google to index its contents.
 Future posts will actually cover problems that I'm working
 on, or reading that I'm trying to digest. Little by little,
 it will be more useful to me (and perhaps more interesting 
-to the reader).
+to the reader)\\( \blacksquare \\)
 
