@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Proving Algorithmic Fairness---Part 1"
+title:  "Proving Algorithmic Fairness I - Introduction"
 date:   2016-09-01 20:00:00 -0500
 category: article
 tags: [wisconsin, albarghouthi, dantoni, drews, microsoft, nori, fairness] 
@@ -45,10 +45,15 @@ algorithmic fairness[^3], but this paper introduces the following innovations:
  
 * The paper introduces a new-fangled integration method for its computation
   of probabilities. It's described as a symbolic volume-computation algorithm 
-  that uses an SMT solver. 
+  that uses an SMT solver. The paper's new method is preferred over more 
+  typical  Markov Chain Monte Carlo integrators because it guarantees
+  a lower bound for the integral; this guarantee allows us to *prove* 
+  fairness or unfairness, rather than express a mere statistical *confidence* in
+  fairness or unfairness. 
 
 * The concepts of the paper are packaged into a fairness verification tool
-  called *FairSquare*.
+  called *FairSquare*, which is tested against a set of benchmark population
+  models and classifier algorithms.
 
 # Proving Fairness
 
@@ -62,14 +67,15 @@ $$ \frac{P[\mathcal{P}(\vec{v}) \; | \; v_s = true]}{P[\mathcal{P}(\vec{v}) \; |
 
 where \\(v_s \\) is an entry of \\(\vec{v}\\) indicating whether the person
 belongs to a protected class---e.g., a particular religion or ethnicity---and
-\\(\epsilon < 1\\) is some agreed-upon standard. In English: if we have two 
-people who are equal in every way except their status in a protected class,
-we must show that the algorithm is equally likely to approve both people
-(within some threshold). 
+\\(\epsilon < 1\\) is some agreed-upon or mandated standard of fairness, with 
+smaller \\(\epsilon\))s implying stricter fairness requirements. 
+In English: if we have two people who are equal in every way except their status
+in a protected class, we must show that the algorithm is equally likely to 
+approve both people (within some threshold). 
 
 Note that it isn't sufficient for the algorithm to
 simply ignore protected class data; correlations between protected
-class data and hiring-relevant traits can lead to unbalanced outcomes even if
+class data and hiring criteria can lead to unbalanced outcomes even if
 ethnicity or religion are simply "left out" of a hiring algorithm. 
 
 In proving this inequality, it is useful to eliminate the conditional
@@ -84,18 +90,17 @@ conditional ones.
 In order to prove the inequality, it suffices to find a lower bound 
 \\(> 1 - \epsilon\\) on the 
 LHS; hence it suffices to find lower bounds on the probabilities in the 
-numerator, and upper bounds on the probabilities in the denominator. 
-This lends itself to the paper's Symbolic
-Volume Integration scheme, which is proven to converge to exact integrals
-in a monotonically increasing manner.
+numerator, and upper bounds on the probabilities in the denominator.
+Similarly, in order to disprove the inequality (i.e. prove unfairness), 
+it suffices to find an upper bound on the numerator and a lower bound on
+the denominator. This pursuit of upper and lower bounds lends itself to the 
+paper's Symbolic Volume Integration scheme, which is proven to converge to 
+exact integrals in a monotonically increasing manner.
 
 In upcoming posts, I will dig into the content of this paper in more detail.
-Topics will include Satisfiability Modulo Theories (SMT); the Symbolic Volume
-Integration scheme; and a description of the *FairSquare* tool's performance on
-some benchmarks.
+Topics will include the paper's Symbolic Volume Integration scheme and a 
+description of the *FairSquare* tool's performance on some benchmarks.
 \\( \blacksquare\\)  
-
-&nbsp;
 
 &nbsp;
 
