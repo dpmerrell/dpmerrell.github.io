@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Proving Algorithmic Fairness II - Symbolic Volume Integration"
-date:   2016-09-01 20:00:00 -0500
+date:   2016-09-05 20:00:00 -0500
 category: article
 tags: [wisconsin, albarghouthi, dantoni, drews, microsoft, nori, fairness, smt, logic, integrate] 
 ---
