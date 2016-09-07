@@ -1,0 +1,55 @@
+---
+layout: post
+title:  "The Stanford One Hundred Year AI Study - 2016"
+date:   2016-09-06 20:00:00 -0500
+category: article
+tags: [stanford, reading, ai, machine learning, ai100] 
+---
+
+In 2014 Stanford began a [100-year study](https://ai100.stanford.edu/)
+on the societal implications of artificial intelligence. Over 
+the next 100 years a (gradually changing) board of top AI researchers 
+will publish periodic papers giving a bird's eye view on the current state of 
+AI research. The purpose of these papers is to record AI's effect on 
+humanity, anticipate future developments, and inform policy makers of 
+relevant issues; to separate substance from sensationalism. 
+
+Five days ago, Stanford released the first of these papers 
+[(pdf)](https://ai100.stanford.edu/sites/default/files/ai_100_report_0901fnlc_single.pdf).
+It's worth reading yourself---there's an executive summary if you're short on
+time. In this post I'll list some of the things that stood out to 
+me as I read through it. 
+
+* In this first paper, the researchers narrow their scope to North American 
+cities. That is, they describe the current impact of AI on the inhabitants of
+North American cities, and envision possible developments to the year 2030. 
+While the One Hundred Year Study has international ambitions, this is a 
+practical starting point given the study's newness and North America's
+comparative development.
+
+* The paper covers many aspects of society---transportation, healthcare,
+education, public safety, employment, entertainment, home life---though they 
+leave out defense and military. The study acknowledges this gap, asserting that
+military applications fall outside the scope of North American cities. It seems likely that a thorough treatment of military applications would have dominated
+the paper. It also seems likely to me that they had difficulty accessing 
+information on the state of military tech, given their intention of 
+publicizing it.
+
+* The paper dedicates much discussion to "low-resource communities", describing
+the effect of AI on disadvantaged demographics. It frequently stresses the 
+importance of ensuring that our technologies are unbiased and do not perpetuate
+unfair discrimination. This makes my budding involvement in algorithmic fairness
+feel relevant. So that's nice.
+
+* The paper notes the recent trend of data-intensive machine learning 
+(e.g. "deep learning") displacing most other lines of inquiry, but 
+suggests that it is worthwhile to recognize the limitations of this path. 
+As someone who feels that the current trend does little to improve our 
+understanding of intelligence (though I acknowledge the usefulness of deep 
+learning), I felt validated when the paper gave the following advice:
+> We encourage young researchers not to reinvent the wheel, but rather to 
+  maintain an awareness of the significant progress in many areas of AI 
+  during the first fifty years of the field, and in related fields such as
+  control theory, cognitive science, and psychology.
+
+Well, that's all for now. 
