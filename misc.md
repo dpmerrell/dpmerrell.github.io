@@ -4,6 +4,10 @@ title: Miscellaneous
 permalink: /miscellaneous/
 ---
 
+## R&eacute;sum&eacute;
+
+Here's a [PDF of my one page r&eacute;sum&eacute;.]({{site.url}}/assets/dmerrell_resume.pdf)
+
 ## Photos
 
 # European Bicycle Tour 
