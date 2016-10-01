@@ -2,7 +2,7 @@
 layout: post
 title:  "The Stanford One Hundred Year AI Study - 2016"
 date:   2016-09-06 20:00:00 -0500
-category: article
+category: coursework
 tags: [stanford, reading, ai, machine learning, ai100] 
 ---
 
@@ -47,6 +47,7 @@ suggests that it is worthwhile to recognize the limitations of this path.
 As someone who feels that the current trend does little to improve our 
 understanding of intelligence (though I acknowledge the usefulness of deep 
 learning), I felt validated when the paper gave the following advice:
+
 > We encourage young researchers not to reinvent the wheel, but rather to 
   maintain an awareness of the significant progress in many areas of AI 
   during the first fifty years of the field, and in related fields such as
