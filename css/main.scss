@@ -37,3 +37,18 @@ $on-laptop:        800px;
 
 // Import partials from the `minima` theme.
 @import "minima";
+
+/**
+ * Icons
+ */
+.icon > svg {
+	    
+	display: inline-block;
+        vertical-align: middle;
+
+	path {
+		fill: $grey-color;
+        }
+	width: 25px;
+	height: 25px;
+}

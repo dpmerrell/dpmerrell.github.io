@@ -25,3 +25,5 @@ gem "minima"
 
 gem "jekyll-sitemap"
 gem "redcarpet"
+gem "github-pages", group: :jekyll_plugins
+
