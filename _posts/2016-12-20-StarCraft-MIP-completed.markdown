@@ -13,6 +13,8 @@ optimization class; I described it in a
 [previous post.]({{% post_url 2016-11-05-StarCraft-MIP %}})
 
 [Here's a link to my finished report.]({{site.url}}/assets/dmerrell-writeup.pdf)
+
+[Here's a link to the GAMS code that I wrote for this project]({{site.url}}/assets/sc-mip-model.gms)
 \\( \blacksquare\\)  
 
 
