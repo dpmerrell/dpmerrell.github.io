@@ -1,0 +1,124 @@
+%%%% ijcai17.tex
+
+\typeout{IJCAI-17 Instructions for Authors}
+
+% These are the instructions for authors for IJCAI-17.
+% They are the same as the ones for IJCAI-11 with superficical wording
+%   changes only.
+
+\documentclass{article}
+% The file ijcai17.sty is the style file for IJCAI-17 (same as ijcai07.sty).
+\input{preamble.tex}
+%\usepackage[backend=bibtex,style=authoryear]{biblatex}
+\usepackage{manfnt}
+\usepackage[T1]{fontenc}
+\usepackage{ijcai17}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+% Use the postscript times font!
+\usepackage{times}
+
+% the following package is optional:
+\usepackage{latexsym}
+\newcommand{\dmhcube}{\mbox{\mancube}}
+% Following comment is from ijcai97-submit.tex:
+% The preparation of these files was supported by Schlumberger Palo Alto
+% Research, AT\&T Bell Laboratories, and Morgan Kaufmann Publishers.
+% Shirley Jowell, of Morgan Kaufmann Publishers, and Peter F.
+% Patel-Schneider, of AT\&T Bell Laboratories collaborated on their
+% preparation.
+
+% These instructions can be modified and used in other conferences as long
+% as credit to the authors and supporting agencies is retained, this notice
+% is not changed, and further modification or reuse is not restricted.
+% Neither Shirley Jowell nor Peter F. Patel-Schneider can be listed as
+% contacts for providing assistance without their prior permission.
+
+% To use for other conferences, change references to files and the
+% conference appropriate and use other authors, contacts, publishers, and
+% organizations.
+% Also change the deadline and address for returning papers and the length and
+% page charge instructions.
+% Put where the files are available in the appropriate places.
+
+\title{Weighted Model Integration with Orthogonal Transformations}
+
+\author{David Merrell \and Aws Albarghouthi \and Loris D'Antoni\\
+        University of Wisconsin---Madison\\
+        Department of Computer Sciences\\
+        \{dmerrell, aws, loris\}@cs.wisc.edu
+}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+  Weighted model counting and integration (\abr{WMC}/\abr{WMI}) are natural
+  problems to which we can reduce many probabilistic
+  inference tasks, e.g., in Bayesian networks, Markov networks,
+  and probabilistic programs.
+  Typically, we are given a first-order formula,
+  where each satisfying assignment is associated
+  with a weight---e.g., a probability
+  of occurrence---and our goal is to compute
+  the total weight of the formula.
+  % To handle richer domains, researchers from different
+  % communities have also recently started tackling the
+  % \emph{weighted model integration} (\abr{WMI}) problem,
+  % where formulas are over infinite domains, e.g.,
+  % real arithmetic.
+  In this paper, we target \emph{exact inference} techniques
+  for \abr{WMI} that leverage the power of \emph{satisfiability
+  modulo theories} (\abr{SMT}) solvers to decompose
+  a first-order formula in \emph{linear real arithmetic} into
+  a set of \emph{hyperrectangular regions} whose
+  weight is easy to compute.
+  We demonstrate the challenges of hyperrectangular
+  decomposition and present a novel technique
+  that utilizes \emph{orthogonal transformations}
+  to transform \abr{SMT} formulas in order
+  to enable efficient inference.
+  Our evaluation demonstrates our technique's ability
+  to improve the time required to achieve exact
+  probability bounds.
+\end{abstract}
+
+\input{1_introduction}
+
+\input{2_motivation}
+
+\input{3_symbolic_volume_integration}
+
+\input{4_integration_w_rotations}
+
+\input{5_experimental_evaluation}
+
+\input{related}
+
+\section{Conclusion}
+We addressed weighted model integration (\abr{WMI})
+algorithms that decompose a linear arithmetic
+formula into a set of disjoint hyperrectangular regions.
+We argued that the hyperrectangular decomposition approach benefits from applying transformations on formulas,
+and showed how to to construct orthogonal transformations over rationals,
+preserving the independence of Gaussian variables without introducing irrational coefficients. 
+%so as to avoid introducing numerical errors and preserve weight.
+We implemented and evaluated our approach, demonstrating
+the substantial improvements available through orthogonal transformations.
+As a result, downstream applications such as repair and synthesis
+\cite{cavsynthesis} are improved.
+
+\vspace{.05in}
+\paragraph{Acknowledgements}
+We thank Jin-Yi Cai for suggesting exploring
+rotations to improve performance.
+This material is based upon work supported by the National Science Foundation under Grant numbers
+1566015 and 1652140.
+
+%% The file named.bst is a bibliography style file for BibTeX 0.99c
+\bibliographystyle{named}
+\bibliography{biblio}
+
+\end{document}
