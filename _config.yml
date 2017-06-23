@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: David Merrell's Topical Blog
-email: dmerrell@cs.wisc.edu
+email: dmerrell at cs dot wisc dot edu
 description: > #
                I am pursuing a PhD in Computer Science at 
                UW-Madison. In this blog, I ramble about
