@@ -4,21 +4,18 @@ title: About
 permalink: /about/
 ---
 
-I am pursuing a PhD in Computer Science at 
-University of Wisconsin - Madison. 
-I've found that I usually learn a principle best 
-by teaching it. This blog gives me an outlet to 
-explain topics that I encounter in my coursework, 
-research, and life. It definitely benefits me, and
-it may benefit you!
+I am pursuing a PhD in Computer Science(s) at 
+University of Wisconsin - Madison. I hope that this
+blog evolves into something useful and interesting.
 
-I am interested in many things, though I am early in my graduate studies and
-haven't settled on a research topic. I do enjoy thinking about
-cognition and decision making in systems of computers and humans. We'll
-see where that gets me.
+I am generously advised by Aws Albarghouthi and Loris D'Antoni of the 
+Programming Languages group. My research seeks to apply *program 
+verification* techniques to machine learning algorithms; e.g., neural
+networks. Our research aims to help practitioners build
+safe, reliable, and *ethical* machine learning systems.
 
-My background is in applied mathematics, with a tilt toward computational
-simulation.
+I studied math and physics as an undergrad. This background can be 
+useful, though I've had a lot of catching up to do.
 
 <!---
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
