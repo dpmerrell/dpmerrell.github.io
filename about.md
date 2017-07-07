@@ -6,7 +6,7 @@ permalink: /about/
 
 I am pursuing a PhD in [Computer Science(s)](http://cs.wisc.edu) at University of Wisconsin---Madison. 
 I am generously advised by [Aws Albarghouthi](http://pages.cs.wisc.edu/~aws/) and [Loris D'Antoni](http://pages.cs.wisc.edu/~loris/) of the 
-Programming Languages group. 
+[Programming Languages group.](http://research.cs.wisc.edu/areas/pl/) 
 
 Our research seeks to apply *program  verification* techniques to machine learning algorithms; 
 e.g., neural networks. 
