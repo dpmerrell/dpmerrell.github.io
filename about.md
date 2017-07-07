@@ -8,14 +8,16 @@ I am pursuing a PhD in [Computer Science(s)](http://cs.wisc.edu) at University o
 I am generously advised by [Aws Albarghouthi](http://pages.cs.wisc.edu/~aws/) and [Loris D'Antoni](http://pages.cs.wisc.edu/~loris/) of the 
 [Programming Languages group.](http://research.cs.wisc.edu/areas/pl/) 
 
-Our research seeks to apply *program  verification* techniques to machine learning algorithms; 
+In our research we apply *program  verification* techniques to machine learning algorithms; 
 e.g., neural networks. 
 We aim to help practitioners build safe, reliable, and *ethical* machine learning systems.
 
-I studied math and physics as an undergrad. This background can be 
-useful, though I've had a lot of catching up to do.
+I studied math and physics as an undergrad. This background has 
+its benefits, though I've had a lot of catching up to do in CS.
 
 I hope that this blog evolves into something useful and interesting.
+
+![profile photo]({{ site.url }}/assets/profile_photo.JPG)
 
 <!---
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
