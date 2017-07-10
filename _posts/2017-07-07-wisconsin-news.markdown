@@ -21,8 +21,8 @@ the Wisconsin State Journal:*
 
 *[UW software aims to find and fix biased computer programs](http://host.madison.com/wsj/news/local/govt-and-politics/uw-software-aims-to-find-and-fix-biased-computer-programs/article_7f261c21-a107-5841-92b6-9ffbd69eca9a.html)*
 
-*Wisconsin State Journal focuses on Aws and Loris, barely mentions me, and
-does not mention Sam Drews.*)
+*Wisconsin State Journal gives scant attention to grad students; e.g., 
+Sam Drews is not mentioned at all.*)
 
 So that's the aforementioned "fame". The "riches" refer to a $1M NSF grant
 awarded to my advisor, Aws Albarghouthi. My research will be funded with 
