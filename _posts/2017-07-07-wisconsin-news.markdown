@@ -25,7 +25,8 @@ the Wisconsin State Journal:*
 Sam Drews is not mentioned at all.*)
 
 So that's the aforementioned "fame". The "riches" refer to a $1M NSF grant
-awarded to my advisor, Aws Albarghouthi. My research will be funded with 
+awarded to my advisor, Aws Albarghouthi, a couple of months ago.
+My research will be funded with 
 this grant; I am very grateful to Aws and the NSF for this opportunity.
 
 \\( \blacksquare\\)  
