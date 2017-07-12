@@ -36,7 +36,7 @@ We were not ultimately successful; however, the project was still
 an instructive exercise, and I feel like I got pretty familiar with
 the subject matter. 
 
-And our work got a pretty good score. So I've decided to post it here.
+I felt kind of proud of our work. And it got a decent score. So I've decided to post it here.
 
 [Here's a link to our completed project.]({{site.url}}/assets/merrell-sharma-cs761-project-2017.pdf)
 
