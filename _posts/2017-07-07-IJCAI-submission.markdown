@@ -10,9 +10,10 @@ I have been negligent in my blogging. But I have been busy, so I don't
 feel too bad. 
 
 One of the more interesting things that's happened to me in the past seven months
-is my advisors and I getting a paper accepted to the International Joint
-Conference on Artificial Intelligence (IJCAI). Very exciting! I will be
-attending the conference (in Melbourne, Australia), toward the end of August.
+is my advisors and I getting a paper accepted to the 
+[International Joint Conference on Artificial Intelligence (IJCAI)](https://www.ijcai.org). 
+Very exciting! I will be attending the 
+[conference (in Melbourne, Australia)](http://www.ijcai-17.org), toward the end of August.
 
 It's related to work mentioned in previous posts, about 
 Symbolic Volume Integration (in the paper, we call it Weighted Model
