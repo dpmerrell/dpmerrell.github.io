@@ -8,6 +8,12 @@ permalink: /miscellaneous/
 
 Here's a [PDF of my one page r&eacute;sum&eacute;.]({{site.url}}/assets/dmerrell_resume.pdf)
 
+<br>
+
+------
+
+<br>
+
 ## Photos
 
 # Cycling 
@@ -19,6 +25,16 @@ Here's a [PDF of my one page r&eacute;sum&eacute;.]({{site.url}}/assets/dmerrell
 
 **2017-07-03** While visiting family in Colorado, we climbed two "fourteeners". 
 [Here's the Google Photos album.](https://goo.gl/photos/QPfwSpYcBRjTTfDt5)
+
+<br>
+
+------
+
+<br>
+
+## PGP Public key
+
+[pgp-public-key.txt]({{site.url}}/assets/dmerrell-pgp-public-key.txt)
 
 <!---
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
