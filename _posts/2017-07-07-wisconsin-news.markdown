@@ -16,19 +16,19 @@ webpage:
 I'm proud of myself for not looking dumb in the photo, or sounding dumb
 in my quote.
 
-(*edit 2017-07-10: Our research also got featured on the front page of
-the Wisconsin State Journal:*
-
-*[UW software aims to find and fix biased computer programs](http://host.madison.com/wsj/news/local/govt-and-politics/uw-software-aims-to-find-and-fix-biased-computer-programs/article_7f261c21-a107-5841-92b6-9ffbd69eca9a.html)*
-
-*Wisconsin State Journal gives scant attention to grad students; e.g., 
-Sam Drews is not mentioned at all.*)
-
 So that's the aforementioned "fame". The "riches" refer to a $1M NSF grant
 awarded to my advisor, Aws Albarghouthi, a couple of months ago.
 My research will be funded with 
 this grant; I am very grateful to Aws and the NSF for this opportunity.
 
 \\( \blacksquare\\)  
+
+**2017-07-12: Since posting, our research has gotten modest exposure in some other news outlets. I'm gathering links to articles here:**
+
+*Wisconsin State Journal---[UW software aims to find and fix biased computer programs](http://host.madison.com/wsj/news/local/govt-and-politics/uw-software-aims-to-find-and-fix-biased-computer-programs/article_7f261c21-a107-5841-92b6-9ffbd69eca9a.html)*
+
+*TechRepublic---[Fairness-verification tool helps avoid illegal bias in algorithms](http://www.techrepublic.com/article/fairness-verification-tool-helps-avoid-illegal-bias-in-algorithms/)*
+
+*StarTribune---[Wisconsin researchers awarded grant to fix algorithmic bias](http://www.startribune.com/wisconsin-researchers-awarded-grant-to-fix-algorithmic-bias/433648293/)*
 
 
