@@ -15,7 +15,7 @@ We aim to help practitioners build safe, reliable, and *ethical* machine learnin
 I studied math and physics as an undergrad. This background has 
 its benefits, though I've had a lot of catching up to do in CS.
 
-I hope that this blog evolves into something useful and interesting.
+I hope this blog evolves into something useful and interesting.
 
 ![profile photo]({{ site.url }}/assets/profile_photo.JPG)
 
