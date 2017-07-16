@@ -31,4 +31,4 @@ this grant; I am very grateful to Aws and the NSF for this opportunity.
 
 *StarTribune---[Wisconsin researchers awarded grant to fix algorithmic bias](http://www.startribune.com/wisconsin-researchers-awarded-grant-to-fix-algorithmic-bias/433648293/)*
 
-*San Francisco Chronicle---[Wisconsin researches awarded grant to fix algorithmic bias](http://www.sfchronicle.com/news/article/Wisconsin-researchers-awarded-grant-to-fix-11277846.php)*
+*San Francisco Chronicle---[Wisconsin researchers awarded grant to fix algorithmic bias](http://www.sfchronicle.com/news/article/Wisconsin-researchers-awarded-grant-to-fix-11277846.php)*
