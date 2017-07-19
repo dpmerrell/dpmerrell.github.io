@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Our Research gets Covered in the News"
+title:  "Algorithmic Fairness Research gets Covered in the News"
 date:   2017-07-07 14:20:00 -0500
 category: research 
 tags: [fairness, nsf, grant, funding, news] 

@@ -12,11 +12,7 @@ The idea of the course was to present some of the mathematical and statistical
 theory underlying machine learning. It was taught by 
 Dr. [Xiaojin (Jerry) Zhu](http://pages.cs.wisc.edu/~jerryzhu/).
 
-The material was interesting, though it was clear that the course was of secondary
-importance to Dr. Zhu---little work was required of us. It inevitably took a back
-seat to my research as the semester went on (though I did get high marks in the course).
-
-One of the few things we *did* have to do was a course project. Since CS761 was a 
+One of the things we had to do was a course project. Since CS761 was a 
 theory course, the project needed to be of a theoretical nature. Rather than
 merely *applying* machine learning to some problem, we were expected to peruse the
 theoretical machine learning literature and try making some contribution to the
