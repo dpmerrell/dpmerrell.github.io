@@ -21,10 +21,13 @@ Here's a [PDF of my one page r&eacute;sum&eacute;.]({{site.url}}/assets/dmerrell
 **2016-04 -- 2016-08** I rode my bike from Rome to Edinburgh over the course of four months. I sometimes cheated and took the train, but then again I took a very circuitous route that went as far east as Budapest and Prague. [(Google Photos Album)](https://goo.gl/photos/9ZaJGTrX1ocAGx617)
 
 
-# Hiking
+# Hiking/Backpacking
 
 **2017-07-03** While visiting family in Colorado, we climbed two "fourteeners". 
-[Here's the Google Photos album.](https://goo.gl/photos/QPfwSpYcBRjTTfDt5)
+[(Google Photos Album)](https://goo.gl/photos/QPfwSpYcBRjTTfDt5)
+
+**2017-07-23 -- 2017-07-30** Went backpacking in King's Canyon National Park (in the Sierra Nevada).
+[(Google Photos Album)](https://photos.app.goo.gl/t8XykVyqvMuYFnxA3)
 
 <br>
 
