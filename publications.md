@@ -8,7 +8,7 @@ permalink: /publications/
 
 **David Merrell**, Aws Albarghouthi, Loris D'Antoni. 
 [*Weighted Model Integration with Orthogonal Transformations*]({{site.url}}/assets/dmerrell-ijcai-2017.pdf).
-IJCAI 2017 (to appear).
+IJCAI 2017.
 
 <!---
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
