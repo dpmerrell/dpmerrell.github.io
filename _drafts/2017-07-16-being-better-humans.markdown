@@ -34,7 +34,7 @@ for corporations (and consumers).
 *I want to be kind, not mean.* \\
 *I want to be connected, not isolated.* \\
 *I want to be dependable, not flaky.* \\
-*I want to be generous, not stingy* \\
+*I want to be generous, not miserly* \\
 *I want satisfaction, not regret.*
 
 The best definition of hell: at the end of your life, 

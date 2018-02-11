@@ -16,7 +16,7 @@
 title: David Merrell's Blogsite
 email: dmerrell at cs dot wisc dot edu
 description: > #
-               I am pursuing a PhD in Computer Sciences at 
+               I am a Computer Science(s) grad student at 
                UW-Madison. This blog/website shows some of the
                things I've been up to.
 #  this means to ignore newlines until "baseurl:"
@@ -32,7 +32,7 @@ linkedin_username: David Merrell
 
 
 startyear: 2016
-thisyear: 2017
+thisyear: 2018
 
 # Build settings
 markdown: kramdown 

@@ -4,13 +4,24 @@ title: About
 permalink: /about/
 ---
 
-I am pursuing a PhD in [Computer Science(s)](http://cs.wisc.edu) at University of Wisconsin---Madison. 
-I am generously advised by [Aws Albarghouthi](http://pages.cs.wisc.edu/~aws/) and [Loris D'Antoni](http://pages.cs.wisc.edu/~loris/) of the 
-[madPL group.](https://www.facebook.com/uwmadpl/) 
+I am a [Computer Science(s)](http://cs.wisc.edu) graduate student at University of Wisconsin -- Madison. 
+
+I consistently find myself dwelling on these topics:
+
+* The capacity for computers to make us smarter---through optimization, machine learning, and AI.
+
+* The capacity for computers to make us stupider---through distraction and shallow thinking. 
+
+* Probability, statistics, and information theory.
+
+I have also dabbled in [programming languages research](https://www.facebook.com/uwmadpl/).
+
+<!---I am generously advised by [Aws Albarghouthi](http://pages.cs.wisc.edu/~aws/) and [Loris D'Antoni](http://pages.cs.wisc.edu/~loris/) of the 
+[madPL group.](https://www.facebook.com/uwmadpl/)-
 
 In our research we apply *program  verification* techniques to machine learning algorithms; 
 e.g., neural networks. 
-We aim to help practitioners build safe, reliable, and *ethical* machine learning systems.
+We aim to help practitioners build safe, reliable, and *ethical* machine learning systems.-->
 
 I studied math and physics as an undergrad. This background has 
 its benefits, though I've had a lot of catching up to do in CS.
