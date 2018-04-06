@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Variational Inference: A Review for Optimizers"
+date:   2018-02-15 14:52:00 -0500
+category: research 
+tags: [probability, statistics, optimization] 
+---
+
+
+Body
+
+[Link to asset]({{site.url}}/assets/myfile.pdf)
+
+\\( \blacksquare\\)  
+
