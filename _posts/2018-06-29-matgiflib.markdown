@@ -10,15 +10,13 @@ Some observations:
 
 * Among python programmers, Matplotlib is the dominant package for visualizing information. It is powerful in the hands of skilled users. 
 
-* Matplotlib is only able to make static plots.
-
-* Much of the time, information is best visualized in _animation_.
+* Matplotlib's native animation API isn't very straightforward---at least to me.
 
 * On the web, GIFs have become a very popular mode of animation.
 
-In light of these observations, I have built a python package which extends matplotlib to create GIFs.
+In light of these observations, I have built a python package which provides a very simple interface for making GIFs with Matplotlib.
 
-My guiding philosophy was to interfere as little as possible with typical Matplotlib programming patterns. Matplotlib expertise gets the programmer 99% of the way to making nice GIFs.
+My guiding philosophy was to interfere as little as possible with typical Matplotlib programming patterns (e.g., the pyplot interface). Basic familiarity with Matplotlib gets the programmer 99% of the way to making nice GIFs.
 
 There are still improvements to make, but the code is publicly available on Github:
 
