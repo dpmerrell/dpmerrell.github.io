@@ -10,9 +10,9 @@ Some observations:
 
 * Among python programmers, Matplotlib is the dominant package for visualizing information. It is powerful in the hands of skilled users. 
 
-* Matplotlib's native animation API isn't very straightforward---at least to me.
-
 * On the web, GIFs have become a very popular mode of animation.
+
+* Matplotlib's native animation API isn't very straightforward---at least to me.
 
 In light of these observations, I have built a python package which provides a very simple interface for making GIFs with Matplotlib.
 
