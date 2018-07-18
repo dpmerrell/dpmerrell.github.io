@@ -1,0 +1,16 @@
+---
+title: Study Notes 
+layout: page
+---
+
+<p>
+I compile these notes as I study various topics. Enjoy!
+</p>
+
+{% for mypage in site.pages  %}
+    {% if mypage.layout == 'note' %}
+        <p><a href="{{ mypage.url }}">{{ mypage.title }}</a></p>
+    {% endif %}
+{% endfor %}
+
+
