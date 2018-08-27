@@ -26,6 +26,7 @@ tags: [machine learning, optimization]
 
     - This simple idea does surprisingly well in practice.
 
+<!--
 * The maximum-margin linear classifier
 
     - Some intuition: 
@@ -75,7 +76,7 @@ tags: [machine learning, optimization]
     - A different perspective: Hinge loss minimization
 
 * Practical matters 
-
+-->
 
 
 <!---
