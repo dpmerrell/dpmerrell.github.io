@@ -6,7 +6,7 @@ permalink: /miscellaneous/
 
 ## Curriculum Vitae
 
-Here's a [PDF of my short CV]({{site.url}}/assets/dmerrell_cv.pdf)
+[A short CV]({{site.url}}/assets/cv/dmerrell_cv.pdf)
 
 <br>
 
@@ -90,7 +90,7 @@ acquaintances and engaged in some tourism.
 
 ## PGP Public key
 
-[pgp-public-key.txt]({{site.url}}/assets/dmerrell-pgp-public-key.txt)
+[pgp-public-key.txt]({{site.url}}/assets/misc/dmerrell-pgp-public-key.txt)
 
 <!---
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)

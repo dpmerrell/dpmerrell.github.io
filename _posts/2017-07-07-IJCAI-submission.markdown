@@ -24,7 +24,7 @@ It's kind of neat---it relies on QR-factorization, Givens rotations,
 and Pythagorean triples. It encounters some fundamental principles
 of probability, i.e., the Skitovitch-Darmois Theorem. 
 
-[Here's a link to the camera-ready submission.]({{site.url}}/assets/dmerrell-ijcai-2017.pdf)
+[Here's a link to the camera-ready submission.]({{site.url}}/assets/publications/dmerrell-ijcai-2017.pdf)
 
 
 \\( \blacksquare\\)  

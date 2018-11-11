@@ -21,7 +21,7 @@ its benefits, though I've had a lot of catching up to do in CS.
 
 I hope this blog evolves into something useful and interesting.
 
-![profile photo]({{ site.url }}/assets/profile_photo.JPG)
+![profile photo]({{ site.url }}/assets/misc/profile_photo.JPG)
 
 <!---
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)

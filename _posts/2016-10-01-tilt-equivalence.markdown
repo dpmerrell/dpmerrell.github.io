@@ -17,11 +17,11 @@ are "rotated" or "tilted" with respect to the axes.
 
 Below are links to some of my research notes:
 
-[Rotated formulas yield the same probabilities.]({{site.url}}/assets/tilt-equivalence.pdf)
+[Rotated formulas yield the same probabilities.]({{site.url}}/assets/research-notes/tilt-equivalence.pdf)
 
-[The Skitovitch-Darmois Theorem says we can only do this with Gaussian variables.]({{site.url}}/assets/skitovitch-darmois.pdf)
+[The Skitovitch-Darmois Theorem says we can only do this with Gaussian variables.]({{site.url}}/assets/research-notes/skitovitch-darmois.pdf)
 
-[How to generate rotation matrices with rational entries.]({{site.url}}/assets/rational-householder.pdf)
+[How to generate rotation matrices with rational entries.]({{site.url}}/assets/research-notes/rational-householder.pdf)
 
 Note: we ended up doing the analogous thing with Givens Rotations, rather than Householder Reflections.
 

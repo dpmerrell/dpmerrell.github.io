@@ -24,7 +24,7 @@ early game build orders. I'll try to answer this question: what choices maximize
 military strength within the first few minutes of play? This is useful to know,
 whether you're trying to rush your opponent or defend yourself from a rush.
 
-[Anyways, here's a link to my proposal.]({{site.url}}/assets/dmerrell-proposal.pdf)
+[Anyways, here's a link to my proposal.]({{site.url}}/assets/coursework/dmerrell-proposal.pdf)
 Hopefully it gets approved and I can get to work on it.
 \\( \blacksquare\\)  
 

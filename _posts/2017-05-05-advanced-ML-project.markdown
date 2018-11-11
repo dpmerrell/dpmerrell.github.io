@@ -34,7 +34,7 @@ the subject matter.
 
 I felt kind of proud of our work. And it got a decent score. So I've decided to post it here.
 
-[Here's a link to our completed project.]({{site.url}}/assets/merrell-sharma-cs761-project-2017.pdf)
+[Here's a link to our completed project.]({{site.url}}/assets/coursework/merrell-sharma-cs761-project-2017.pdf)
 
 \\( \blacksquare\\)  
 
