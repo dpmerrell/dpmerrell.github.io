@@ -41,3 +41,6 @@ theme: minima
 gems: 
   - jekyll-sitemap
 
+#plugins:
+#  - jekyll-seo-tag
+

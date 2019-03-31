@@ -4,9 +4,14 @@ title: Miscellaneous
 permalink: /miscellaneous/
 ---
 
-## Curriculum Vitae
+<!-- ### Curriculum Vitae
 
 [A short CV]({{site.url}}/assets/cv/dmerrell_cv.pdf)
+-->
+
+### R&eacute;sum&eacute; 
+
+[One page, PDF]({{site.url}}/assets/cv/dmerrell_resume.pdf)
 
 <br>
 
@@ -48,7 +53,7 @@ permalink: /miscellaneous/
 
 [EconTalk (Russ Roberts)](http://www.econtalk.org/)
 
-[Waking Up (Sam Harris)](https://samharris.org/podcast/)
+[Making Sense (Sam Harris)](https://samharris.org/podcast/)
 
 [How I Built This (NPR)](https://www.npr.org/podcasts/510313/how-i-built-this)
 

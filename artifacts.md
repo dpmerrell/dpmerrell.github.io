@@ -4,7 +4,7 @@ title: Artifacts
 permalink: /publications/
 ---
 
-## Conference papers
+## Papers
 
 * **David Merrell**, Aws Albarghouthi, Loris D'Antoni. 
 [*Weighted Model Integration with Orthogonal Transformations*]({{site.url}}/assets/publications/dmerrell-ijcai-2017.pdf).
@@ -14,7 +14,7 @@ IJCAI 2017.
 ## Presentations
 
 * [IJCAI 2017 talk]({{site.url}}/assets/presentations/wmi-ijcai-2017-08-17.pdf)
-
+* [Thomson Lab meeting talk (2019-03-29)](https://docs.google.com/presentation/d/1hMKZLL2EMppx7Bqhs5bmeLOxZNErOW0Qd0WDGuLMAC4/edit?usp=sharing)
 
 ## Posters
 
@@ -30,7 +30,7 @@ IJCAI 2017.
 
 * [Variational inference]({{site.url}}/assets/research-notes/vi-review.pdf)
 
-* [Graph Structure Learning]({{site.url}}/assets/research-notes/Structure-Learning-Precision.html)
+* [Graphical LASSO]({{site.url}}/assets/research-notes/Structure-Learning-Precision.html)
 
 ## Coursework
 
@@ -43,7 +43,6 @@ IJCAI 2017.
     - [A fun homework assignment]({{site.url}}/assets/coursework/cs761-hw3.pdf)
     - [Course project]({{site.url}}/assets/coursework/merrell-sharma-cs761-project-2017.pdf)
 
-
 ## Visualizations
 
 * GIFs:
@@ -51,6 +50,9 @@ IJCAI 2017.
     - [Diffusion equation]({{site.url}}/assets/visualizations/diffusion.gif)
     - [Mandelbrot set zoom]({{site.url}}/assets/visualizations/mandelbrot_colornorm.gif)
     - [N-body Newtonian gravity]({{site.url}}/assets/visualizations/gravity.gif)
+    - [Variational Inference: outcome space]({{site.url}}/assets/visualizations/vi_dists.gif)
+    - [Variational Inference: variational parameter space]({{site.url}}/assets/visualizations/kl_minimization.gif)
+    - [MCMC sampling]({{site.url}}/assets/visualizations/mcmc_sampling.gif)
 
 
 
