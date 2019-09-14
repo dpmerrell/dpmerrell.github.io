@@ -73,7 +73,7 @@ permalink: /miscellaneous/
 ## Photos
 
 **2019-08** Climbed Longs Peak with my dad in Colorado.
-[(Google Photos Album)](https://photos.app.goo.gl/MyFujuMTdAs4YPX99x)
+[(Google Photos Album)](https://photos.app.goo.gl/MyFujuMTdAs4YPX99)
 
 **2018-08** Went backpacking in North Cascades National Park.
 [(Google Photos Album)](https://photos.app.goo.gl/GpaPURX7irQWjg1G8)
