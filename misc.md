@@ -25,11 +25,12 @@ permalink: /miscellaneous/
 
 # Nonfiction:
 
+[Antifragile (Nassim Taleb)](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto-ebook/dp/B0083DJWGO/ref=sr_1_1?s=books&ie=UTF8&qid=1518379447&sr=1-1&keywords=antifragile)
+
 [Homo Deus: A Brief History of Tomorrow (Yuval Noah Harari)](https://www.amazon.com/dp/B01BBQ33VE/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 
 [Algorithms to Live By (Brian Christian, Tom Griffiths)](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1250118360/ref=sr_1_1?s=books&ie=UTF8&qid=1518379407&sr=1-1&keywords=algorithms+to+live+by)
 
-[Antifragile (Nassim Taleb)](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto-ebook/dp/B0083DJWGO/ref=sr_1_1?s=books&ie=UTF8&qid=1518379447&sr=1-1&keywords=antifragile)
 
 [Surely You're Joking, Mr. Feynman! (Richard Feynman)](https://www.amazon.com/Surely-Feynman-Adventures-Curious-Character/dp/0393316041)
 
