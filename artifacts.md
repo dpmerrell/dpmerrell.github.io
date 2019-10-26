@@ -30,8 +30,6 @@ IJCAI 2017.
 
 * [Variational inference]({{site.url}}/assets/research-notes/vi-review.pdf)
 
-* [Graphical LASSO]({{site.url}}/assets/research-notes/Structure-Learning-Precision.html)
-
 ## Coursework
 
 * Optimization course project
