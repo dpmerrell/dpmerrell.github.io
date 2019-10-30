@@ -26,4 +26,4 @@ gem "minima"
 gem "jekyll-sitemap"
 gem "redcarpet"
 gem "github-pages", group: :jekyll_plugins
-
+gem "nokogiri", ">= 1.10.4"
