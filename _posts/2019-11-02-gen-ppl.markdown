@@ -10,10 +10,10 @@ I spent the past couple of months learning a new [probabilistic programming lang
 
 It's called Gen. It's developed by [a group at MIT CSAIL](http://probcomp.csail.mit.edu/). Some useful links:
 
-* The Gen website: [https://probcomp.github.io/Gen/]()
-* The Gen docs: [https://probcomp.github.io/Gen/dev/]()
-* Gen's GitHub repository: [https://github.com/probcomp/Gen]()
-* Gen's 2019 PLDI paper: [https://dl.acm.org/citation.cfm?id=3314642]()
+* The Gen website: [https://probcomp.github.io/Gen/](https://probcomp.github.io/Gen/)
+* The Gen docs: [https://probcomp.github.io/Gen/dev/](https://probcomp.github.io/Gen/dev/)
+* Gen's GitHub repository: [https://github.com/probcomp/Gen](https://github.com/probcomp/Gen)
+* Gen's 2019 PLDI paper: [https://dl.acm.org/citation.cfm?id=3314642](https://dl.acm.org/citation.cfm?id=3314642)
 
 A detail worth knowing: Gen is implemented on top of [Julia](https://julialang.org/). (One reason it took me a couple of months to learn Gen, rather than a couple of weeks, was that I had to learn Julia. Which wasn't so bad, because it turns out Julia is a pretty awesome language &#128512;)
 
