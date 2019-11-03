@@ -1,0 +1,43 @@
+---
+layout: post
+title:  Probabilistic Programming with Gen 
+date:   2019-11-02 19:00:00 -0500
+category: personal 
+tags: [probability, programming, machine learning, bayesian] 
+---
+
+I spent the past couple of months learning a new [probabilistic programming language](https://en.wikipedia.org/wiki/Probabilistic_programming).
+
+It's called Gen. It's developed by [a group at MIT CSAIL](http://probcomp.csail.mit.edu/). Some useful links:
+
+* The Gen website: [https://probcomp.github.io/Gen/]()
+* The Gen docs: [https://probcomp.github.io/Gen/dev/]()
+* Gen's GitHub repository: [https://github.com/probcomp/Gen]()
+* Gen's 2019 PLDI paper: [https://dl.acm.org/citation.cfm?id=3314642]()
+
+A detail worth knowing: Gen is implemented on top of [Julia](https://julialang.org/). (One reason it took me a couple of months to learn Gen, rather than a couple of weeks, was that I had to learn Julia. Which wasn't so bad, because it turns out Julia is a pretty awesome language &#128512;)
+
+Most probabilistic programming languages try to manage the complexities of inference in an automatic, black-box fashion.
+This sounds good in the abstract&mdash;probabilistic inference is difficult&mdash;however, in practice this usually leads to a tradeoff between expressive power and inference tractability.
+
+For example, [Stan](https://mc-stan.org/) uses Hamiltonian MCMC _to the exclusion of all other inference techniques_. Not all models lend themselves to Hamiltonian MCMC. In consequence, Stan's developers have [restricted the language to a set of models that _can_ be served by Hamiltonian MCMC.](https://discourse.mc-stan.org/t/bayesian-nonparametric-modeling/2674/4) (Indeed, Stan is most widely-used for rather straightforward hierarchical models.)
+
+In contrast to these automatic/black-box design principles, Gen was designed with a "programmable inference" philosophy in mind. Roughly speaking:
+
+* Gen is equipped with a library of inference 'building blocks'
+* Gen makes it easy to assemble these building blocks into an inference strategy that works well for your model.
+
+This is very appealing in a research setting, where we often find ourselves dealing with totally new models.
+
+I learned Gen by tinkering around in some Jupyter notebooks. Here are a couple that I've cleaned up:
+
+1. [A simple coin-flip model.](https://github.com/dpmerrell/gen-experiments/blob/master/Gen-Experiment-1-Weighted-Coin.ipynb)
+2. [A Gaussian mixture model.](https://github.com/dpmerrell/gen-experiments/blob/master/Gen-Experiment-2-Gaussian-Mixture.ipynb) This notebook, in particular, demonstrates Gen's power and flexibility. I implemented a heuristic-guided sampling strategy.
+
+You may or may not find these notebooks useful in your own exploration.
+
+I'll add more notebooks to this list as I polish them up. 
+(Some unpolished ones are in the repository if you really want to look at them.)
+
+\\( \blacksquare\\)
+
