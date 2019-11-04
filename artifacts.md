@@ -10,16 +10,32 @@ permalink: /publications/
 [*Weighted Model Integration with Orthogonal Transformations*]({{site.url}}/assets/publications/dmerrell-ijcai-2017.pdf).
 IJCAI 2017.
 
+<br>
+
+------
+
+<br>
 
 ## Presentations
 
 * [IJCAI 2017 talk]({{site.url}}/assets/presentations/wmi-ijcai-2017-08-17.pdf)
 * [Thomson Lab meeting talk (2019-03-29)](https://docs.google.com/presentation/d/1hMKZLL2EMppx7Bqhs5bmeLOxZNErOW0Qd0WDGuLMAC4/edit?usp=sharing)
 
+<br>
+
+------
+
+<br>
+
 ## Posters
 
 * [IJCAI 2017 poster]({{site.url}}/assets/posters/poster-ijcai-2017-08-17.pdf)
 
+<br>
+
+------
+
+<br>
 
 ## Assorted notes
 
@@ -29,6 +45,12 @@ IJCAI 2017.
     - [The Skitovitch-Darmois theorem]({{site.url}}/assets/research-notes/skitovitch-darmois.pdf)
 
 * [Variational inference]({{site.url}}/assets/research-notes/vi-review.pdf)
+
+<br>
+
+------
+
+<br>
 
 ## Coursework
 
@@ -40,6 +62,12 @@ IJCAI 2017.
 * Machine learning
     - [A fun homework assignment]({{site.url}}/assets/coursework/cs761-hw3.pdf)
     - [Course project]({{site.url}}/assets/coursework/merrell-sharma-cs761-project-2017.pdf)
+
+<br>
+
+------
+
+<br>
 
 ## Visualizations
 

@@ -9,7 +9,7 @@ permalink: /miscellaneous/
 [A short CV]({{site.url}}/assets/cv/dmerrell_cv.pdf)
 -->
 
-### R&eacute;sum&eacute; 
+# R&eacute;sum&eacute; 
 
 [One page, PDF]({{site.url}}/assets/cv/dmerrell_resume.pdf)
 
@@ -19,42 +19,58 @@ permalink: /miscellaneous/
 
 <br>
 
-## Five Favorites:
+# Some Favorites (definitely not comprehensive)
 
-(Definitely not comprehensive)
-
-# Nonfiction:
+## Nonfiction:
 
 [Antifragile (Nassim Taleb)](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto-ebook/dp/B0083DJWGO/ref=sr_1_1?s=books&ie=UTF8&qid=1518379447&sr=1-1&keywords=antifragile)
 
 [Homo Deus: A Brief History of Tomorrow (Yuval Noah Harari)](https://www.amazon.com/dp/B01BBQ33VE/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 
-[Algorithms to Live By (Brian Christian, Tom Griffiths)](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1250118360/ref=sr_1_1?s=books&ie=UTF8&qid=1518379407&sr=1-1&keywords=algorithms+to+live+by)
-
-
 [Surely You're Joking, Mr. Feynman! (Richard Feynman)](https://www.amazon.com/Surely-Feynman-Adventures-Curious-Character/dp/0393316041)
+
+[The Righteous Mind (Jonathan Haidt)](https://www.amazon.com/gp/product/B0052FF7YM/ref=ppx_yo_dt_b_d_asin_title_o03?ie=UTF8&psc=1)
 
 [Man's Search for Meaning (Viktor Frankl)](https://www.amazon.com/Mans-Search-Meaning-Viktor-Frankl-ebook/dp/B009U9S6FI/ref=sr_1_3?s=books&ie=UTF8&qid=1518379497&sr=1-3&keywords=man%27s+search+for+meaning)
 
+[Thinking, Fast and Slow (Daniel Kahneman)](https://www.amazon.com/dp/B00555X8OA/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 
-# Fiction (recently read)
+[12 Rules for Life (Jordan Peterson)](https://www.amazon.com/gp/product/B01FPGY5T0/ref=ppx_yo_dt_b_d_asin_title_o05?ie=UTF8&psc=1)
+
+[Algorithms to Live By (Brian Christian, Tom Griffiths)](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1250118360/ref=sr_1_1?s=books&ie=UTF8&qid=1518379407&sr=1-1&keywords=algorithms+to+live+by)
+
+## Fiction 
 
 [East of Eden (John Steinbeck)](https://www.amazon.com/dp/B001BC5HXG/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 
 [Cryptonomicon (Neal Stephenson)](https://www.amazon.com/Cryptonomicon-Neal-Stephenson-ebook/dp/B000FC11A6/ref=sr_1_1?s=books&ie=UTF8&qid=1518379527&sr=1-1&keywords=cryptonomicon)
 
-[The Three-Body Problem (Liu Cixin)](https://www.amazon.com/Three-Body-Problem-Cixin-Liu/dp/0765382032) (with its sequels)
+[Snow Crash (Neal Stephenson)](https://www.amazon.com/Snow-Crash-Novel-Neal-Stephenson-ebook/dp/B000FBJCJE/ref=sr_1_1?keywords=neal+stephenson+snow+crash&qid=1572813735&s=digital-text&sr=1-1)
+
+[The Three-Body Problem (Liu Cixin)](https://www.amazon.com/Three-Body-Problem-Cixin-Liu/dp/0765382032) 
 
 [Flowers for Algernon (Daniel Keyes)](https://www.amazon.com/dp/B003WJQ74E/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 
+[Dune (Frank Herbert)](https://www.amazon.com/Dune-Frank-Herbert-ebook/dp/B00B7NPRY8/ref=sr_1_1?keywords=herbert+dune&qid=1572813486&s=digital-text&sr=1-1)
+
+[The Way of Kings (Brandon Sanderson)](https://www.amazon.com/Way-Kings-Stormlight-Archive-Book-ebook/dp/B003P2WO5E/ref=sr_1_1?keywords=brandon+sanderson+way+of+kings&qid=1572813417&s=digital-text&sr=1-1)
+
+[Mistborn (Brandon Sanderson)](https://www.amazon.com/gp/product/B002GYI9C4/ref=ppx_yo_dt_b_d_asin_title_o01?ie=UTF8&psc=1)
+
 [Brave New World (Aldous Huxley)](https://www.amazon.com/Brave-New-World-Aldous-Huxley-ebook/dp/B00JTYQJ3K/ref=sr_1_1?s=books&ie=UTF8&qid=1518379598&sr=1-1&keywords=brave+new+world)
 
+[Thus Spake Zarathustra (Friedrich Nietzsche)](https://www.amazon.com/Thus-Spake-Zarathustra-book-none-ebook/dp/B0082USJ9Y/ref=sr_1_14?crid=3FB03NPPBG5LV&keywords=thus+spake+zarathustra+by+friedrich+nietzsche&qid=1572814055&sprefix=thus+spake+zar%2Caps%2C152&sr=8-14)
 
-# Podcasts
+## Podcasts
 
 [EconTalk (Russ Roberts)](http://www.econtalk.org/)
 
 [Making Sense (Sam Harris)](https://samharris.org/podcast/)
+
+[The Ezra Klein Show (Vox, Ezra Klein)](https://www.vox.com/ezra-klein-show-podcast)
+
+[Intelligence Squared](https://www.intelligencesquared.com/podcasts/)
+(the title is pretentious, but the content tends to be good!)
 
 [How I Built This (NPR)](https://www.npr.org/podcasts/510313/how-i-built-this)
 
@@ -70,7 +86,7 @@ permalink: /miscellaneous/
 <br>
 
 
-## Photos
+# Photos
 
 **2019-08** Climbed Longs Peak with my dad in Colorado.
 [(Google Photos Album)](https://photos.app.goo.gl/MyFujuMTdAs4YPX99)
