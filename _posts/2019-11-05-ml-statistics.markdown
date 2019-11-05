@@ -6,7 +6,7 @@ category: personal
 tags: [machine learning, statistics, ontology, opinion] 
 ---
 
-I say "hair-splitting," but I think the philosophical differences between these fields is actually pretty profound.
+I say "hair-splitting," but I think the philosophical difference between these fields is actually pretty profound.
 
 <br>
 
