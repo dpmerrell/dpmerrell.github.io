@@ -80,3 +80,7 @@ tags: [machine learning, decision making, humans, organizations, management]
 
 \\( \blacksquare\\)  
 
+<br>
+
+PS: It's so funny, I checked today's XKCD _after_ writing this post. 
+    It turned out to be insanely relevant: [https://xkcd.com/2225/](https://xkcd.com/2225/)
