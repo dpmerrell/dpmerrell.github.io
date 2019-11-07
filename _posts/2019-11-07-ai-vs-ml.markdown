@@ -1,0 +1,108 @@
+---
+layout: post
+title:  "Seeing Through the AI Hype: Part I.\tAI vs. ML"
+date:   2019-11-07 00:00:00 -0500
+category: personal 
+tags: [ai, machine learning, ] 
+---
+
+# **AI and ML &ndash; much-hyped phenomena**
+
+AI and machine learning are hot topics these days.
+
+_Too hot,_ in some respects. 
+Sensational articles are published every day with titles like: 
+
+_"Scientists have taught an AI to_ \<solve problem X\> _,"_ or 
+
+_"In 5 years, AI will_ \<do task Y\> _for you"._
+
+These articles usually contain multiple kinds of journalistic ignorance.
+
+I plan to write several posts that cut through the crap and provide an informed perspective 
+on the state of AI and Machine Learning. 
+We'll see where the advances have been truly significant, and where they've been oversold.
+
+In this first post, I'm going to lay some groundwork by answering a common question:
+
+> **What is the difference between AI and machine learning?**
+
+It's a very reasonable question. 
+The two terms appear to be related.
+Some people use them interchangeably; others seem to make subtle distinctions between them.
+
+The truth is that different people have different conceptualizations for these terms.
+However, we can be certain about one thing: if you _do_ use them interchangeably, then your concepts are too coarse-grained&mdash;and you will have difficulty seeing through the hype of AI.
+
+I'll present my personal conceptual framework, and show how it can improve judgment on these topics. 
+
+<br>
+
+# **Artificial Intelligence**
+
+Artificial intelligence is a field of work built around this central question:
+
+> How do we design an **autonomous agent** capable of accomplishing some task, in some environment?
+
+That is, the goal of AI research is to design systems that do the following things:
+
+* receive **information** from the environment;
+* use that information to update a **model** of the environment (and itself);
+* use that model to make **decisions**&mdash;usually toward accomplishing some task, or maximizing some utility;
+* **act** on those decisions.
+
+I refer to such systems as _autonomous agents_, or _intelligent agents_.
+
+To illustrate: one of the first diagrams you'll see when you open Russell and Norvig's classic textbook[^1]
+looks like this:
+
+<br> 
+
+![goal-seeking agent]({{ site.baseurl }}/assets/images/Model_based_goal_based_agent.png)
+
+<br>
+
+[^1]: _Artificial Intelligence; A Modern Approach_. Widely considered the "bible" of AI.
+
+
+There are two key factors that decide whether this is _really hard_: 
+
+* The complexity of the **environment**. At one extreme: an environment may be digital, controlled, and totally predictable (e.g., an electronic tic-tac-toe board).
+  At the other extreme, the environment may be _the physical world_, with all of its uncertainty, randomness, and perhaps even _malice_ (e.g., a road network in traffic conditions).
+* the complexity of the **task**. Playing tic-tac-toe is relatively simple. Safely driving a car through a city on congested roads is much more complex.
+
+For most practical tasks and environments, autonomous agents are **extremely difficult** to design. 
+There are many subproblems to solve, each of which is typically very challenging.
+(The subproblems are usually interdependent, which further complicates things.)
+These subproblems include:
+
+* perception
+* pattern recognition
+* prediction
+* reasoning and inference 
+* making decisions.
+
+The earliest work in AI formulated these tasks as _logic problems_.
+In essence, they assumed intelligence was little more than the ability to make logical inferences.
+These attempts ultimately failed&mdash;their foundational premise was flawed.
+
+More recently, AI was reformulated on the idea that _intelligent agents should improve with experience_.
+An agent could be built in an initial, "child-like" state, and _trained_ to a state of intelligent maturity.
+ 
+
+<br>
+
+## **Machine Learning** (TODO)
+
+This is where ML enters the picture.
+
+Most people who work in AI restrict themselves to one of those **subproblems**.
+
+
+<br>
+
+## **Uncovering the hype** (TODO)
+
+
+\\( \blacksquare\\)  
+
