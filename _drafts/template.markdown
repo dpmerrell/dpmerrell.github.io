@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "TITLE"
-date:   YYYT-MM-DD HH:MM:SS -0500
+date:   YYYY-MM-DD 00:00:00 -0500
 category: personal 
 tags: [{comma-separatedstrings}] 
 ---
