@@ -42,11 +42,16 @@ Nietzsche: acknowledges the Will to Truth, but asserts the superiority of Will t
 
 American Pragmatists: identify truth with usefulness. Seems like a potentially dangerous conflation.
 
-## Some important examples (TODO)
+## Some important cases (TODO)
 
 Free will
 
+The equality of individuals
+
+Human rights
+
 Religiosity; belief in God
+
 
 \\( \blacksquare\\)  
 
