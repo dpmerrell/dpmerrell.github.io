@@ -42,6 +42,7 @@ Nietzsche: acknowledges the Will to Truth, but asserts the superiority of Will t
 However, he also says the following:
 > How much truth does a spirit endure, how much truth does it dare? More and more that became for me the real measure of value. Error (faith in the ideal) is not blindness, error is cowardice.
 > &ndash; Nietzsche; *Ecce Homo*
+
 Some context shows that this isn't a contradiction. 
 The quote is one small part of a larger argument that philosophical depth requires courage.
 
