@@ -39,8 +39,13 @@ We are unable to incorporate arbitrary amounts of truth into our decision-making
 Karl Popper famously made an astute observation: that the only propositions worth considering are _those capable of being proven false_. This constitutes a heuristic for rejecting certain classes of useless propositions.
 
 Nietzsche: acknowledges the Will to Truth, but asserts the superiority of Will to Power.
+However, he also says the following:
+> How much truth does a spirit endure, how much truth does it dare? More and more that became for me the real measure of value. Error (faith in the ideal) is not blindness, error is cowardice.
+> &ndash; Nietzsche; *Ecce Homo*
+Some context shows that this isn't a contradiction. 
+The quote is one small part of a larger argument that philosophical depth requires courage.
 
-American Pragmatists: identify truth with usefulness. Seems like a potentially dangerous conflation.
+American Pragmatists: _identify_ truth with usefulness. Seems like a potentially dangerous conflation.
 
 ## Some important cases (TODO)
 
@@ -48,10 +53,11 @@ Free will
 
 The equality of individuals
 
-Human rights
-
 Religiosity; belief in God
 
+Human rights
+
+Moral progress in history
 
 \\( \blacksquare\\)  
 
