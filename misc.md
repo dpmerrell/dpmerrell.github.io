@@ -41,15 +41,19 @@ permalink: /miscellaneous/
 
 ## Fiction 
 
-[East of Eden (John Steinbeck)](https://www.amazon.com/dp/B001BC5HXG/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
-
 [Cryptonomicon (Neal Stephenson)](https://www.amazon.com/Cryptonomicon-Neal-Stephenson-ebook/dp/B000FC11A6/ref=sr_1_1?s=books&ie=UTF8&qid=1518379527&sr=1-1&keywords=cryptonomicon)
 
 [Snow Crash (Neal Stephenson)](https://www.amazon.com/Snow-Crash-Novel-Neal-Stephenson-ebook/dp/B000FBJCJE/ref=sr_1_1?keywords=neal+stephenson+snow+crash&qid=1572813735&s=digital-text&sr=1-1)
 
+[East of Eden (John Steinbeck)](https://www.amazon.com/dp/B001BC5HXG/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+
 [The Three-Body Problem (Liu Cixin)](https://www.amazon.com/Three-Body-Problem-Cixin-Liu/dp/0765382032) 
 
 [Flowers for Algernon (Daniel Keyes)](https://www.amazon.com/dp/B003WJQ74E/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+
+[Thus Spake Zarathustra (Friedrich Nietzsche)](https://www.amazon.com/Thus-Spake-Zarathustra-book-none-ebook/dp/B0082USJ9Y/ref=sr_1_14?crid=3FB03NPPBG5LV&keywords=thus+spake+zarathustra+by+friedrich+nietzsche&qid=1572814055&sprefix=thus+spake+zar%2Caps%2C152&sr=8-14)
+
+[Brave New World (Aldous Huxley)](https://www.amazon.com/Brave-New-World-Aldous-Huxley-ebook/dp/B00JTYQJ3K/ref=sr_1_1?s=books&ie=UTF8&qid=1518379598&sr=1-1&keywords=brave+new+world)
 
 [Dune (Frank Herbert)](https://www.amazon.com/Dune-Frank-Herbert-ebook/dp/B00B7NPRY8/ref=sr_1_1?keywords=herbert+dune&qid=1572813486&s=digital-text&sr=1-1)
 
@@ -57,27 +61,25 @@ permalink: /miscellaneous/
 
 [Mistborn (Brandon Sanderson)](https://www.amazon.com/gp/product/B002GYI9C4/ref=ppx_yo_dt_b_d_asin_title_o01?ie=UTF8&psc=1)
 
-[Brave New World (Aldous Huxley)](https://www.amazon.com/Brave-New-World-Aldous-Huxley-ebook/dp/B00JTYQJ3K/ref=sr_1_1?s=books&ie=UTF8&qid=1518379598&sr=1-1&keywords=brave+new+world)
-
-[Thus Spake Zarathustra (Friedrich Nietzsche)](https://www.amazon.com/Thus-Spake-Zarathustra-book-none-ebook/dp/B0082USJ9Y/ref=sr_1_14?crid=3FB03NPPBG5LV&keywords=thus+spake+zarathustra+by+friedrich+nietzsche&qid=1572814055&sprefix=thus+spake+zar%2Caps%2C152&sr=8-14)
 
 ## Podcasts
 
 [EconTalk (Russ Roberts)](http://www.econtalk.org/)
 
-[Making Sense (Sam Harris)](https://samharris.org/podcast/)
-
 [The Ezra Klein Show (Vox, Ezra Klein)](https://www.vox.com/ezra-klein-show-podcast)
 
-[Intelligence Squared](https://www.intelligencesquared.com/podcasts/)
-(the title is pretentious, but the content tends to be good!)
+[Intelligence Squared US](https://www.intelligencesquaredus.org/podcasts)
+(the title is pretentious, but many of the debates are good!)
+
+[Oh No Ross and Carrie (Ross Blocher, Carrie Poppy)](http://ohnopodcast.com/)
 
 [How I Built This (NPR)](https://www.npr.org/podcasts/510313/how-i-built-this)
+
+[Making Sense (Sam Harris)](https://samharris.org/podcast/)
 
 [Planet Money (NPR)](https://www.npr.org/sections/money/)
 
 [The Art of Manliness (Brett McKay)](https://www.artofmanliness.com/category/podcast/)
-
 
 <br>
 
@@ -88,7 +90,7 @@ permalink: /miscellaneous/
 
 # Photos
 
-**2019-08** Climbed Longs Peak with my dad in Colorado.
+**2019-08** Climbed Longs Peak with my dad.
 [(Google Photos Album)](https://photos.app.goo.gl/MyFujuMTdAs4YPX99)
 
 **2018-08** Went backpacking in North Cascades National Park.
@@ -101,7 +103,7 @@ acquaintances and engaged in some tourism.
 **2017-07** Went backpacking in King's Canyon National Park.
 [(Google Photos Album)](https://photos.app.goo.gl/t8XykVyqvMuYFnxA3)
 
-**2017-07** Climbed two "fourteeners" while visiting family in Colorado. 
+**2017-07** Climbed two "fourteeners" while visiting family. 
 [(Google Photos Album)](https://goo.gl/photos/QPfwSpYcBRjTTfDt5)
 
 **2016-04 -- 2016-08** I rode my bike from Rome to Edinburgh over the course of four months. I sometimes cheated and took the train, but then again I took a very circuitous route that went as far east as Budapest and Prague. [(Google Photos Album)](https://goo.gl/photos/9ZaJGTrX1ocAGx617)
