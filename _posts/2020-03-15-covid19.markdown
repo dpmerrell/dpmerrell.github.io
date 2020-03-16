@@ -39,7 +39,7 @@ tags: [news, virus, covid19]
     - The implication is that our "hundreds" statistics will probably reach "hundreds of thousands" or "millions" in short order.
 * It also took me a while to realize the discrepancy between *confirmed cases* and *actual cases*.
     - The gap is especially wide in the US, where testing coverage has been conspicuously poor.
-    - Between this and the virus's symptom-free contagious period, it's fair to say that the disease is much more widespread than reported, and has "snuck up" on us.
+    - Between this and the virus's asymptomatic contagious period, it's fair to say that the disease is much more widespread than reported, and has "snuck up" on us.
 * The at-risk population is larger than I initially thought, too.
     - The age threshold is quoted around 50 (lower than I thought; I imagined a number more like 60 or 70)
     - Other risk factors: obesity, asthma, cardiac or respiratory conditions.
