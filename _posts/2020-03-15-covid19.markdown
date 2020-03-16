@@ -1,0 +1,109 @@
+---
+layout: post
+title:  "COVID-19 Notes"
+date:   2020-03-15 00:00:00 -0500
+category: personal 
+tags: [news, virus, covid19] 
+---
+
+## Some favorite resources
+
+* [WHO situation reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/)
+* [Johns Hopkins COVID-19 interactive map](https://systems.jhu.edu/research/public-health/2019-ncov-map-faqs/)
+* [Atul Gawande's tweets](https://twitter.com/Atul_Gawande)
+* [UMN's Center for Infectious Disease Research and Policy](http://www.cidrap.umn.edu/covid-19)
+* [The /r/Coronavirus subreddit](https://www.reddit.com/r/Coronavirus/)
+
+## Things that make my eyes roll
+
+* Empty shelves on my weekly grocery run
+
+![Trader Joe's panic-buying]({{ site.baseurl }}/assets/images/tjs-empty.jpg){:height="200px" :width="300px"} 
+
+* People's bizarre obsession over toilet paper
+* These assholes: 
+    - ["He has 17,700 bottles of hand sanitizer and nowhere to sell them"](https://www.nytimes.com/2020/03/14/technology/coronavirus-purell-wipes-amazon-sellers.html) 
+    - [COVID-19 positive Kentucky man refuses to self isolate](https://www.kentucky.com/news/health-and-medicine/article241200076.html) 
+* Walking past bars/restaurants/shops with the usual number of customers
+
+
+## A rapidly evolving phenomenon
+
+* My perspective on COVID-19 has changed dramatically, and quickly:
+    - Me five days ago: "It's a good thing I don't interact with many old people. 
+      Otherwise I might be worried about this coronavirus thing."
+    - Me right now: "I think I'll work from home for the foreseeable future."
+* Despite my technical background, it still took some time to wrap my brain around the *exponential behavior* of emerging pandemics.
+    - The old "chess board/grains of rice" fable comes to mind.
+    - The "fold paper x times to reach a million miles" illustration is also useful.
+    - The implication is that our "hundreds" statistics will probably reach "hundreds of thousands" or "millions" in short order.
+* It also took me a while to realize the discrepancy between *confirmed cases* and *actual cases*.
+    - The gap is especially wide in the US, where testing coverage has been conspicuously poor.
+    - Between this and the virus's symptom-free contagious period, it's fair to say that the disease is much more widespread than reported, and has "snuck up" on us.
+* The at-risk population is larger than I initially thought, too.
+    - The age threshold is quoted around 50 (lower than I thought; I imagined a number more like 60 or 70)
+    - Other risk factors: obesity, asthma, cardiac or respiratory conditions.
+    - Several tenants in my apartment building meet these criteria.
+
+## Interesting economic consequences
+
+* [Black Monday, Black Thursday](https://en.wikipedia.org/wiki/2020_stock_market_crash)
+    - S&P 500 fell by 28% over the past few weeks.
+    - For reference: S&P 500 fell by 49% over the course of 16 months during the 2007-2009 recession
+    - I'm happy that I have some cash on hand to buy stock over the coming weeks.
+      There are two ways to spin this: 
+        1. I'm a greedy opportunist; or 
+        2. There will be a lot of rebuilding to do in the wake of this disaster,
+           and I'm happy to commit resources toward that.
+           I'm confident in the American and European economies.
+    - I'll let the reader decide which description is more accurate.
+* A lot of fragilities have been exposed in the economy.
+  Global supply chains will be disrupted by factory closures and travel bans.
+  Firms typically optimize their operations for *efficiency*;
+  I hope businesses learn to put more emphasis on *robustness* in the future.
+  Of course, there have already been multiple opportunities to learn this lesson: 2008, 1970s-80s, 1929.
+
+
+## Interesting political consequences
+
+* Foreign: 
+    - This pandemic has become a point of comparison between authoritarian states (e.g., China, Iran) and liberal democracies (e.g., Italy and the US).
+        * Authoritarian states are uniquely capable of restricting individual liberties for the sake of the collective.
+          However, they may or may not take this emergency seriously (contrast China and Iran)
+        * How will liberal democracies fare? Italy was slow to act, and has suffered as a consequence.
+          The US federal government has also been very sluggish &mdash; my hope is that local governments and community 
+          leadership will help the US pull through this. But frankly, I'm not optimistic.
+          I've made some efforts to contact my neighbors and set up channels of communication, for the sake of preparation.
+          But the response has been lukewarm. It seems like they either don't trust their neighbors, or don't really care.
+        * Interestingly, China has been 
+* Domestic:
+    - Donald Trump has responded to COVID-19 much as he has to every other contingency: 
+      with bluster, incompetence, and little regard for facts or expertise.
+      His [March 11 address](https://www.youtube.com/watch?v=X7KCyRxOoJw) was unproductive;
+      it mischaracterized COVID-19 as a disease that could be stopped at the border.
+      In truth, COVID-19 is already here &mdash; efforts should be spent slowing its spread.
+    - The leading Democratic candidates, Biden and Sanders, have each issued statements and plans
+      that make more sense than Trump's. 
+      Biden in particular has demonstrated his ability to call upon a vast array of reputable experts.
+      I would personally feel better about Biden as a candidate if he were capable of stringing together a coherent sentence.
+    - It looks like the "strong economy" argument for Donald Trump's reelection has been severely compromised.
+
+## Reasons to be grateful
+
+* Once again, the US has benefited from its geographic isolation.
+  The disease has arrived, but its arrival was late in comparison to e.g., Europe.
+  (Which isn't to say I'm happy about the European situation).
+  Unfortunately, I don't think we used this advantage very well.
+* As bad as COVID-19 is, it's easy to imagine worse pandemics.
+  The symptoms are described as "flu-like". 
+  Contrast this with other viral diseases the human race has fought for most of its history:
+  small-pox, polio, measles, mumps.
+  Horrifying, painful, disfiguring diseases.
+  We could do a lot worse than "flu-like" symptoms &mdash; hopefully we learn appropriate lessons from this pandemic.
+* Winter is basically over. We won't have severe cold to complicate the situation.
+* I'd like to think our food supply chains are robust enough that people won't go hungry.
+* Even if the federal government has been slow to act, most schools and employers seem to be doing the right thing.
+  And for what it's worth, Donald Trump did mention businesses would have access to low-interest credit from the government, to compensate for lost demand over the coming weeks/months.
+
+\\( \blacksquare\\)  
+
