@@ -66,9 +66,11 @@ permalink: /miscellaneous/
 
 [EconTalk (Russ Roberts)](http://www.econtalk.org/)
 
-[The Ezra Klein Show (Vox, Ezra Klein)](https://www.vox.com/ezra-klein-show-podcast)
-
 [Conversations with Tyler (Tyler Cowen)](https://conversationswithtyler.com/)
+
+[Economist Radio (The Economist)](https://www.economist.com/podcasts/)
+
+[The Ezra Klein Show (Vox, Ezra Klein)](https://www.vox.com/ezra-klein-show-podcast)
 
 [Intelligence Squared US](https://www.intelligencesquaredus.org/podcasts)
 
