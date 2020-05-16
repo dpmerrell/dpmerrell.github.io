@@ -1,0 +1,130 @@
+---
+layout: post
+title:  "Why Most Technical Talks are Bad"
+date:   2020-05-16 00:00:00 -0500
+category: personal 
+tags: [psychology, motivation, productivity] 
+---
+
+In one sentence: The typical talk is inefficient 
+                 because the presenter fails to 
+                 motivate their subject matter
+                 or 
+                 present their theses clearly in the form of a story.
+
+To clarify, I'm talking primarily about conference talks, symposia, lab meetings, and other presentations
+given by researchers in technical fields.
+
+## I'm not the only one
+
+* I used to think it was _my_ problem;
+  that I was uniquely incapable of absorbing information from technical talks.
+  And to some extent, that was probably true: I was a novice mathematician/scientist. 
+* I no longer think it's totally my fault, though.
+  I think most talks just aren't very easy to digest.
+
+> Fifty percent of people  
+> understand fifty percent  
+> of fifty percent of the talks in a conference.
+>
+> --Moshe Vardi[^1]
+
+* If the brilliant Moshe Vardi feels this way, then I seem to be in good company. 
+* I suspect scientists don't talk about this more often because 
+    1. It's difficult to deliver a good talk. So, you know, "glass houses" and all that.
+    2. If you admit that you didn't understand a talk then you risk "looking dumb,"
+       which is kind of scary to do as a researcher in a STEM field.
+
+## Common weaknesses
+
+* lack of motivation
+    - Why should anyone **care** about the information you're presenting?
+        - If the audience doesn't care about your topic, then they won't pay attention.
+        - Most of the time, you'll have to do some work in order to help your audience care about your topic.
+          A very small number of people work in exactly the same area as you; the rest will need some help to see why your work matters.
+    - Motivation sharpens our communication.
+      Abraham Lincoln quote.
+      A variant: give me 20 minutes to present, and I will spend about half of it making sure the audience pays attention.
+
+> Give me six hours to chop down a tree  
+> and I will spend the first four sharpening the axe.
+>
+> --Abraham Lincoln
+
+* Lack of plot
+    - humans absorb information best in the form of **stories**.
+    - From before the days of Homer, humans have passed wisdom and values to each other via recited stories.
+    - A story presents information as a network of related observations.
+      It usually has a sequential structure.
+    - The alternative is to present a set of disconnected facts.
+      Humans have difficulty remembering or making sense of information in this form.
+        * See ["chunking"](https://en.wikipedia.org/wiki/Chunking_(psychology)) from cognitive psychology.
+        * Or think of it from a probabilistic viewpoint, where factual propositions are random variables.
+          If we treat them as totally independent, then information about one proposition gives no information about any other proposition.
+          But if we introduce dependencies between them, then we can make inferences and recover any forgotten facts.
+          The whole set of facts is stored more robustly.
+    - It's possible (but not necessarily true) that "story-izing" your talk may reduce its technical rigor.
+      However, rigor is arguably _not the point_ of a talk.
+      The point of a talk is to convey high-level ideas to a diverse audience with limited time and attention.
+      If people want rigor, they should read the damn paper.
+
+* Bad slides
+    - Too much content on each slide
+        * The outdated idea that slides should be a form of "documentation"
+            - [Cite the bad slides that (arguably) caused the Columbia shuttle disaster](https://mcdreeamiemusings.com/blog/2019/4/13/gsux1h6bnt8lqjd7w2t2mtvfg81uhx)
+        * Too much text
+        * Busy figures
+
+
+## An extremely useful exercise: one-sentence summaries
+
+* Can you capture the thrust of your talk in **one sentence?** 
+* The point of the exercise is that it forces you to (i) identify the most important pieces of information,
+  and (ii) embed them in a simple narrative structure: e.g., subject, predicate, object.
+* The resulting sentence is lossy, or perhaps even technically incorrect.
+  But it conveys the bulk of your message in a highly transferable form
+  and enables the listener to begin thinking about the subject.
+* You can do this exercise at any level of detail.
+  You can distill your entire talk, each slide, each bullet point, each figure.
+
+
+## Extensions to other scholarly media
+
+* Lectures
+    - I've had similar difficulties absorbing information from lectures.
+    - Over time, I've come to believe that it's largely a matter of the lecturer's ability,
+      and not just my own comprehension abilities.
+        * This comes from taking dozens of courses in math, physics, computer science, and genetics.
+        * It also comes from my limited teaching experience -- it isn't easy to prepare or deliver a lecture.
+    - Ultimately I think similar insights apply to lectures, especially in technical subjects.
+      A lecture is not the place to focus on technical details; students will get those from (a) reading and (b) doing their assignments.
+      The lecturer's time is better spent motivating the subject, identifying the most important ideas, and showing how they relate to each other.
+    - Alternatively, I've had very positive experiences in "flipped classrooms" where in-class time is spent working on problems and out-of-class time is spent watching recorded lectures, reading, and doing homework.
+      I don't think this negates my hypothesis, though.
+      It just means that the lecture happens in a different environment.
+
+* Papers
+    - I suspect that many technical papers are hard to digest _because they're poorly written_.
+    - However, the goal of a paper is to provide full technical detail. 
+      So my criticisms of papers are different from those of talks or lectures.
+    - This deserves an entire post of its own.
+
+## Caveats and speculation
+
+* It may be that the qualities that make a good researcher are _exactly the wrong qualities_ for making a good communicator.
+    - An analogy from data structures: we can store the same information in two different data structures.
+      But we prefer one data structure over another based on the task at hand.
+      The very qualities that make a data structure optimal for one task can make it extremely inefficient for another task. 
+    - There are of course prominent counterexamples like Richard Feynman.
+      So I'm not really convinced of this.
+      It's more likely that communication is a difficult skill that requires conscious effort.
+
+\\( \blacksquare\\)  
+
+[^1]: I heard this quote while hanging out with Moshe Vardi's students at IJCAI 2017.
+      [Lucas Martinelli Tabajara](https://www.cs.rice.edu/~lm30/)
+      explains: "I'm not sure of the number [50%], it might be 33% instead. 
+      I think each of Moshe's students quote it in a different way.
+      I'm not even sure Moshe himself is consistent about it."
+
+
