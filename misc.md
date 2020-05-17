@@ -72,11 +72,11 @@ permalink: /miscellaneous/
 
 [The Ezra Klein Show (Vox, Ezra Klein)](https://www.vox.com/ezra-klein-show-podcast)
 
+[The Portal (Eric Weinstein)](https://podcasts.apple.com/us/podcast/the-portal/id1469999563)
+
 [Intelligence Squared US](https://www.intelligencesquaredus.org/podcasts)
 
 [Oh No Ross and Carrie (Ross Blocher, Carrie Poppy)](http://ohnopodcast.com/)
-
-[How I Built This (NPR)](https://www.npr.org/podcasts/510313/how-i-built-this)
 
 [The Art of Manliness (Brett McKay)](https://www.artofmanliness.com/category/podcast/)
 
