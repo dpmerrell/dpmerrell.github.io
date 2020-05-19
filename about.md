@@ -4,33 +4,26 @@ title: About
 permalink: /about/
 ---
 
-I am a [Computer Science(s)](http://cs.wisc.edu) graduate student at University of Wisconsin -- Madison. 
+I am a [Computer Science\[s\]](http://cs.wisc.edu) PhD student at University of Wisconsin - Madison. 
 
-I consistently find myself dwelling on these topics:
+I am advised by [Tony Gitter](https://www.biostat.wisc.edu/~gitter/).
+Broadly speaking, we work in computational biology.
 
-* The capacity for computers to make us smarter---through optimization, machine learning, and AI.
+Some questions and topics that interest me:
 
-* The capacity for computers to make us stupider---through distraction and low-quality information. 
+* How do we extract useful insights from experimental data in extremely complicated settings?
+* Machine learning beyond i.i.d. data: sequences, hierarchies, networks.
+* Machine learning on small datasets, or in other settings where deep learning isn't viable.
+* Connections between computation and statistics.
+* Bayesian inference methods.
+* Probabilistic programming.
 
-* Probability, statistics, and information theory.
+At the beginning of grad school, I spent some time in [programming languages research](https://www.facebook.com/uwmadpl/).
 
-I have also dabbled in [programming languages research](https://www.facebook.com/uwmadpl/).
-
-I studied math and physics as an undergrad. This background has 
-its benefits, though I've had a lot of catching up to do in CS.
+As an undergrad I studied math and physics. This background has 
+its benefits, though I had a lot of catching up to do in CS.
 
 I hope this blog evolves into something useful and interesting.
 
 ![profile photo]({{ site.url }}/assets/misc/profile_photo.JPG)
 
-<!---
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
--->
