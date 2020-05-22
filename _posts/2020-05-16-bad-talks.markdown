@@ -10,12 +10,12 @@ In one sentence: The typical talk is inefficient
                  because the presenter fails to 
                  motivate their subject matter
                  or 
-                 present their theses clearly in the form of a story.
+                 present their talking points as a relatable story.
 
 To clarify, I'm talking primarily about conference talks, symposia, lab meetings, and other presentations
 given by researchers in technical fields.
 
-## I'm not the only one
+## I'm not the only one who feels this way
 
 * I used to think it was _my_ problem;
   that I was uniquely incapable of absorbing information from technical talks.
