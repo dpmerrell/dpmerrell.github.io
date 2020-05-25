@@ -20,7 +20,7 @@ They're listed in order of clarity:
 
 A recipe based on my initial understanding:
 
-1. Make sure your code is organized into a module (a hierarchy of directories, each containing an `__init__.py` file).
+1. Make sure your code is organized into a package (a hierarchy of directories, each containing an `__init__.py` file).
 2. Put a `setup.py` file in the root directory.
    This is the most complex part.
     * `setup.py` is a script that essentially runs a single command: `setup`.
