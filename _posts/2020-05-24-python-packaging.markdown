@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Making Python Packages: Useful Resources"
-date:   2020-05-17 00:00:00 -0500
+title:  "Making Python Packages: Some Useful Resources"
+date:   2020-05-24 00:00:00 -0500
 category: technical
 tags: [python] 
 ---
@@ -26,7 +26,8 @@ A recipe based on my initial understanding:
     * `setup.py` is a script that essentially runs a single command: `setup`.
     * The `setup` command is only complicated in that it accepts a _lot_ of arguments.
       A beginner has difficulty knowing which arguments exist, and which are important.
-    * 
+    * See the [example `setup.py`](https://github.com/navdeep-G/setup.py) to get a full sense of the things that might happen in it.
+      But notice that all of the busy-ness toward the beginning exists only to provide arguments to the `setup` command later on.
 4. Generate distribution archives. 
    A distribution archive is a compressed version of all the code in the package.
    Commands like `pip` can install packages when they're in this form.
