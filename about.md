@@ -6,8 +6,7 @@ permalink: /about/
 
 I am a [Computer Science\[s\]](http://cs.wisc.edu) PhD student at University of Wisconsin - Madison. 
 
-I am advised by [Tony Gitter](https://www.biostat.wisc.edu/~gitter/).
-Broadly speaking, we work in computational biology.
+I work in computational biology, advised by [Tony Gitter](https://www.biostat.wisc.edu/~gitter/).
 
 Some questions and topics that interest me:
 
@@ -18,7 +17,7 @@ Some questions and topics that interest me:
 * Bayesian inference methods.
 * Probabilistic programming.
 
-At the beginning of grad school, I spent some time in [programming languages research](madpl.cs.wisc.edu).
+At the beginning of grad school, I spent some time in [programming languages research](https://madpl.cs.wisc.edu).
 
 I studied math and physics as an undergrad. This background has 
 its benefits, though I've done a lot of catching up in CS.
