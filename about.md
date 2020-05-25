@@ -18,10 +18,10 @@ Some questions and topics that interest me:
 * Bayesian inference methods.
 * Probabilistic programming.
 
-At the beginning of grad school, I spent some time in [programming languages research](https://www.facebook.com/uwmadpl/).
+At the beginning of grad school, I spent some time in [programming languages research](madpl.cs.wisc.edu).
 
-As an undergrad I studied math and physics. This background has 
-its benefits, though I had a lot of catching up to do in CS.
+I studied math and physics as an undergrad. This background has 
+its benefits, though I've done a lot of catching up in CS.
 
 I hope this blog evolves into something useful and interesting.
 
