@@ -23,6 +23,12 @@ This post answers the following question:
 
 <br> 
 
+<center>
+<img src="{{ site.baseurl }}/assets/images/king-of-hill-sklearn-meme.png" alt="sklearn king of hill"  width="320" height="420">
+</center>
+
+<br>
+
 # Model Validation: Simulating Real-World Deployment
 * **The purpose of model validation is to accurately estimate a model's real-world performance, _before actually deploying it_.**
     * Our model may be involved in important decisions. Is it _trustworthy_?
