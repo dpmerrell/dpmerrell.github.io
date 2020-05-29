@@ -6,6 +6,10 @@ permalink: /publications/
 
 ## Papers
 
+* **David Merrell**, Anthony Gitter. 
+[*Inferring Signaling Pathways with Probabilistic Programming*](https://arxiv.org/pdf/2005.14062.pdf).
+under review. [arXiv version](https://arxiv.org/pdf/2005.14062.pdf).
+
 * **David Merrell**, Aws Albarghouthi, Loris D'Antoni. 
 [*Weighted Model Integration with Orthogonal Transformations*]({{site.url}}/assets/publications/dmerrell-ijcai-2017.pdf).
 IJCAI 2017.
