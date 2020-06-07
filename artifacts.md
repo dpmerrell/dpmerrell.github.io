@@ -41,7 +41,7 @@ IJCAI 2017.
 
 <br>
 
-## Assorted notes
+## Notes; half-baked ideas
 
 * Weighted model integration
     - [Rotating formulas]({{site.url}}/assets/research-notes/tilt-equivalence.pdf)
@@ -49,6 +49,8 @@ IJCAI 2017.
     - [The Skitovitch-Darmois theorem]({{site.url}}/assets/research-notes/skitovitch-darmois.pdf)
 
 * [Variational inference]({{site.url}}/assets/research-notes/vi-review.pdf)
+
+* [Dynamic Bayes Nets and ODEs]({{site.url}}/assets/research-notes/dbn-ode.pdf)
 
 <br>
 
