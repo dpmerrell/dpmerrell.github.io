@@ -4,15 +4,19 @@ title: Artifacts
 permalink: /publications/
 ---
 
-## Papers
+## Peer-reviewed research
 
-* **David Merrell**, Anthony Gitter. 
-[*Inferring Signaling Pathways with Probabilistic Programming*](https://arxiv.org/pdf/2005.14062.pdf).
-under review. [arXiv version](https://arxiv.org/pdf/2005.14062.pdf).
+* **David Merrell**, Anthony Gitter. *Inferring Signaling Pathways with Probabilistic Programming*. ECCB 2020 (to appear).
+    - [preprint manuscript (arXiv)](https://arxiv.org/pdf/2005.14062.pdf)
+    - [codebase (GitHub)](https://github.com/gitter-lab/ssps)
+    - [ISMB 2020 Talk (YouTube)](https://www.youtube.com/watch?v=w5xOyKnJOFA)
+    - [conference poster (PDF)]({{site.url}}/assets/posters/ssps_poster.pdf)
 
 * **David Merrell**, Aws Albarghouthi, Loris D'Antoni. 
 [*Weighted Model Integration with Orthogonal Transformations*]({{site.url}}/assets/publications/dmerrell-ijcai-2017.pdf).
 IJCAI 2017.
+    - [IJCAI 2017 talk (PDF)]({{site.url}}/assets/presentations/wmi-ijcai-2017-08-17.pdf)
+    - [conference poster (PDF)]({{site.url}}/assets/posters/poster-ijcai-2017-08-17.pdf)
 
 <br>
 
@@ -20,37 +24,28 @@ IJCAI 2017.
 
 <br>
 
-## Presentations
 
-* [IJCAI 2017 talk]({{site.url}}/assets/presentations/wmi-ijcai-2017-08-17.pdf)
-* [Thomson Lab meeting talk (2019-03-29)](https://docs.google.com/presentation/d/1hMKZLL2EMppx7Bqhs5bmeLOxZNErOW0Qd0WDGuLMAC4/edit?usp=sharing)
+## Half-baked ideas; notes; informal talks
 
-<br>
+* [ROBDDs in Julia (GitHub)](https://github.com/dpmerrell/ROBDD.jl)
 
-------
+* [Managing workflows with Snakemake (slides)](https://docs.google.com/presentation/d/1ED3ap3gWo1iMZobPwgQz2tJ6x-X6PKhyUJvrTikPKwc/edit?usp=sharing)
+    - [Demo code (GitHub)](https://github.com/dpmerrell/snakemake-demos)
 
-<br>
-
-## Posters
-
-* [IJCAI 2017 poster]({{site.url}}/assets/posters/poster-ijcai-2017-08-17.pdf)
-
-<br>
-
-------
-
-<br>
-
-## Notes; half-baked ideas
+* [Tinkering with the Gen probabilistic programming language (GitHub)](https://github.com/dpmerrell/gen-experiments)
 
 * Weighted model integration
-    - [Rotating formulas]({{site.url}}/assets/research-notes/tilt-equivalence.pdf)
-    - [Rational Householder matrices]({{site.url}}/assets/research-notes/rational-householder.pdf)
-    - [The Skitovitch-Darmois theorem]({{site.url}}/assets/research-notes/skitovitch-darmois.pdf)
+    - [Rotating formulas (PDF)]({{site.url}}/assets/research-notes/tilt-equivalence.pdf)
+    - [Rational Householder matrices (PDF)]({{site.url}}/assets/research-notes/rational-householder.pdf)
+    - [The Skitovitch-Darmois theorem (PDF)]({{site.url}}/assets/research-notes/skitovitch-darmois.pdf)
 
-* [Variational inference]({{site.url}}/assets/research-notes/vi-review.pdf)
+* [Variational Bayes Inference (PDF)]({{site.url}}/assets/research-notes/vi-review.pdf)
 
-* [Dynamic Bayes Nets and ODEs]({{site.url}}/assets/research-notes/dbn-ode.pdf)
+* [Dynamic Bayes Nets and ODEs (PDF)]({{site.url}}/assets/research-notes/dbn-ode.pdf)
+
+* [Thomson Lab meeting talk (slides)](https://docs.google.com/presentation/d/1hMKZLL2EMppx7Bqhs5bmeLOxZNErOW0Qd0WDGuLMAC4/edit?usp=sharing)
+
+* [A Singularity container for deep learning (GitHub)](https://github.com/dpmerrell/singularity-deep-learning)
 
 <br>
 
