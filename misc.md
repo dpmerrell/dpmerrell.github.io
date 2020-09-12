@@ -127,7 +127,7 @@ David Merrell
 
 ## PGP Public key
 
-[pgp-public-key.txt]({{site.url}}/assets/misc/dmerrell-pgp-public-key.txt)
+[dmerrell.gpg]({{site.url}}/assets/misc/dmerrell.gpg)
 
 <!---
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
