@@ -27,6 +27,8 @@ IJCAI 2017.
 
 ## Half-baked ideas; notes; informal talks
 
+* [A Markov Decision Process for block RAR RCT Design (slides)](https://docs.google.com/presentation/d/15oAJu6PEweWosXLDnaXX5xcuBJHCEPyHMZB1zDjJXd0/edit?usp=sharing)
+
 * [ROBDDs in Julia (GitHub)](https://github.com/dpmerrell/ROBDD.jl)
 
 * [Managing workflows with Snakemake (slides)](https://docs.google.com/presentation/d/1ED3ap3gWo1iMZobPwgQz2tJ6x-X6PKhyUJvrTikPKwc/edit?usp=sharing)

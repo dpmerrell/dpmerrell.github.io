@@ -21,7 +21,7 @@ permalink: /miscellaneous/
 
 # Some Favorites (definitely not comprehensive)
 
-## Nonfiction:
+## Nonfiction
 
 [Antifragile (Nassim Taleb)](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto-ebook/dp/B0083DJWGO/ref=sr_1_1?s=books&ie=UTF8&qid=1518379447&sr=1-1&keywords=antifragile)
 
