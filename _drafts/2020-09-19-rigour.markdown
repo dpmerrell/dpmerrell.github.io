@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "When You Go to College, Study Something Rigorous"
+date:   2020-09-19 00:00:00 -0500
+category: personal
+tags: [college, education, philosophy] 
+---
+
+Let me borrow an analogy used by Nassim Taleb in his book _Skin in the Game_.
+It comes from Greek mythology. 
+The giant Antaeus: strength comes from being grounded in reality.
+
+When I say _rigorous discipline_, I mean something that puts you in a feedback loop with reality.
+
+A rigorous discipline should have a notion of _fitness_. If you produce unfit work, then you fail; if you produce fit work, then you succeed.
+Crucially, this notion of fitness must correspond to an "external reality": a body of facts that stubbornly persist no matter how humans beg, plead, or try to ignore them.
+Unfit work must be _selected against_ by this external reality.
+
+This isn't a stereotypical piss-take on the humanities by a STEM guy.
+The humanities have an important place in civilization.
+Furthermore, it _is_ possible to hold oneself to rigorous standards in the humanities.
+However, we can't necessarily rely on a university curriculum to enforce that rigor.
+
+The notion of "quality" examined in _Zen and the Art of Motorcycle Maintenance_ has everything to do with this.
+The main character of that novel spends his adult life grappling with the concept.
+Unfortunately he spirals around it uselessly, getting caught up in abstractions.
+If he had substituted the word "fitness" for "quality" and grounded himself in a more Darwinian perspective, then his life probably would have been happier and his contributions would have been more valuable. 
+
+Distrust of academic philosophy
+* Richard Feynman anecdote: "Is a _brick_ an essential object?"
+[http://www.e-reading-lib.com/chapter.php/71262/18/surely-youre-joking-mr-feynman-adventures-of-a-curious-character.html]((Surely You're Joking, Mr. Feynman!))
+
+If you can't produce valuable work in a rigorous field, then why should anybody trust your judgment in the more nebulous, unknowable domains? 
+
+\\( \blacksquare\\)  
+
+

@@ -1,0 +1,85 @@
+---
+layout: post
+title:  "Some of My Favorite Routines"
+date:   2020-10-10 00:00:00 -0500
+category: personal
+tags: [philosophy, habits, lifestyle] 
+---
+
+It's October 2020. We're currently 7 months into the COVID pandemic, and it's not clear how much longer it will last.
+
+I've spent most of the pandemic in isolation.
+I live by myself and work from my apartment.
+
+Given these circumstances, you might reasonably expect that I'd become depressed or go crazy.
+However, I'm happy to say that I've done really well so far.
+I've managed to stay emotionally and physically healthy.
+I've managed to stay productive in my work.
+
+I chalk up this success to some healthy routines I've established over the past months.
+I'm writing them down for my own benefit, in order to preserve my memories of this time.
+I don't think these routines are "correct" for _everyone_. 
+But if you see one that you like, then you can try adopting it for yourself.
+
+## Daily routines
+
+* Morning.
+    * Wake up at 7:30am.
+    * Quick shower. Just a rinse off to wake myself up.
+    * Breakfast. 
+        - coffee: freshly ground, French press.
+        - oatmeal: old fashioned Quaker oats. A little bit of honey and some almond milk. That's all.
+    * As I eat breakfast, I write a TODO list for the day.
+        - My tasks are divided into broad categories: "Personal", "Research", "Exercise", etc.
+        - I currently use Evernote for this. But I could just as easily use paper and pencil.
+    * I almost always have a podcast playing in the background during these steps.
+    * Once I've eaten and made my TODO list, I get to work until lunch time.
+* Afternoon
+    * Lunch at noon.
+        - I try to keep it light. A typical choice is tomato soup and leafy greens.
+    * Post-lunch walk. Digest my food and listen to podcasts. Usually lasts 0.5-1.0 hours.
+    * Wash dishes from lunch
+    * Work until 4pm
+* Evening
+    * Get some exercise---see my weekly routines below.
+    * Dinner around 5pm.
+        - My typical choice: a big pan full of stir-fried vegetables and pasta, with one or two fried eggs. I don't devote much time or attention to culinary exploration.
+        - I don't leave leftovers. Dinner is where I get most of my calories for the day.
+    * Post-dinner walk. Digest my food and listen to podcasts. I occasionally stop somewhere to buy a bar of dark chocolate. Usually lasts between 0.5 and 1.0 hours.
+    * Wash dishes from dinner.
+    * Work until I'm tired (usually 10pm).
+* Bedtime
+    * If I haven't exercised and showered earlier in the day, then I'll do it now.
+    * Fall asleep reading a book.
+
+## Weekly routines
+
+* Exercise.
+    - My exercise has converged to a weekly schedule.
+        - Monday: go for a shorter run. Usually about 3 miles.
+        - Wednesday: go for a nice long bike ride. Usually about 30 miles.
+        - Friday: go for a longer run. Usually about 4-5 miles.
+        - On the other days: some strength exercises. Calisthenics, kettle bell swings, pull ups, etc.
+    - I like to exercise in the early evening, right before dinner. I sometimes think of it as "hunting my food."
+* Buying groceries.
+    - I buy groceries on Friday mornings. I ride my bike over to Trader Joe's and return with panniers full of the week's food.
+* Saturday.
+    - I set Saturdays apart from the other days of the week.
+      I devote them to maintenance and upkeep---they don't usually follow the same daily routine as the other days.
+      I sometimes think of my Saturday routine as a "shabbat", though its details have little in common with an actual shabbat.
+    - I don't do any research.
+    - I don't eat until 5pm. (AKA intermittent fasting.)
+    - I don't consume any caffeine.
+    - I clean my apartment.
+    - I run errands.
+    - I maintain my bicycle and any other gear that requires periodic upkeep.
+
+
+## Some last words
+
+These routines have been an anchor in my life over the past months.
+I don't know what role they'll play in my life once the pandemic is over.
+But I'm glad to have them at present.
+
+\\( \blacksquare\\)
+
