@@ -182,7 +182,9 @@ It's not very descriptive.
 
 * Jonathan Haidt
 * Tyler Cowen
+* John McWhorter
 * Douglas Murray
+* Christina Hoff Sommers
 * Sam Harris
 
 
