@@ -27,6 +27,8 @@ IJCAI 2017.
 
 ## Half-baked ideas; notes; informal talks
 
+* [Preliminary Report (PDF)]({{site.url}}/assets/research-notes/dmerrell-prelim-report.pdf)
+
 * [A Markov Decision Process for block RAR RCT Design (slides)](https://docs.google.com/presentation/d/15oAJu6PEweWosXLDnaXX5xcuBJHCEPyHMZB1zDjJXd0/edit?usp=sharing)
 
 * [ROBDDs in Julia (GitHub)](https://github.com/dpmerrell/ROBDD.jl)
