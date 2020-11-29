@@ -19,7 +19,7 @@ permalink: /miscellaneous/
 
 <br>
 
-# Some Favorites (definitely not comprehensive)
+# Some Favorites 
 
 ## Nonfiction
 
@@ -72,13 +72,15 @@ permalink: /miscellaneous/
 
 [The Ezra Klein Show (Vox, Ezra Klein)](https://www.vox.com/ezra-klein-show-podcast)
 
-[The Portal (Eric Weinstein)](https://podcasts.apple.com/us/podcast/the-portal/id1469999563)
-
 [Intelligence Squared US](https://www.intelligencesquaredus.org/podcasts)
 
 [Oh No Ross and Carrie (Ross Blocher, Carrie Poppy)](http://ohnopodcast.com/)
 
 [The Art of Manliness (Brett McKay)](https://www.artofmanliness.com/category/podcast/)
+
+[The Cyberwire Daily Briefing (The Cyberwire)](https://thecyberwire.com/newsletters/daily-briefing)
+
+[Techmeme Ride Home (Ride Home Media)](https://www.ridehome.info/podcast/techmeme-ride-home/)
 
 <br>
 
