@@ -97,8 +97,8 @@ permalink: /miscellaneous/
 **2018-08** Went backpacking in North Cascades National Park.
 [(Google Photos Album)](https://photos.app.goo.gl/GpaPURX7irQWjg1G8)
 
-**2017-08** Attended IJCAI in Melbourne, Australia. Also visited some
-acquaintances and engaged in some tourism.
+**2017-08** Attended IJCAI in Melbourne, Australia. Also visited 
+acquaintances and did some touristy things.
 [(Google Photos Album)](https://goo.gl/photos/nwE17GcCPsxdpGT39)
 
 **2017-07** Went backpacking in King's Canyon National Park.
@@ -107,7 +107,7 @@ acquaintances and engaged in some tourism.
 **2017-07** Climbed two "fourteeners" while visiting family. 
 [(Google Photos Album)](https://goo.gl/photos/QPfwSpYcBRjTTfDt5)
 
-**2016-04 -- 2016-08** I rode my bike from Rome to Edinburgh over the course of four months. I sometimes cheated and took the train, but then again I took a very circuitous route that went as far east as Budapest and Prague. [(Google Photos Album)](https://goo.gl/photos/9ZaJGTrX1ocAGx617)
+**2016-04 -- 2016-08** Bicycle tour from Rome to Edinburgh. I occasionally cheated and took the train. [(Google Photos Album)](https://goo.gl/photos/9ZaJGTrX1ocAGx617)
 
 
 <br>

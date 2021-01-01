@@ -21,6 +21,7 @@ This post answers the following question:
 
 [^1]: In this post, we restrict our discussion to supervised learning tasks. The notion of _simulating real-world deployment_ holds for other tasks (e.g., active or reinforcement learning), but all detailed discussion pertains to supervised learning. Furthermore, we restrict ourselves to batch-wise learning tasks&mdash;online learning presents other subtleties for validation.
 
+<!---
 <br> 
 
 <center>
@@ -28,6 +29,7 @@ This post answers the following question:
 </center>
 
 <br>
+-->
 
 # Model Validation: Simulating Real-World Deployment
 * **The purpose of model validation is to accurately estimate a model's real-world performance, _before actually deploying it_.**

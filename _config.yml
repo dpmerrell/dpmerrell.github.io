@@ -16,7 +16,7 @@
 title: David Merrell's Blogsite
 email: dmerrell at cs dot wisc dot edu
 description: > #
-               I am a Computer Science(s) grad student at 
+               I am a Computer Science[s] grad student at 
                UW-Madison. This blog/website shows some of the
                things I've been up to.
 #  this means to ignore newlines until "baseurl:"

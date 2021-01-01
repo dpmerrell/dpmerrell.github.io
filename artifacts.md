@@ -6,8 +6,9 @@ permalink: /publications/
 
 ## Peer-reviewed research
 
-* **David Merrell**, Anthony Gitter. *Inferring Signaling Pathways with Probabilistic Programming*. ECCB 2020 (to appear).
+* **David Merrell**, Anthony Gitter. *Inferring Signaling Pathways with Probabilistic Programming*. ECCB 2020. 
     - [preprint manuscript (arXiv)](https://arxiv.org/pdf/2005.14062.pdf)
+    - [*Bioinformatics* article](https://doi.org/10.1093/bioinformatics/btaa861)
     - [codebase (GitHub)](https://github.com/gitter-lab/ssps)
     - [ISMB 2020 Talk (YouTube)](https://www.youtube.com/watch?v=w5xOyKnJOFA)
     - [conference poster (PDF)]({{site.url}}/assets/posters/ssps_poster.pdf)
@@ -25,9 +26,11 @@ IJCAI 2017.
 <br>
 
 
-## Half-baked ideas; notes; informal talks
+## Half-baked ideas; notes; talks
 
-* [Preliminary Report (PDF)]({{site.url}}/assets/research-notes/dmerrell-prelim-report.pdf)
+* Preliminary exam
+    - [Report (PDF)]({{site.url}}/assets/research-notes/dmerrell-prelim-report.pdf)
+    - [Presentation (slides)](https://docs.google.com/presentation/d/1J-HdLrM7BzdCV4Z9zYN6w-w2wDr1slZ0EJiNI9kb7kY/edit?usp=sharing)
 
 * [A Markov Decision Process for block RAR RCT Design (slides)](https://docs.google.com/presentation/d/15oAJu6PEweWosXLDnaXX5xcuBJHCEPyHMZB1zDjJXd0/edit?usp=sharing)
 
