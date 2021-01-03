@@ -78,6 +78,8 @@ permalink: /miscellaneous/
 
 [The Art of Manliness (Brett McKay)](https://www.artofmanliness.com/category/podcast/)
 
+[Into the Impossible (Brian Keating)](http://imagination.ucsd.edu/_wp/feed/podcast/)
+
 [The Cyberwire Daily Briefing (The Cyberwire)](https://thecyberwire.com/newsletters/daily-briefing)
 
 [Techmeme Ride Home (Ride Home Media)](https://www.ridehome.info/podcast/techmeme-ride-home/)
