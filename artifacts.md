@@ -33,7 +33,7 @@ IJCAI 2017.
     - [Presentation (slides)](https://docs.google.com/presentation/d/1J-HdLrM7BzdCV4Z9zYN6w-w2wDr1slZ0EJiNI9kb7kY/edit?usp=sharing)
 
 * [A pipeline for downloading and storing TCGA data in a useful format (GitHub)](https://github.com/dpmerrell/tcga-pipeline)
-    - or just [download the HDF files directly (Zenodo)](https://zenodo.org/record/4434749)
+    - or just [download the HDF files directly (Zenodo)](https://doi.org/10.5281/zenodo.4434748)
 
 * [A Markov Decision Process for block RAR RCT Design (slides)](https://docs.google.com/presentation/d/15oAJu6PEweWosXLDnaXX5xcuBJHCEPyHMZB1zDjJXd0/edit?usp=sharing)
 
