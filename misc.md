@@ -70,7 +70,7 @@ permalink: /miscellaneous/
 
 [Economist Radio (The Economist)](https://www.economist.com/podcasts/)
 
-[The Ezra Klein Show (Vox, Ezra Klein)](https://www.vox.com/ezra-klein-show-podcast)
+[Rationally Speaking (Julia Galef; New York City Skeptics)](http://rationallyspeakingpodcast.org/)
 
 [Intelligence Squared US](https://www.intelligencesquaredus.org/podcasts)
 
@@ -78,7 +78,9 @@ permalink: /miscellaneous/
 
 [The Art of Manliness (Brett McKay)](https://www.artofmanliness.com/category/podcast/)
 
-[Into the Impossible (Brian Keating)](http://imagination.ucsd.edu/_wp/feed/podcast/)
+[Philosophize This! (Stephen West)](https://www.philosophizethis.org/)
+
+[Sinica (SupChina)](https://supchina.com/series/sinica/)
 
 [The Cyberwire Daily Briefing (The Cyberwire)](https://thecyberwire.com/newsletters/daily-briefing)
 
