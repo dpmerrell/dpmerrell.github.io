@@ -86,6 +86,18 @@ permalink: /miscellaneous/
 
 [Techmeme Ride Home (Ride Home Media)](https://www.ridehome.info/podcast/techmeme-ride-home/)
 
+
+## YouTube Channels
+
+[Machine Learning Street Talk](https://www.youtube.com/channel/UCMLtBahI5DMrt0NPvDSoIRQ)
+
+[Talks at Google](https://www.youtube.com/channel/UCbmNph6atAoGfqLoCL_duAg)
+
+[Firing Line with William F. Buckley](https://www.youtube.com/channel/UC9lqW3pQDcUuugXLIpzcUdA)
+
+[Netherlands Bach Society](https://www.youtube.com/channel/UC2kF6qdHRTM_hDYfEmzkS9w)
+
+ 
 <br>
 
 ------
