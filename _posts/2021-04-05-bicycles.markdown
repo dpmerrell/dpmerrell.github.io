@@ -1,0 +1,57 @@
+---
+layout: post
+title:  "On Bicycles"
+date:   2021-04-05 00:00:00 -0500
+category: personal 
+tags: [bicycle, exercise, finance] 
+---
+
+Obvious benefits
+* Health. 
+    - If you trade some of your car-time for bike-time, then you will obviously be less sedentary.
+    - Physical exercise has so many knock-on benefits (mental, emotional, social, etc.). 
+      I won't spend any more time enumerating them.
+* Finances. 
+    - I sold my car a few years ago. I found that a bike sufficed for
+  getting around Madison---even in winter.
+    - This has reduced my expenses considerably. I no longer have to think about
+      (i) fuel, (ii) car insurance, (iii) maintenance, or (iv) car payments.
+      Easily thousands of dollars per year.
+    - I spend maybe $50 per year on bike maintenance.
+      Inner tubes, lubricant, and miscellaneous parts.
+
+My bicycle constrains me in useful ways
+* I always try to live within biking distance of work. 
+  I want my commute to be short and invigorating---not long and draining. 
+* I run fewer superfluous errands.
+* My choices tend to be more environmentally friendly.
+* The 5-7-5 structure of a haiku constrains the poet;
+  a LASSO penalty constrains the regressor;
+  and a bicycle constrains me.
+
+Experiencing your surroundings
+* Cars put a glass screen between you and the world.
+* A bicycle immerses you in the sights, sounds, and smells of your environment.
+* A bike exposes you to the elements---a good thing in moderate doses. 
+
+
+Zen and the art of bicycle maintenance
+* Learning some simple bicycle maintenance can be very enriching.
+* A bicycle is simple enough that you can easily learn how to maintain it.
+  You still get a sense of accomplishment from fixing it up, though.
+* In _Zen and the Art of Motorcycle Maintenance_, the author talks about 
+  the "Dionysian" and "Appollonian" perspectives on motorcycle maintenance
+  (among other things). The same insights apply to bicycle maintenance.
+* We can switch between Dionysian and Appollonian perspectives while we're
+  riding and fixing our bike, respectively.
+
+
+Some interesting examples of bike-centric cultures
+* Amsterdam, Copenhagen, Berlin
+* These places are economically strong and culturally interesting.
+* They are extremely accessible by bicycle. The people who live in these places ride their bikes all the time, for all sorts of reasons.
+* Their quality of life is visible in their faces -- I don't remember seeing stressed out or angry people on the bike paths of Amsterdam. (They were all quite fit, too.)
+
+
+\\( \blacksquare\\)  
+
