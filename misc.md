@@ -89,9 +89,11 @@ permalink: /miscellaneous/
 
 ## YouTube Channels
 
-[Machine Learning Street Talk](https://www.youtube.com/channel/UCMLtBahI5DMrt0NPvDSoIRQ)
-
 [Talks at Google](https://www.youtube.com/channel/UCbmNph6atAoGfqLoCL_duAg)
+
+[Sabine Hossenfelder](https://www.youtube.com/channel/UC1yNl2E66ZzKApQdRuTQ4tw)
+
+[N N Taleb's Probability Moocs](https://www.youtube.com/channel/UC8uY6yLP9BS4BUc9BSc0Jww/videos)
 
 [Firing Line with William F. Buckley](https://www.youtube.com/channel/UC9lqW3pQDcUuugXLIpzcUdA)
 
