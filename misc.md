@@ -59,7 +59,6 @@ permalink: /miscellaneous/
 
 [The Way of Kings (Brandon Sanderson)](https://www.amazon.com/Way-Kings-Stormlight-Archive-Book-ebook/dp/B003P2WO5E/ref=sr_1_1?keywords=brandon+sanderson+way+of+kings&qid=1572813417&s=digital-text&sr=1-1)
 
-[Mistborn (Brandon Sanderson)](https://www.amazon.com/gp/product/B002GYI9C4/ref=ppx_yo_dt_b_d_asin_title_o01?ie=UTF8&psc=1)
 
 
 ## Podcasts
@@ -78,13 +77,7 @@ permalink: /miscellaneous/
 
 [The Art of Manliness (Brett McKay)](https://www.artofmanliness.com/category/podcast/)
 
-[Philosophize This! (Stephen West)](https://www.philosophizethis.org/)
-
 [Sinica (SupChina)](https://supchina.com/series/sinica/)
-
-[The Cyberwire Daily Briefing (The Cyberwire)](https://thecyberwire.com/newsletters/daily-briefing)
-
-[Techmeme Ride Home (Ride Home Media)](https://www.ridehome.info/podcast/techmeme-ride-home/)
 
 
 ## YouTube Channels
