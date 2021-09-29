@@ -59,6 +59,7 @@ permalink: /miscellaneous/
 
 [The Way of Kings (Brandon Sanderson)](https://www.amazon.com/Way-Kings-Stormlight-Archive-Book-ebook/dp/B003P2WO5E/ref=sr_1_1?keywords=brandon+sanderson+way+of+kings&qid=1572813417&s=digital-text&sr=1-1)
 
+[Anna Karenina (Leo Tolstoy)](https://www.amazon.com/gp/product/B07NNPFZGJ/ref=ppx_yo_dt_b_d_asin_title_o00?ie=UTF8&psc=1)
 
 
 ## Podcasts
@@ -79,6 +80,8 @@ permalink: /miscellaneous/
 
 [Sinica (SupChina)](https://supchina.com/series/sinica/)
 
+[Honestly (Bari Weiss)](https://www.honestlypod.com/)
+
 
 ## YouTube Channels
 
@@ -86,13 +89,12 @@ permalink: /miscellaneous/
 
 [Sabine Hossenfelder](https://www.youtube.com/channel/UC1yNl2E66ZzKApQdRuTQ4tw)
 
-[N N Taleb's Probability Moocs](https://www.youtube.com/channel/UC8uY6yLP9BS4BUc9BSc0Jww/videos)
-
-[Firing Line with William F. Buckley](https://www.youtube.com/channel/UC9lqW3pQDcUuugXLIpzcUdA)
-
 [Netherlands Bach Society](https://www.youtube.com/channel/UC2kF6qdHRTM_hDYfEmzkS9w)
 
- 
+[Kurzgesagt](https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q)
+
+[3Blue1Brown](https://www.youtube.com/c/3blue1brown) 
+
 <br>
 
 ------
