@@ -4,14 +4,10 @@ title: Miscellaneous
 permalink: /miscellaneous/
 ---
 
-<!-- ### Curriculum Vitae
 
-[A short CV]({{site.url}}/assets/cv/dmerrell_cv.pdf)
--->
+# Curriculum Vitae 
 
-# R&eacute;sum&eacute; 
-
-[One page, PDF]({{site.url}}/assets/cv/dmerrell_resume.pdf)
+[PDF]({{site.url}}/assets/cv/dmerrell_cv.pdf)
 
 <br>
 
