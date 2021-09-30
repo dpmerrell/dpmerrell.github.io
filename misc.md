@@ -91,6 +91,8 @@ permalink: /miscellaneous/
 
 [3Blue1Brown](https://www.youtube.com/c/3blue1brown) 
 
+[Bloggingheads.tv](https://www.youtube.com/c/BloggingheadsTV)
+
 <br>
 
 ------
