@@ -4,17 +4,22 @@ title: Artifacts
 permalink: /publications/
 ---
 
-## Peer-reviewed research
+## Publications
+
+* **David Merrell**, Thevaa Chandereng, Yeonhee Park. *A Markov Decision Process for Response-Adaptive Randomization in Clinical Trials.* Under review.
+    - [preprint manuscript (arXiv)](https://arxiv.org/abs/2109.14642)
+    - [R package (GitHub)](https://github.com/dpmerrell/TrialMDP)
+    - [Analysis code (GitHub)](https://github.com/dpmerrell/TrialMDP-analyses)
 
 * **David Merrell**, Anthony Gitter. *Inferring Signaling Pathways with Probabilistic Programming*. ECCB 2020. 
     - [preprint manuscript (arXiv)](https://arxiv.org/pdf/2005.14062.pdf)
-    - [ECCB proceedings (*Bioinformatics* special issue)](https://doi.org/10.1093/bioinformatics/btaa861)
+    - [ECCB proceedings (*Bioinformatics*)](https://doi.org/10.1093/bioinformatics/btaa861)
     - [codebase (GitHub)](https://github.com/gitter-lab/ssps)
     - [ISMB 2020 Talk (YouTube)](https://www.youtube.com/watch?v=w5xOyKnJOFA)
     - [conference poster (PDF)]({{site.url}}/assets/posters/ssps_poster.pdf)
 
-* **David Merrell**, Aws Albarghouthi, Loris D'Antoni. 
-[*Weighted Model Integration with Orthogonal Transformations*]({{site.url}}/assets/publications/dmerrell-ijcai-2017.pdf).
+* **David Merrell**, Aws Albarghouthi, Loris D'Antoni. *Weighted Model Integration with Orthogonal Transformations*. IJCAI 2017.
+    - [IJCAI 2017 proceedings](https://www.ijcai.org/proceedings/2017/643).
 IJCAI 2017.
     - [IJCAI 2017 talk (PDF)]({{site.url}}/assets/presentations/wmi-ijcai-2017-08-17.pdf)
     - [conference poster (PDF)]({{site.url}}/assets/posters/poster-ijcai-2017-08-17.pdf)
