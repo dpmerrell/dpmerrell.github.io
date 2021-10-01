@@ -19,8 +19,7 @@ permalink: /publications/
     - [conference poster (PDF)]({{site.url}}/assets/posters/ssps_poster.pdf)
 
 * **David Merrell**, Aws Albarghouthi, Loris D'Antoni. *Weighted Model Integration with Orthogonal Transformations*. IJCAI 2017.
-    - [IJCAI 2017 proceedings](https://www.ijcai.org/proceedings/2017/643).
-IJCAI 2017.
+    - [IJCAI 2017 proceedings](https://www.ijcai.org/proceedings/2017/643)
     - [IJCAI 2017 talk (PDF)]({{site.url}}/assets/presentations/wmi-ijcai-2017-08-17.pdf)
     - [conference poster (PDF)]({{site.url}}/assets/posters/poster-ijcai-2017-08-17.pdf)
 
