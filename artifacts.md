@@ -61,6 +61,8 @@ permalink: /publications/
 
 * [A Singularity container for deep learning (GitHub)](https://github.com/dpmerrell/singularity-deep-learning)
 
+* [A Yahtzee solver python package (GitHub)](https://github.com/dpmerrell/yahtzee)
+
 <br>
 
 ------
