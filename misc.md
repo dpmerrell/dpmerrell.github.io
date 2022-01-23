@@ -72,7 +72,7 @@ permalink: /miscellaneous/
 
 [Oh No Ross and Carrie (Ross Blocher, Carrie Poppy)](http://ohnopodcast.com/)
 
-[The Art of Manliness (Brett McKay)](https://www.artofmanliness.com/category/podcast/)
+[Astral Codex Ten (Jeremiah; Scott Alexander)](https://www.audacy.com/podcasts/slate-star-codex-podcast-24424)
 
 [Sinica (SupChina)](https://supchina.com/series/sinica/)
 
