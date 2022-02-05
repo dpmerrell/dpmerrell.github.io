@@ -63,6 +63,9 @@ permalink: /publications/
 
 * [A Yahtzee solver python package (GitHub)](https://github.com/dpmerrell/yahtzee)
 
+* [A Wordle Julia package (GitHub)](https://github.com/dpmerrell/Wordle.jl)
+
+
 <br>
 
 ------
