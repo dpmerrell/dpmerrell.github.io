@@ -36,6 +36,9 @@ permalink: /publications/
     - [Report (PDF)]({{site.url}}/assets/research-notes/dmerrell-prelim-report.pdf)
     - [Presentation (slides)](https://docs.google.com/presentation/d/1J-HdLrM7BzdCV4Z9zYN6w-w2wDr1slZ0EJiNI9kb7kY/edit?usp=sharing)
 
+* Discovery seminar (Morgridge Institute for Research; Wisconsin Institute for Discovery)
+    - [Presentation (slides)](https://docs.google.com/presentation/d/1OI0a2POmZjnNzj73T-N_BhFRYqco0rk8XLLaO7VtOCk/edit?usp=sharing)
+
 * [A pipeline for downloading and storing TCGA data in a useful format (GitHub)](https://github.com/dpmerrell/tcga-pipeline)
     - or just [download the HDF files directly (Zenodo)](https://doi.org/10.5281/zenodo.4434748)
 
@@ -90,6 +93,12 @@ permalink: /publications/
 <br>
 
 ## Visualizations
+
+* Interactive plots:
+    - [The Cancer Genome Atlas (TCGA) pathway embedding]({{site.url}}/assets/visualizations/tcga_scatter.html)
+    - [The Cancer Genome Atlas (TCGA) pathway factors]({{site.url}}/assets/visualizations/pathway_factors.html)
+    - [The Cancer Genome Atlas (TCGA) pathway activations]({{site.url}}/assets/visualizations/activations.html)
+    
 
 * GIFs:
     - [Conway's game of life]({{site.url}}/assets/visualizations/conway.gif)
