@@ -29,40 +29,26 @@ permalink: /publications/
 
 <br>
 
+## Other software
 
-## Half-baked ideas; notes; talks
+* [PathwayMultiomics.jl: infer pathway activities from multiomic data](https://github.com/dpmerrell/PathwayMultiomics.jl)
 
-* Preliminary exam
-    - [Report (PDF)]({{site.url}}/assets/research-notes/dmerrell-prelim-report.pdf)
-    - [Presentation (slides)](https://docs.google.com/presentation/d/1J-HdLrM7BzdCV4Z9zYN6w-w2wDr1slZ0EJiNI9kb7kY/edit?usp=sharing)
+* [BatchMatFac.jl: Matrix factorization for heterogenous data with batch effects (GitHub)](https://github.com/dpmerrell/BatchMatFac.jl)
 
-* Discovery seminar (Morgridge Institute for Research; Wisconsin Institute for Discovery)
-    - [Presentation (slides)](https://docs.google.com/presentation/d/1OI0a2POmZjnNzj73T-N_BhFRYqco0rk8XLLaO7VtOCk/edit?usp=sharing)
+* [SparseMatFac.jl: Matrix factorization for data with very few observations](https://github.com/dpmerrell/SparseMatFac.jl)
 
 * [A pipeline for downloading and storing TCGA data in a useful format (GitHub)](https://github.com/dpmerrell/tcga-pipeline)
     - or just [download the HDF files directly (Zenodo)](https://doi.org/10.5281/zenodo.4434748)
 
-* [A Markov Decision Process for block RAR RCT Design (slides)](https://docs.google.com/presentation/d/15oAJu6PEweWosXLDnaXX5xcuBJHCEPyHMZB1zDjJXd0/edit?usp=sharing)
-
-* [ROBDDs in Julia (GitHub)](https://github.com/dpmerrell/ROBDD.jl)
-
-* [Managing workflows with Snakemake (slides)](https://docs.google.com/presentation/d/1ED3ap3gWo1iMZobPwgQz2tJ6x-X6PKhyUJvrTikPKwc/edit?usp=sharing)
-    - [Demo code (GitHub)](https://github.com/dpmerrell/snakemake-demos)
+* [Some Snakemake demos (GitHub)](https://github.com/dpmerrell/snakemake-demos)
 
 * [Tinkering with the Gen probabilistic programming language (GitHub)](https://github.com/dpmerrell/gen-experiments)
 
-* Weighted model integration
-    - [Rotating formulas (PDF)]({{site.url}}/assets/research-notes/tilt-equivalence.pdf)
-    - [Rational Householder matrices (PDF)]({{site.url}}/assets/research-notes/rational-householder.pdf)
-    - [The Skitovitch-Darmois theorem (PDF)]({{site.url}}/assets/research-notes/skitovitch-darmois.pdf)
-
-* [Variational Bayes Inference (PDF)]({{site.url}}/assets/research-notes/vi-review.pdf)
-
-* [Dynamic Bayes Nets and ODEs (PDF)]({{site.url}}/assets/research-notes/dbn-ode.pdf)
-
-* [Thomson Lab meeting talk (slides)](https://docs.google.com/presentation/d/1hMKZLL2EMppx7Bqhs5bmeLOxZNErOW0Qd0WDGuLMAC4/edit?usp=sharing)
-
 * [A Singularity container for deep learning (GitHub)](https://github.com/dpmerrell/singularity-deep-learning)
+
+* [ROBDDs in Julia (GitHub)](https://github.com/dpmerrell/ROBDD.jl)
+
+* [Modeling and prediction for sports brackets (GitHub)](https://github.com/dpmerrell/Bracketology.jl) 
 
 * [A Yahtzee solver python package (GitHub)](https://github.com/dpmerrell/yahtzee)
 
@@ -75,7 +61,37 @@ permalink: /publications/
 
 <br>
 
-## Coursework
+## Other talks
+    
+* [Preliminary Exam (slides)](https://docs.google.com/presentation/d/1J-HdLrM7BzdCV4Z9zYN6w-w2wDr1slZ0EJiNI9kb7kY/edit?usp=sharing)
+
+* [Discovery Seminar: A statistical model for multiomic data and biological pathways (slides)](https://docs.google.com/presentation/d/1OI0a2POmZjnNzj73T-N_BhFRYqco0rk8XLLaO7VtOCk/edit?usp=sharing)
+
+* [Managing workflows with Snakemake (slides)](https://docs.google.com/presentation/d/1ED3ap3gWo1iMZobPwgQz2tJ6x-X6PKhyUJvrTikPKwc/edit?usp=sharing)
+
+* [A Markov Decision Process for block RAR RCT Design (slides)](https://docs.google.com/presentation/d/15oAJu6PEweWosXLDnaXX5xcuBJHCEPyHMZB1zDjJXd0/edit?usp=sharing)
+
+* [Thomson Lab meeting talk (slides)](https://docs.google.com/presentation/d/1hMKZLL2EMppx7Bqhs5bmeLOxZNErOW0Qd0WDGuLMAC4/edit?usp=sharing)
+
+<br>
+
+------
+
+<br>
+
+
+## Other technical writing
+
+* [Preliminary exam written report (PDF)]({{site.url}}/assets/research-notes/dmerrell-prelim-report.pdf)
+
+* [Dynamic Bayes Nets and ODEs (PDF)]({{site.url}}/assets/research-notes/dbn-ode.pdf)
+
+* Weighted model integration
+    - [Rotating formulas (PDF)]({{site.url}}/assets/research-notes/tilt-equivalence.pdf)
+    - [Rational Householder matrices (PDF)]({{site.url}}/assets/research-notes/rational-householder.pdf)
+    - [The Skitovitch-Darmois theorem (PDF)]({{site.url}}/assets/research-notes/skitovitch-darmois.pdf)
+
+* [Variational Bayes Inference (PDF)]({{site.url}}/assets/research-notes/vi-review.pdf)
 
 * Optimization course project
     - [Proposal]({{site.url}}/assets/coursework/dmerrell-proposal.pdf)
@@ -85,6 +101,7 @@ permalink: /publications/
 * Machine learning
     - [A fun homework assignment]({{site.url}}/assets/coursework/cs761-hw3.pdf)
     - [Course project]({{site.url}}/assets/coursework/merrell-sharma-cs761-project-2017.pdf)
+
 
 <br>
 

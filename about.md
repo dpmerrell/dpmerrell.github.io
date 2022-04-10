@@ -8,14 +8,13 @@ I am a [Computer Science\[s\]](http://cs.wisc.edu) PhD student at University of 
 
 I work in computational biology, advised by [Tony Gitter](https://www.biostat.wisc.edu/~gitter/).
 
-Some questions and topics that interest me:
+Some topics that interest me:
 
-* How do we extract useful insights from experimental data in extremely complicated settings?
-* Machine learning beyond i.i.d. data: sequences, hierarchies, networks.
-* Machine learning on small datasets, or in other settings where deep learning isn't viable.
-* Connections between computation and statistics.
-* Bayesian inference methods.
+* Machine learning on non-i.i.d. data: sequences, hierarchies, networks.
+* Machine learning on high-dimensional data with few samples.
+* Machine learning for systems biology applications.
 * Probabilistic programming.
+* Bayesian inference methods.
 
 At the beginning of grad school, I spent some time in [programming languages research](https://madpl.cs.wisc.edu).
 
