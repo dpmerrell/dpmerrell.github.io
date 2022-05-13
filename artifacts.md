@@ -54,6 +54,8 @@ permalink: /publications/
 
 * [A Wordle Julia package (GitHub)](https://github.com/dpmerrell/Wordle.jl)
 
+* [A Sudoku Julia package (GitHub)](https://github.com/dpmerrell/Sudoku.jl/)
+
 
 <br>
 
