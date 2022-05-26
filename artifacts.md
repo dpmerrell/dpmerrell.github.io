@@ -31,9 +31,9 @@ permalink: /publications/
 
 ## Other software
 
-* [PathwayMultiomics.jl: infer pathway activities from multiomic data](https://github.com/dpmerrell/PathwayMultiomics.jl)
+* [PathwayMultiomics.jl: pathway-regularized matrix factorization fo multiomic data](https://github.com/dpmerrell/PathwayMultiomics.jl)
 
-* [BatchMatFac.jl: Matrix factorization for heterogenous data with batch effects (GitHub)](https://github.com/dpmerrell/BatchMatFac.jl)
+* [MatFac.jl: A general-purpose, extensible Julia package for GPU-accelerated matrix factorization (GitHub)](https://github.com/dpmerrell/MatFac.jl)
 
 * [SparseMatFac.jl: Matrix factorization for data with very few observations](https://github.com/dpmerrell/SparseMatFac.jl)
 
