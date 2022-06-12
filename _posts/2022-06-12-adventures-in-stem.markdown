@@ -58,7 +58,7 @@ They may develop the maturity and character that come from doing difficult thing
 They may learn to appreciate the work required to actually _know_ something.
 
 This "contact with reality" that I've described has some correspondence 
-to [the idea of "purity" in this classic XKCD](https://imgs.xkcd.com/comics/purity.png)
+to [the idea of "purity" in this classic XKCD.](https://imgs.xkcd.com/comics/purity.png)
 
 I would put it this way: the purity of a field results from the rigorousness of its methods.
 
@@ -88,8 +88,10 @@ If you play your cards right, you will never be bored.
 
 I'm practically never bored.
 I'm curious about too many topics in computer science, math, and physics for that to ever happen.
-Even if I were stranded on a desert island, I'd probably spend a lot of time scratching in the sand and thinking about algorithms or thermodynamics or quantum mechanics (or any of the other myriad topics I only partially understand). 
+Even if I were stranded on a desert island, I'd probably spend a lot of time scratching in the sand and puzzling over algorithms or thermodynamics or quantum mechanics (or any of the other myriad topics I only partially understand). 
 
+TODO: gaps in a STEM education 
+TODO: the asymmetry of STEM/liberal arts for work/leisure
 
 <!-- Internal link
 [Link to asset]({{site.url}}/assets/myfile.pdf)
