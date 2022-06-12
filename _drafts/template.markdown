@@ -9,7 +9,13 @@ tags: [{comma-separatedstrings}]
 
 Body
 
+<!-- Internal link
 [Link to asset]({{site.url}}/assets/myfile.pdf)
+-->
+
+<!-- Include an image
+![title text]({{ site.baseurl }}/assets/images/your-image.jpg){:height="200px" :width="300px"} 
+-->
 
 \\( \blacksquare\\)  
 
