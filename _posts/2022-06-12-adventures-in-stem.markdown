@@ -90,8 +90,11 @@ I'm practically never bored.
 I'm curious about too many topics in computer science, math, and physics for that to ever happen.
 Even if I were stranded on a desert island, I'd probably spend a lot of time scratching in the sand and puzzling over algorithms or thermodynamics or quantum mechanics (or any of the other myriad topics I only partially understand). 
 
-TODO: gaps in a STEM education 
-TODO: the asymmetry of STEM/liberal arts for work/leisure
+# TODO
+
+Gaps and weaknesses in a STEM education 
+
+The asymmetry of STEM/liberal arts for work/leisure
 
 <!-- Internal link
 [Link to asset]({{site.url}}/assets/myfile.pdf)
