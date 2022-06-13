@@ -21,7 +21,7 @@ permalink: /miscellaneous/
 
 [Antifragile (Nassim Taleb)](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto-ebook/dp/B0083DJWGO/ref=sr_1_1?s=books&ie=UTF8&qid=1518379447&sr=1-1&keywords=antifragile)
 
-[Homo Deus: A Brief History of Tomorrow (Yuval Noah Harari)](https://www.amazon.com/dp/B01BBQ33VE/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+[Sapiens: A Brief History of Humankind (Yuval Noah Harari](https://www.amazon.com/dp/B00K7ED54M/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 
 [Surely You're Joking, Mr. Feynman! (Richard Feynman)](https://www.amazon.com/Surely-Feynman-Adventures-Curious-Character/dp/0393316041)
 
@@ -64,34 +64,31 @@ permalink: /miscellaneous/
 
 [Conversations with Tyler (Tyler Cowen)](https://conversationswithtyler.com/)
 
-[Economist Radio (The Economist)](https://www.economist.com/podcasts/)
-
-[Rationally Speaking (Julia Galef; New York City Skeptics)](http://rationallyspeakingpodcast.org/)
-
-[Intelligence Squared US](https://www.intelligencesquaredus.org/podcasts)
-
-[Oh No Ross and Carrie (Ross Blocher, Carrie Poppy)](http://ohnopodcast.com/)
-
 [Astral Codex Ten (Jeremiah; Scott Alexander)](https://www.audacy.com/podcasts/slate-star-codex-podcast-24424)
 
-[Sinica (SupChina)](https://supchina.com/series/sinica/)
+[Economist Radio (The Economist)](https://www.economist.com/podcasts/)
+
+[The Fifth Column (Kmele Foster, Michael Moynihan, Matt Welch)](https://wethefifth.com/)
+
+[Oh No Ross and Carrie (Ross Blocher, Carrie Poppy)](http://ohnopodcast.com/)
 
 [Honestly (Bari Weiss)](https://www.honestlypod.com/)
 
 
 ## YouTube Channels
 
-[Talks at Google](https://www.youtube.com/channel/UCbmNph6atAoGfqLoCL_duAg)
-
-[Sabine Hossenfelder](https://www.youtube.com/channel/UC1yNl2E66ZzKApQdRuTQ4tw)
-
-[Netherlands Bach Society](https://www.youtube.com/channel/UC2kF6qdHRTM_hDYfEmzkS9w)
+[3Blue1Brown](https://www.youtube.com/c/3blue1brown) 
 
 [Kurzgesagt](https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q)
 
-[3Blue1Brown](https://www.youtube.com/c/3blue1brown) 
-
 [Bloggingheads.tv](https://www.youtube.com/c/BloggingheadsTV)
+
+[Sabine Hossenfelder](https://www.youtube.com/channel/UC1yNl2E66ZzKApQdRuTQ4tw)
+
+[Veritasium](https://www.youtube.com/c/veritasium)
+
+[Netherlands Bach Society](https://www.youtube.com/channel/UC2kF6qdHRTM_hDYfEmzkS9w)
+
 
 <br>
 

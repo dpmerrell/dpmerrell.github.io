@@ -58,7 +58,7 @@ They may develop the maturity and character that come from doing difficult thing
 They may learn to appreciate the work required to actually _know_ something.
 
 This "contact with reality" that I've described has some correspondence 
-to [the idea of "purity" in this classic XKCD.](https://imgs.xkcd.com/comics/purity.png)
+to [the idea of "purity" in this classic XKCD.](https://xkcd.com/435)
 
 I would put it this way: the purity of a field results from the rigorousness of its methods.
 
