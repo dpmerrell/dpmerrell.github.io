@@ -78,7 +78,7 @@ grads = Zygote.gradient(your_dag, arg1, arg2, ..., argN)
 Alternatively, the `withgradient` function returns the function value _and_ the gradients.
 
 ```julia
-val, grads = Zygote.gradient(your_dag, arg1, arg2, ..., argN)
+val, grads = Zygote.withgradient(your_dag, arg1, arg2, ..., argN)
 ``` 
 
 This is useful for, e.g., returning the loss _and_ the gradient simultaneously when training a neural net.
