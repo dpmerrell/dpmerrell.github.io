@@ -21,7 +21,7 @@ permalink: /miscellaneous/
 
 [Antifragile (Nassim Taleb)](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto-ebook/dp/B0083DJWGO/ref=sr_1_1?s=books&ie=UTF8&qid=1518379447&sr=1-1&keywords=antifragile)
 
-[Sapiens: A Brief History of Humankind (Yuval Noah Harari](https://www.amazon.com/dp/B00K7ED54M/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+[Sapiens: A Brief History of Humankind (Yuval Noah Harari)](https://www.amazon.com/dp/B00K7ED54M/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 
 [Surely You're Joking, Mr. Feynman! (Richard Feynman)](https://www.amazon.com/Surely-Feynman-Adventures-Curious-Character/dp/0393316041)
 
