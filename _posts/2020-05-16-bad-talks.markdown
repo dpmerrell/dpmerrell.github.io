@@ -31,7 +31,7 @@ given by researchers in technical fields.
 
 * If the brilliant Moshe Vardi feels this way, then I seem to be in good company. 
 * I suspect scientists don't talk about this more often because 
-    1. It's difficult to deliver a good talk. So, you know, "glass houses" and all that.
+    1. It's difficult to deliver a good talk. So, you know, "glass houses".
     2. If you admit that you didn't understand a talk then you risk "looking dumb,"
        which is kind of scary to do as a researcher in a STEM field.
 

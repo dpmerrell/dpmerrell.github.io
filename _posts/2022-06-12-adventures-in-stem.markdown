@@ -28,7 +28,7 @@ In this post I will avoid obnoxious stereotypes:
 Before I begin, a quick sketch of my own path through STEM.
 
 In college I started in mechanical engineering, but switched to physics after 1.5 years.
-Then, after another 1.5 years I switched to mathematics! Despite all this switching around,
+Then, after another 1.5 years I switched to mathematics. Despite all this switching around,
 I managed to get my BS in mathematics after a total of 4.5 years of college.
 
 A couple years later, I went to grad school for computer science.
@@ -62,17 +62,34 @@ to [the idea of "purity" in this classic XKCD.](https://xkcd.com/435)
 
 I would put it this way: the purity of a field results from the rigorousness of its methods.
 
-<!--
-The social sciences certainly have value.
-I like to learn about them in my free time.
-However, their products are on less-secure epistemological footing, and their value is harder to gauge.
-They attempt to understand very complex phenomena&mdash;human behavior, the organization of society, etc.
-But they don't lend themselves to empiricism very easily.
-I think of the ideas in social science as different _lenses_ I can use to view a situation.
-I don't give any one of them too much credence.
+# Mental models
 
-I also enjoy the liberal arts. 
--->
+A STEM education populates a person's mind with cognitive tools that can serve them throughout their life.
+
+[The Farnam Street blog refers to these tools as "mental models,"](https://fs.blog/mental-models/) and does a great job describing their value[^1].
+Mental models inform a person's decision-making in life, business, finance, politics, love, etc.
+
+A person who studies the STEM disciplines is uniquely positioned to collect a rich, expressive set of models and incorporate them deeply into their thinking.
+
+Here are some of my favorites:
+
+* [Harmonic oscillators](https://en.wikipedia.org/wiki/Harmonic_oscillator); [equilibrium](https://en.wikipedia.org/wiki/Mechanical_equilibrium)
+* [Graphs](https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)); [directed graphs](https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)#Directed_graph); [DAGs](https://en.wikipedia.org/wiki/Directed_acyclic_graph)
+* [Vector spaces](https://en.wikipedia.org/wiki/Vector_space) and [Linear transformations](https://en.wikipedia.org/wiki/Linear_map)
+* [Linear ODEs](https://en.wikipedia.org/wiki/Linear_differential_equation)
+* [Nonlinearity](https://en.wikipedia.org/wiki/Nonlinear_system); [chaos](https://en.wikipedia.org/wiki/Chaos_theory)
+* [Ising model](https://en.wikipedia.org/wiki/Ising_model); [phase transitions](https://en.wikipedia.org/wiki/Phase_transition)
+* [Random variables](https://en.wikipedia.org/wiki/Random_variable); [Bayes' Rule](https://en.wikipedia.org/wiki/Bayes%27_theorem)
+* [Regularization](https://en.wikipedia.org/wiki/Regularization_(mathematics))
+* [Markov decision processes](https://en.wikipedia.org/wiki/Markov_decision_process)
+* [Intelligent agents](https://en.wikipedia.org/wiki/Intelligent_agent)
+
+For example, a person could use the Ising model to think about culture in an organization.
+If people in an organization are analogous to atoms, and a cultural mindset is like atomic spin, then organizations tend to encourage people to share a single mindset.
+Individuals who depart from that mindset are penalized; however, if a sufficient number adopt a different mindset then that may cause the remainder to also adopt that mindset.
+Increasing the temperature may also increase the probability of such a change&mdash;this may be analogous to some external disruption.
+I could flesh out this analogy further, but I think you get the idea.
+ 
 
 # A lifetime of curiosity and learning
 
@@ -106,4 +123,9 @@ The asymmetry of STEM/liberal arts for work/leisure
 
 
 \\( \blacksquare\\)  
+
+&nbsp;
+
+[^1]: though Farnam Street's coverage of specific mental models has an MBA-ish glibness or superficiality to it.
+
 
