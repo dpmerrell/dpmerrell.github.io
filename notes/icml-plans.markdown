@@ -70,10 +70,36 @@ tags: [conference, machine-learning]
 
 ## Wednesday
 
+* 10:30 - 12 Sessions
+    - [Variational inference](https://icml.cc/virtual/2022/session/20079)
+        * Oral talk at 10:30
+        * Room 301-303
+    - [Deep learning](https://icml.cc/virtual/2022/session/20075)
+        * Oral talk at 11:05
+        * Ballroom 1 & 2  
+
+* 1:15 - 2:45 Sessions
+    - [Chemistry and drug discovery](https://icml.cc/virtual/2022/session/20087)
+        * Oral at 1:45
+        * Hall F
+    - [Bayesian models and methods](https://icml.cc/virtual/2022/session/20089)
+        * Oral at 1:15, 2:00
+        * Room 301-303
+
+* 3:15 invited talk: Synthetic control methods and difference in differences
+    - Guido Imbens, recent Nobel laureate
+    - econometrics
+    - Could be very interesting
+
+* 4:30 sessions
+    - None of these seem very aligned with my interests. I could go to the job fair/booths at this time
+ 
+
 ## Thursday
 
 * [Keynote 9am Thursday, Hall F](https://icml.cc/virtual/2022/invited-talk/18432)
     - Aviv Regev, Design for inference in drug discovery and development 
+
 
 
 ## Friday
@@ -81,6 +107,7 @@ tags: [conference, machine-learning]
 * [Workshop on Computational Biology](https://icml.cc/Conferences/2022/Schedule?showEvent=13464)
     - 8:30AM - 5:30PM
     - Room 310
+
 
 ## Saturday
 
