@@ -100,6 +100,15 @@ tags: [conference, machine-learning]
 * [Keynote 9am Thursday, Hall F](https://icml.cc/virtual/2022/invited-talk/18432)
     - Aviv Regev, Design for inference in drug discovery and development 
 
+* 10:00 sessions
+    - Physics applications
+        * Hall F
+        * Oral at 11:05
+
+* 1:30 sessions
+    - Self-supervised learning, GNNs
+        * Ballrooms 1 & 2
+        * Oral at 2:05
 
 
 ## Friday
