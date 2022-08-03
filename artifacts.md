@@ -114,9 +114,9 @@ permalink: /publications/
 ## Visualizations
 
 * Interactive plots:
-    - [The Cancer Genome Atlas (TCGA) pathway embedding]({{site.url}}/assets/visualizations/tcga_scatter.html)
-    - [The Cancer Genome Atlas (TCGA) pathway factors]({{site.url}}/assets/visualizations/pathway_factors.html)
-    - [The Cancer Genome Atlas (TCGA) pathway activations]({{site.url}}/assets/visualizations/activations.html)
+    - [The Cancer Genome Atlas (TCGA) pathway embedding]({{site.url}}/assets/visualizations/tcga_scatter-ismb2022.html)
+    - [The Cancer Genome Atlas (TCGA) pathway factors]({{site.url}}/assets/visualizations/pathway_factors-ismb2022.html)
+    - [The Cancer Genome Atlas (TCGA) pathway activations]({{site.url}}/assets/visualizations/activations-ismb2022.html)
     
 
 * GIFs:
