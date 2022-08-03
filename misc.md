@@ -135,6 +135,14 @@ David Merrell
 
 <br>
 
+[Random idea generator]({{site.url}}/notes/idea-generator.html)
+
+<br>
+
+------
+
+<br>
+
 ## PGP Public key
 
 [dmerrell.gpg]({{site.url}}/assets/misc/dmerrell.gpg)
