@@ -50,9 +50,16 @@ function generateIdea() {
   ideaStr += ideadata.nouns[noun1idx] + " ";
   ideaStr += ideadata.connectors[connectoridx] + " ";
   ideaStr += ideadata.adjectives[adj2idx] + " ";
-  ideaStr += ideadata.nouns[noun2idx] + " ";
+  ideaStr += ideadata.nouns[noun2idx];
 
-  return ideaStr;
+  var linkStr = "https://scholar.google.com/scholar?hl=en&as_sdt=0%2C50&q=";
+  linkStr += ideadata.adjectives[adj1idx] + "+";
+  linkStr += ideadata.nouns[noun1idx] + "+";
+  linkStr += ideadata.connectors[connectoridx] + "+";
+  linkStr += ideadata.adjectives[adj2idx] + "+";
+  linkStr += ideadata.nouns[noun2idx];
+
+  return "<a href='"+linkStr+"'>"+ideaStr+"</a>";
 }
 
 function generateNIdeas(N) {
