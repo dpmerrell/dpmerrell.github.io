@@ -1149,7 +1149,7 @@ All were 5-minute "spotlight" talks, except the molecule generation talk (which 
     - How are cells spatially organized within tissues? How does this differ in health vs. disease?
     - Spatially resolved transcriptomics technologies provide opportunities to answer these questions
         * Check out Atta and Fan (2021) for an overview
-    - Topics for this morngin
+    - Topics for this morning
         - Imaging -based molecular-resolution spatially resolved transcriptomics technologies
         - comparative spatial analysis across samples and technologies
     - mRNA's spatial organization can be imaged within individual cells and tissue samples
@@ -1322,7 +1322,7 @@ I remember their talking points at a high level.
     - Coarse-graining with graph neural networks
     - [All in all, these are very creative uses of deep learning. (1) frame physics problem as variational problem (2) use deep learning to represent infinite-dimensional functions (3) train using high-fidelity simulations. Not clear about the role of stochasticity in the Stochastic normalizing flow case.]
     - Q&A
-        * How does PaoliNet scale with the number of atoms?
+        * How does PauliNet scale with the number of atoms?
             - On paper, N^4. In practice, N^3. Could be practical for dozens of atoms, possibly ~100.
         * [Future applications]
             - There are still many breakthroughs to make in protein physics. There will be many more AlphaFolds
@@ -1334,6 +1334,7 @@ I remember their talking points at a high level.
         * At one end: first principles. At the other end: machine learning
         * first principles do not learn, but they do extrapolate. Sometimes they're cheap
         * ML is fast, improves with data, attains good performance. But only as good as training data.
+        * In the middle: interatomic potentials, differentiable simulations, sampling "hard" distributions, multi-fidelity, structure-property relationships, representation learning, active learning, inverse design
     - Autodiff uncertainty and ML potentials
         * ML potentials: surrogate function from atomic configurations to e.g., energy of the system
         * GNNs, equivariant models
@@ -1354,7 +1355,212 @@ I remember their talking points at a high level.
         * Use neural ODE to learn time evolution
         * However it's very unstable, and ground truth is expensive to obtain
         * We can formulate the active learning/sample selection problem as an _adversarial attack_ that maximizes the uncertainty
-     
+    - Uncertainty attribution for condensed phase
+        * It turns out chemistry is very local (in the context he was talking about)
+
+* Efficient continuous spatio-temporal simulation with graph spline networks (Chuanbo Hua)
+    - Simulating complex physics with 
+    - motivation: continuous simulations
+        * One approach: Learn the derivative of the function
+        * Another approach: interpolation
+        * Proposed method: orthogonal splines
+    - Time-oriented OSC
+        * Split the domain into partitions
+        * find a polynomial under order r that [...]
+    - "almost block diagonal matrix"
+    - Space-oriented OSC 
+    - [TBH I stopped following at this point]
+
+* Invited talk: Daphne Koller. Transforming drug discovery using digital biology
+    - vaccines, biologics, cancer immunotherapies, genetically targeted therapeies, cell therapies
+    - EROOM's law: the exponential decrease in R&D productivity in pharmaceuticals
+    - where do these failures come from?
+        * problems are fundamentally hard
+        * many difficult decisions to make
+    - The aim is to integrate ML into process to increase probability of success
+    - Learning biologic state to redefine disease taxonomy
+        * disease taxonomy is derived from subjective human ontologies
+        * 
+    - Biomarker data enables understanding of biologic state
+        * Insitro has in-house lab capabilities that allow it to generate large amounts of data
+        * ML allows them to identify subtle patterns in the data that are not noticeable to humans
+    - High-content data bridges genetics and clinical outcomes
+    - Insitro platform
+        * inputs: genetics, patient data, cellular model data; machine learning
+        * outputs: targets, therapies
+    - want interventions that are save and effective in a human
+    - therapeutic projects in metabolism and neuroscience
+    - Nonalcoholic Steatohepatitis (NASH)
+        * NAFLD prevalence in 24% of the world
+        * NASH is the progression of NAFLD
+        * Worked with Gilead. Dense clinical data captures patient state
+            - histopathology, rnaseq from biopsy, blood biomarkers -> [???]
+        * challenge: standard histological scores provide low-resolution measurements of disease
+        * solution: use ML to characterize histological phenotypes beyond standard endpoints
+            - (self-supervised learning on images?)
+        * ML fibrosis scores correlate with pathologist assessments and capture meaningful variation within those scores
+    - Multimodal analysis can predict molecular measurements
+        * assess histological phenotypes; fit a linear model
+    - ML embeddings improve prediction of liver RNA-seq
+        * I.e., can predict RNAseq measurements from 
+    - ML embedding scores can be used together with gene expression to identify genes whose expression drives disease progression
+        * Found 37 genes with strong associations to fibrosis -- only 3 were known previously
+        * (for fibrosis, the goal is to reduce disease progression -- the disease is already there and doesn't seem feasible to reverse)
+    - Looks like they use some image data as well...
+    - They have a new, ML-enabled microscope
+        * ML and quantitative phase imaging enable longitudinal phenotyping and exposure response tracking in live cells
+        * ML phenotypign captures concentration gradient through morphological change
+    - Work in neuroscience
+        * Tubrous sclerosis complex (TSC)
+            - genetics: TSC1/TSC2 LoF leading to mTOR pathway overactivation -> benign tumors
+            - everolimus approved for adjunctive use for siezures, ineffective in ~ 50% of patients 
+            - There are standard biomarkers
+            - Insitro used a much broader view -- "high content biomarker"
+               - multiomic data
+            - Tested mTOR pathway genes for marker-based reversion
+               - scRNAseq model distinguishes "healthy" and "sick" and is consistent with patient data
+               - 1) build embedding, 2) train predictive model on embedding 3) validate in patient samples (bulk RNAseq) 
+               - TSC knockouts were clearly separated in the embedding 
+            - scRNAseq ML model quantitatively projects [???]
+            - PerturbSeq identifies critical TSC disease causal genes
+               - Also interested in "disease-modifying" genes
+               - Identified a particular "gene X" as a potential reversion gene
+            - Morphology model supports reversion for both rapamycin and gene X knockout cells
+            - QPI live imaging shows rapamycin dose response
+        * ALS (Lou Gerigh's disease) 
+            - take a wide view: phenotypic manifold generation for CNS disease
+            - work in collaboration with Bristol Myers Squibb
+            - Identify conserved pathophysiology across heterogeneous genetic causes to define coherent patient populations and discover high-impact targets
+    - Summary
+        * Goals: de-risk and accelerate R&D through predictive models; build a data-enabled flywheel that allows us to improve over time
+    - High-level reflections
+        * "Epochs of science": chemistry (1800s) -> physics (1900s) -> computing (1950s) -> data, biology (1990s - present)
+        * -> digital biology (2020s); "Next epoch"
+        * applications in medicine and many other areas
+    - Q&A
+        * Quantitative phase microscope; machine learning on phase imaging
+            - [https://www.nature.com/articles/s41566-018-0253-x]
+            - [this seems like a very exciting technology -- totally stain-free. These kinds of advances in measurement technology seem important for producing large amounts of informative data that enable meaningful learning. The classic assays seem so blunt in contrast. I'm sure that 'omics can complement images, though]
+        * Acquiring data is challenging -- how did you do it?
+            - Had access to clinical trial data; patients consented to use of their data
+            - wealth of data in the UK biobank
+            - partnership with Genomics England; they have whole genome sequences for ~1000 genomes
+                * Have access to tumor and germline genetics
+                * https://www.genomicsengland.co.uk/
+
+* Invited talk: Animashree Anandkumar (CalTech)
+    - Neural operators for learning mappings on function spaces (i.e., mapping between infinite-dimensional spaces)
+    - 10^6 x leap in scientific computing
+        * Despite the improvements in hardware, our tasks remain larger than are feasible via standard computing
+        * E.g., climate modeling. A multi-scale phenomenon, where scales are tightly coupled
+        * People estimate that we'd need 100 billion x compute than we have, in order to adequately resolve low-level cloud details for climate modeling.
+        * another example: standard techniques would take longer than the age of the universe to simulate ~100-electron systems
+        * How do we bring machine learning into these settings, where standard approaches are infeasible?
+        * typical ML techniques won't work, since we need physical feasibility
+    - Case study: predicting movement of a hurricane
+        * Will a hurricane make landfall? When?
+        * Her work shows that ML can speed up modeling for this phenomenon by 100,000 x
+        * Fourier neural operator
+            - https://arxiv.org/pdf/2010.08895.pdf
+    - FourCastNet is totally data-driven, trained on 10TB of weather data
+        * uses FNO with transformer backbone
+        * unparalleled accuraty of surface winds and precipitation up to one week.
+        * 8x higher resolution than any othe rmodel for weather forecasting.
+        * 1000-member ensemble in a fraction of a second
+            - I.e., 1000 slightly perturbed initial conditions
+            - important for producing error bars around predictions (UQ)
+        * 4-5 orders of magnitude speedup over NWP
+        * 25000x smaller energy footprint
+    - Model coupling to answer what-if questions
+        * E.g., climate models -> weather models -> power generation model -> electric grid model
+    - Discretization-free learning
+        * neural network: mapping in finite dimensions
+        * neural operator: mapping in infinite dimensions (function space)
+        * We know neural networks can approximate any continuous function in finite dimensions...
+        * neural operator: compose a linear operator with a nonlinearity
+            - What operator would we use? An integral operator
+            - Integral convolution with the Green function
+            - Fourier transform for global convolution
+            - [Nothing mysterious here... it's the same thing you encountered in spectral graph convolutions. Convert to fourier space, apply weights in fourier space, convert back from Fourier space.]
+            - 
+    - Other applications of FNO: seismic tomography, stress prediction in materials, computational lithography, 
+    - Transformers are special cases of neural operators
+    - models are available via NVIDIA modulus
+    - Handling different geometries
+        * FFT is based on uniform grid. What about other settings?
+        * Idea: use an encoder to transform to a uniform grid; apply FNO; then transform back
+    - Modeling chaotic systems
+        * Sensitivity to initial conditions
+        * We can't hope to do weather prediction accurately.
+        * However, this doesn't necessarily mean climate prediction is infeasible. There may be attractors in the landscape.
+        * In this setting, the goal isn't to predict exact trajectories. Rather, the goal is to characterize the statistics of the attractors.
+        * Enforcing dissipativity
+            - The physical systems we care about are dissipative, i.e., solutions don't "blow up"
+            - This ensures the existence of attractors
+            - we can enforce dissipativity by augmenting virtual data points around the raw data (equivalent to adding a loss term)
+            - More precisely, they add virtual data points in the vicinity of an attractor
+    - Physics informed neural operators
+        * e.g., verify that a system satisfies conservation laws, or solves a given PDE
+    - Conclusions: neural operators are a principled way to 
+    - Q&A:
+        * Would it be better to find a map directly from system -> attractors, rather than learning dynamics (i.e. movement in a time step)?
+            - It's not clear that that's learnable, but it's an interesting idea
+
+* Learning to solve PDE constraint inverse problem using Graph Network
+    - PDE-constrained inverse problem: infer knowledge from observation data byleveraging simulation and mathematical models (i.e., estimate latent parameters)
+    - Abstractly, this can be viewed as an optimization problem where we minimize simulation error w.r.t. observed data
+        * However, the naive approach is expensive and ill-posed
+    - Proposed technique: use a "GNN solver"
+    - contrast with other methods
+        * conventional methods: FEM, FD, FV. accurate, adaptive, only as accurate as the model, only does forward-simulation
+        * physics-based NN methods for forward simulation in PDEs: minimize PDE residual
+        * Data-driven forward-solving approaches: e.g., FNO
+    - Proposed technique:
+        * GNN-based simulator
+        * [I guess this is also just a forward-simulation approach, but it uses a GNN for its flexibility]
+    - Outperforms conventional methods, as well as other learning-based methods
+    - 90x faster than classical solver
+
+* Invited talk: Anthony Gitter
+    - Lessons learned from trying to use ML to guide biological experiments
+    - Protein engineering
+        * Amino acid sequence -> 3D structure -> function 
+            - i.e., regression from amino acid sequence
+            - e.g., fluorescence of GFP
+            - e.g., we could try to tweak GFP's sequence to make it as bright as possible
+        * Deep mutational scanning samples the sequence-function space
+            - experimentally characterize tens of thousands of protein variants. I.e., generate (mutation, function) pairs
+            - Protein Gym is a good source of datasets like this
+            - It's not possible to test all possible sequences. But can ML fill the gaps?
+        * The results showed that ML does a good job of _interpolating_ the data. What happens when we try to use the model to guide protein design?
+            - case study: GB1. Want to know how strongly variants of GB1 bind to IgG.
+            - used a ML model to suggest GB1 sequence modifications
+            - came up with 5 candidates
+                * Are any of these (1) physically feasible (2) produce stronger affinity?
+                * As we went further from wild-type, the sequences became insoluble -- not physically viable.
+                * One candidate near wild-type, "Design10", did attain much higher binding affinity
+        * METL: mutational effect transfer learning
+            - transfer learning based on molecular simulations
+            - simulate protein variants with Rosetta
+            - train a model to predict the Rosetta energies
+            - transfer representation to experimental data
+        * Lessons learned from protein engineering
+    - Drug discovery
+        * e.g., antibiotics. Which chemical can kill K. pneumonia? Want chemicals that bind to specific proteins
+        * virtual screening models prioritize chemicals
+        * Supervised learning for virtual screening
+        * What happened when we first tried this?
+            - large chemical libraries provide a list of synthesizable chemicals. Enamine has 4*10^9 currently.
+            - far too many to screen physically
+        * What is the goal? Find a new drug?
+            - No, the goal is to generate candidates which can be experimentally validated
+            - Want many active chemicals but also a diverse set of chemicals
+        * Ranked the ~10B chemicals and requested a quote for the top 10k.
+        * They had varying costs and preparation times
+        * lesson learned: carefully consider how a predictive model will be used in practice
+    - Signaling pathways
+        * SSPS!
+    
 
 # Themes that I noticed at ICML 2022
 
