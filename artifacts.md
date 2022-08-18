@@ -6,8 +6,8 @@ permalink: /publications/
 
 ## Publications
 
-* **David Merrell**, Thevaa Chandereng, Yeonhee Park. *A Markov Decision Process for Response-Adaptive Randomization in Clinical Trials.* Computational Statistics and Data Analysis (*to appear* 2022).
-    - [preprint manuscript (arXiv)](https://arxiv.org/abs/2109.14642)
+* **David Merrell**, Thevaa Chandereng, Yeonhee Park. *A Markov Decision Process for Response-Adaptive Randomization in Clinical Trials.* Computational Statistics and Data Analysis. *to appear* 2023.
+    - [preprint manuscript (2021) (arXiv)](https://arxiv.org/abs/2109.14642)
     - [R package (GitHub)](https://github.com/dpmerrell/TrialMDP)
     - [Analysis code (GitHub)](https://github.com/dpmerrell/TrialMDP-analyses)
 
@@ -49,6 +49,8 @@ permalink: /publications/
 * [ROBDDs in Julia (GitHub)](https://github.com/dpmerrell/ROBDD.jl)
 
 * [Modeling and prediction for sports brackets (GitHub)](https://github.com/dpmerrell/Bracketology.jl) 
+
+* [Random idea generator (HTML)]({{site.url}}/notes/idea-generator.html)
 
 * [A Yahtzee solver python package (GitHub)](https://github.com/dpmerrell/yahtzee)
 
