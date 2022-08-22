@@ -126,9 +126,15 @@ permalink: /publications/
     - [Diffusion equation]({{site.url}}/assets/visualizations/diffusion.gif)
     - [Mandelbrot set zoom]({{site.url}}/assets/visualizations/mandelbrot_colornorm.gif)
     - [N-body Newtonian gravity]({{site.url}}/assets/visualizations/gravity.gif)
-    - [Variational Inference: outcome space]({{site.url}}/assets/visualizations/vi_dists.gif)
-    - [Variational Inference: variational parameter space]({{site.url}}/assets/visualizations/kl_minimization.gif)
-    - [MCMC sampling]({{site.url}}/assets/visualizations/mcmc_sampling.gif)
+    - Approximate Bayesian techniques
+        * [Variational Inference: outcome space]({{site.url}}/assets/visualizations/vi_dists.gif)
+        * [Variational Inference: variational parameter space]({{site.url}}/assets/visualizations/kl_minimization.gif)
+        * [MCMC sampling]({{site.url}}/assets/visualizations/mcmc_sampling.gif)
+    - Linear regression
+        * [gradient descent: parameter space]({{site.url}}/assets/visualizations/regression_loss_gd.gif)
+        * [gradient descent: fit]({{site.url}}/assets/visualizations/regression_fit_gd.gif)
+        * [MCMC: parameter space]({{site.url}}/assets/visualizations/regression_loss_mcmc.gif)
+        * [MCMC: fit]({{site.url}}/assets/visualizations/regression_fit_mcmc.gif)
 
 
 
