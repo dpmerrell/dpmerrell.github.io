@@ -52,7 +52,7 @@ permalink: /publications/
 
 * [Random idea generator (HTML)]({{site.url}}/notes/idea-generator.html)
 
-* [A Yahtzee solver python package (GitHub)](https://github.com/dpmerrell/yahtzee)
+* [A Yahtzee solver python package (GitHub)](https://github.com/dpmerrell/yahtzee) [(PyPI)](https://pypi.org/project/yahtzee-solve/)
 
 * [A Wordle Julia package (GitHub)](https://github.com/dpmerrell/Wordle.jl)
 
