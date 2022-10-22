@@ -43,6 +43,8 @@ permalink: /publications/
 
 * [Some Snakemake demos (GitHub)](https://github.com/dpmerrell/snakemake-demos)
 
+* [Deep learning exercise: attention models for molecules (GitHub)](https://github.com/dpmerrell/bbbp-attention)
+
 * [Tinkering with the Gen probabilistic programming language (GitHub)](https://github.com/dpmerrell/gen-experiments)
 
 * [A Singularity container for deep learning (GitHub)](https://github.com/dpmerrell/singularity-deep-learning)
