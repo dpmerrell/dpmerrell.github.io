@@ -44,7 +44,8 @@ I'll list them here in no particular order:
 I want to flesh out the first bullet point a bit more; the emphasis on biological and chemical applications.
 The two relevant keynotes were given by Regina Barzilay (MIT) and Aviv Regev (Genentech).
 Additionally, I'll mention workshop talks by Daphne Koller (Insitro) and Chris Langmead (Amgen).
-All of these talks seemed to emphasize that _data is the bottleneck in biological and chemical applications_.Several of them seemed to propose closed loops between ML models and laboratories&mdash;an active learning framework. 
+All of these talks seemed to emphasize that _data is the bottleneck in biological and chemical applications_. 
+Several of them seemed to propose closed loops between ML models and laboratories&mdash;an active learning framework. 
 
 I won't claim that these themes give an objective picture of ICML.
 Think of it as an opinionated summary.

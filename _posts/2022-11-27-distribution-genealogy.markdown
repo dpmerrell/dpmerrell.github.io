@@ -12,7 +12,7 @@ Some of the Wikipedia pages I visit the most belong to probability distributions
 * [Poisson](https://en.wikipedia.org/wiki/Poisson_distribution)
 * [Gamma](https://en.wikipedia.org/wiki/Gamma_distribution)
 * [Negative binomial](https://en.wikipedia.org/wiki/Negative_binomial_distribution)
-* [Beta](https://en.wikipedia.org/wiki/Gamma_distribution#Bayesian_inference)
+* [Beta](https://en.wikipedia.org/wiki/Beta_distribution)
 * Etc.
 
 My favorite parts of these pages are the "Related distributions" and "Random variate generation" sections.
