@@ -36,7 +36,7 @@ Try opening the image in a new tab and zooming in for a closer look.
 In this picture, randomness begins with nearly-physical representations of uncertainty: fair coins and urns.
 The central limit theorem gives the normal distribution a "sink-like" quality in the directed graph (though Cauchy and some Pareto or t-distributions evade capture).
 
-The relationship between e.g., Binomial and Poisson&mdash;marked "flips --> infinity"&mdash;glosses over a really interesting relationship that I might describe in a future post.
+The relationship between e.g., Binomial and Poisson&mdash;marked "flips \\( \rightarrow \infty\\)"&mdash;glosses over a beautiful mathematical process that I might describe in a future post.
 
 \\( \blacksquare\\)  
 
