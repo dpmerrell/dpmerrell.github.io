@@ -15,7 +15,7 @@ Some of the more helpful sources I found:
 * [Reddit](https://www.reddit.com/r/biotech/comments/m1mezy/startup_equity_offer_vs_number_of_employees_vs/)
 * Wellfound/AngelList
     - [This blog post](https://angel.co/blog/9-terms-youll-see-in-your-equity-offer-and-what-they-actually-mean)
-    - [This interative tool](https://angel.co/salaries)
+    - [This interactive tool](https://angel.co/salaries)
     - (I would guess Wellfound's numbers are more typical of software startups, which are much less capital-intensive than biotechs.)
 * GPT-3:
 
@@ -39,7 +39,8 @@ Suppose a startup offers 10,000 shares of stock options. Some things to think ab
 * Some other salient things to be aware of:
     - Vesting schedule. You will be given the stock options on a gradual basis. And this usually only begins to happen after you've been an employee for a whole year.
     - Liquidity. An early stage startup is probably a private company. It can be very difficult to sell the stock of a private company; you usually can't sell your stock until the company goes public or gets acquired (in which case the buyer may buy out your shares, though it's not guaranteed).
-    - Strike price. It will cost money to exercise your options and get actual stock. For example, in the dream scenario you'd have to pay $10k up front to receive the stock (which you could then resell for $1M, netting $999K). The strike price can vary over time as the valuation of the company changes (though it's fixed at the time you receive the options).
+    - Strike price. It will cost money to exercise your options and get actual stock. For example, suppose we're back in the dream scenario and the strike price is $1 per share.
+      Then you would have to pay $10K to obtain all of your stock (which you could then resell for $1M, netting $999K). The strike price can vary over the vesting schedule as the valuation of the company changes.
     - Taxes. You will have to pay taxes (a) when you exercise the options and (b) when you sell the stock. In the dream scenario, you will end up with much less than $999K post-tax.
     - If you quit or get fired, then you will be given a strict time limit to exercise your options&mdash;usually no more than 90 days. Otherwise you forfeit your options. This is a difficult situation if the shares are still illiquid! You either pay taxes and the strike price up front for illiquid stocks, waiting with the hope of a liquidity event in the future; or you throw away the options that you earned over years of employment. 
 
