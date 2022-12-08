@@ -32,7 +32,7 @@ Suppose a startup offers 10,000 shares of stock options. Some things to think ab
 
 * What fraction of the company do those shares represent? Equivalently: what is the total number of shares outstanding?
 * Is the total number of shares likely to increase? If the startup is very young then the answer is "yes&mdash;by a lot". If this is the case, then your fraction will shrink. This is called "dilution."
-* This fraction of ownership gives an idea of the potential value of the underlying stock. 
+* This fraction of ownership gives an idea of the potential value of your stake. 
     - Suppose the 10,000 shares represent 0.1% of the startup. Then imagine all of your dreams come true, and the startup reaches a $1B evaluation. 
     - In that case, your stake would be worth 0.001 x $1B = $1M. Which is great!
     - However, suppose there is significant dilution. Then the stake would be worth much less than that.
