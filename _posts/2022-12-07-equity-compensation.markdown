@@ -53,8 +53,8 @@ I went through the trouble of sketching it out in Inkscape:
 
 ![title text]({{ site.baseurl }}/assets/images/equity-compensation-mdp.svg){:width="500px"} 
 
-You begin at the top of the image; time flows downward and out, roughly speaking. 
-This is not the full picture; my goal was to capture some of the more salient parts of the decision landscape.
+You begin at the top of the image. Time flows downward and out, roughly speaking. 
+This doesn't show every possible state or action. My goal was to capture some of the more salient parts of the decision landscape.
 Perhaps the most important part of this picture is the large probability of the company failing and the stock price going to zero.
 
 I should emphasize that compensation is one of many criteria for taking a job.
