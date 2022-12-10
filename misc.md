@@ -68,6 +68,8 @@ permalink: /miscellaneous/
 
 [Economist Radio (The Economist)](https://www.economist.com/podcasts/)
 
+[All-In Podcast (Chamath Palihapitiya, Jason Calacanis, David Sacks & David Friedberg)](https://www.youtube.com/@allin/about)
+
 [The Fifth Column (Kmele Foster, Michael Moynihan, Matt Welch)](https://wethefifth.com/)
 
 [Oh No Ross and Carrie (Ross Blocher, Carrie Poppy)](http://ohnopodcast.com/)
@@ -98,6 +100,9 @@ permalink: /miscellaneous/
 
 
 # Photos
+
+**2021-07** Climbed the Grand Teton with family.
+[(Google Photos Album)](https://photos.app.goo.gl/8j9ZdnEATnX3Qod39)
 
 **2019-08** Climbed Longs Peak with my dad.
 [(Google Photos Album)](https://photos.app.goo.gl/MyFujuMTdAs4YPX99)
