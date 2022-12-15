@@ -40,3 +40,5 @@ The relationship between e.g., Binomial and Poisson&mdash;marked "flips \\( \rig
 
 \\( \blacksquare\\)  
 
+**Edit 2022-12-15:** Yesterday I came across [Larry Leemis's website](http://www.math.wm.edu/~leemis/chart/UDR/UDR.html) that does something similar, but in much greater detail. [Larry Leemis](http://www.math.wm.edu/~leemis/) is a professor at William and Mary.
+
