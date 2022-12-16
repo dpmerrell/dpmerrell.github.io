@@ -26,7 +26,7 @@ This way of thinking has informed my decisions on a number of issues:
 
 In each of these choices, I give up some amount of convenience with the expectation that it will shape me in desirable ways. 
 Choosing bikes over cars makes me tougher, happier, and reduces the amount of bulls\*\*\* activities I can even consider doing.
-Choosing Linux avails me to the best free and open source software and cuts out the possibility of gaming.
+Choosing Linux avails to me the best free and open source software and cuts out the possibility of gaming.
 Vim teaches me to view my code as a collection of text files, and allows me to develop them on practically any server[^1].
 
 \\( \blacksquare\\)  
