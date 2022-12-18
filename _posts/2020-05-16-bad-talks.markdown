@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Why Most Technical Talks are Bad"
+title:  "Why most technical talks are bad"
 date:   2020-05-16 00:00:00 -0500
 category: personal 
 tags: [psychology, motivation, productivity] 

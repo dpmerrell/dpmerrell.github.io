@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Thinking About Startup Stock Options"
+title:  "Thinking about startup stock options"
 date:   2022-12-07 00:00:00 -0500
 category: finance
 tags: [finance, stock, options, startups, life-choices] 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hair-Splitting: Machine Learning vs. Statistics"
+title: "Hair-splitting: machine learning vs. statistics"
 date:   2019-11-05 00:00:00 -0500
 category: personal
 tags: [machine learning, statistics, ontology, opinion] 

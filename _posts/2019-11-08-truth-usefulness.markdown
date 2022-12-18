@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Truth and Usefulness"
+title:  "Truth and usefulness"
 date:   2019-11-08 00:00:00 -0500
 category: personal 
 tags: [{comma-separatedstrings}] 

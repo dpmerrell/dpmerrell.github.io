@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Joys of Unit Testing"
+title:  "The joys of unit testing"
 date:   2022-06-18 00:00:00 -0500
 category: technical 
 tags: [programming, julia] 

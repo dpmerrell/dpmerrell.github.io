@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Error, Bias, Variance, and the Human Condition"
+title:  "Error, bias, variance, and the human condition"
 date:   2019-11-17 00:00:00 -0500
 category: personal 
 tags: [psychology, philosophy] 

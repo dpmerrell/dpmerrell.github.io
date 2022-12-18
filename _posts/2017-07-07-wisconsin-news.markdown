@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Algorithmic Fairness Research in the News"
+title:  "Algorithmic fairness research in the news"
 date:   2017-07-07 14:20:00 -0500
 category: research 
 tags: [fairness, nsf, grant, funding, news] 

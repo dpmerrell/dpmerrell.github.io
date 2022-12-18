@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "If You're Not Writing, You're Not Thinking"
+title:  "If you're not writing, you're not thinking"
 date:   2022-11-10 00:00:00 -0500
 category: personal 
 tags: [{comma-separatedstrings}] 

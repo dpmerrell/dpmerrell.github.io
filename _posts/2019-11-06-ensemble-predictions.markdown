@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Group Decisions: Humans and Machines"
+title:  "Group decisions: humans and machines"
 date:   2019-11-06 00:00:00 -0500
 category: personal 
 tags: [machine learning, decision making, humans, organizations, management] 

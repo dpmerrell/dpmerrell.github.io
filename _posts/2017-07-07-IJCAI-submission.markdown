@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Paper Accepted to IJCAI 2017"
+title:  "Paper accepted to IJCAI 2017"
 date:   2017-07-07 14:00:00 -0500
 category: research 
 tags: [probability, integration, inference, IJCAI, paper] 

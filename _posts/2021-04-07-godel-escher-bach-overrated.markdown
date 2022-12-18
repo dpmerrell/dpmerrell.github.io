@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Godel, Escher, Bach: kind of Overrated"
+title:  "Godel, Escher, Bach: kind of overrated"
 date:   2021-04-07 00:00:00 -0500
 category: personal 
 tags: [books, ai, math] 

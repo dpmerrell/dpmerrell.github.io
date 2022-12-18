@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Making Python Packages: Some Useful Resources"
+title:  "Making Python packages: some useful resources"
 date:   2020-05-24 00:00:00 -0500
 category: technical
 tags: [python] 

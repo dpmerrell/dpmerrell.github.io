@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Matgiflib: Making GIFs with Matplotlib"
+title:  "Matgiflib: making GIFs with Matplotlib"
 date:   2018-06-29 09:00:00 -0500
 category: personal 
 tags: [visualization, python, repository] 

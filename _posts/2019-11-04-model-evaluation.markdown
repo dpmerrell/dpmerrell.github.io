@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Avoiding Common Pitfalls in Machine Learning Model Validation
+title: Avoiding common pitfalls in machine learning model validation
 date:   2019-11-04 00:00:00 -0500
 category: technical 
 tags: [cross validation, validation, training set, test set, iid, accuracy] 

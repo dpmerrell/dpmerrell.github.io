@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A Genealogy of Probability Distributions"
+title:  "A genealogy of probability distributions"
 date:   2022-11-27 00:00:00 -0500
 category: technical
 tags: [probability, statistics] 

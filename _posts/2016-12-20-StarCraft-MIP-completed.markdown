@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Completed StarCraft Optimization Project"
+title:  "Completed StarCraft optimization project"
 date:   2016-12-06 17:50:00 -0500
 category: coursework 
 tags: [optimization, starcraft, integer programming] 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Delicate Calculus of Being a Grad Student"
+title:  "The delicate calculus of being a grad student"
 date:   2019-11-09 00:00:00 -0500
 category: personal 
 tags: [education, grad school, PhD, life] 

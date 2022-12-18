@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Optimization Project: Build Orders in StarCraft"
+title:  "Optimization project: build orders in StarCraft"
 date:   2016-11-05 23:50:00 -0500
 category: coursework 
 tags: [optimization, starcraft, integer programming] 

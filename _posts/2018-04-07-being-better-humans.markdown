@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Computers Should Help Us be Better Humans"
+title:  "Computers should help us be better humans"
 date:   2018-04-06 09:00:00 -0500
 category: personal 
 tags: [computers, decisions, habits, philosophy, wisdom] 

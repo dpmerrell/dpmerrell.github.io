@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "COVID-19 Notes"
+title:  "COVID-19 notes"
 date:   2020-03-15 00:00:00 -0500
 category: personal 
 tags: [news, virus, covid19] 

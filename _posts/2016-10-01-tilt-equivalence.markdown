@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Some Work in Symbolic Volume Integration"
+title:  "Some work in symbolic volume integration"
 date:   2016-10-01 05:00:00 -0500
 category: research 
 tags: [wisconsin, albarghouthi, dantoni, drews, microsoft, nori, fairness] 

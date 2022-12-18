@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Revisiting the Stanford AI100 Study"
+title: "Revisiting the Stanford AI100 study"
 date:   2016-10-01 05:30:00 -0500
 category: coursework
 tags: [stanford, reading, ai, machine learning, ai100] 

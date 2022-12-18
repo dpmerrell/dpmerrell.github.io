@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  A Singularity Container for Deep Learning 
+title:  A singularity container for deep learning 
 date:   2018-07-17 22:00:00 -0500
 category: personal 
 tags: [visualization, python, repository] 

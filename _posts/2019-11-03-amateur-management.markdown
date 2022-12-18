@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Some Amateur Thoughts on Management
+title:  Some amateur thoughts on management
 date:   2019-11-03 00:00:00 -0500
 category: humans 
 tags: [management, organizations, leadership] 

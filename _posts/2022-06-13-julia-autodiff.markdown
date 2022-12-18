@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Navigating Julia's Autodiff Ecosystem"
+title:  "Navigating Julia's autodiff ecosystem"
 date:   2022-06-13 00:00:00 -0500
 category: technical 
 tags: [julia, deep-learning, autodiff, machine-learning] 

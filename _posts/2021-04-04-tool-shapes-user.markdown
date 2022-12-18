@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Tool Shapes the User"
+title:  "The tool shapes the user"
 date:   2021-04-04 00:00:00 -0500
 category: personal 
 tags: [] 

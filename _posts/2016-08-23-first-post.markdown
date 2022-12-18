@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Making a Blog with Jekyll"
+title:  "Making a blog with Jekyll"
 date:   2016-08-23 20:00:00 -0500
 category: Personal
 tags: [jekyll, github, blog] 

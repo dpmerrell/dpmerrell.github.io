@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "CS 761 Project: Spectral Methods for Latent Variable Models"
+title:  "CS 761 project: spectral methods for latent variable models"
 date:   2017-05-05 14:00:00 -0500
 category: coursework 
 tags: [machine learning, bayesian, tensor] 

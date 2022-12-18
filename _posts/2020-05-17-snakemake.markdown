@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Managing Workflows with Snakemake"
+title:  "Managing workflows with snakemake"
 date:   2020-05-17 00:00:00 -0500
 category: technical
 tags: [computing, snakemake, parallelism, python, linux] 

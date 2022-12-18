@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Are Moving Averages Bayesian?"
+title:  "Are moving averages Bayesian?"
 date:   2022-06-19 00:00:00 -0500
 category: technical 
 tags: [bayesian, bayesian-statistics, probability, time-series] 

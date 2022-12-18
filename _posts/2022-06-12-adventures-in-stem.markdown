@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Finding Adventure in the STEM Disciplines"
+title:  "Finding adventure in the STEM disciplines"
 date:   2022-06-12 00:00:00 -0500
 category: personal 
 tags: [career, existentialism] 

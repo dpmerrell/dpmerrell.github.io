@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Planting a Flag for Centrism in the Culture Wars"
+title:  "Planting a flag for centrism in the culture wars"
 date:   2020-09-12 00:00:00 -0500
 category: personal
 tags: [politics, news] 

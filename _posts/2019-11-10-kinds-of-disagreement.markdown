@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Kinds of Disagreement"
+title:  "Kinds of disagreement"
 date:   2019-11-10 00:00:00 -0500
 category: personal 
 tags: [ideas, humans, philosophy, ontology] 

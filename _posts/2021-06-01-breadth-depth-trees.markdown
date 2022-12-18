@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Breadth and Depth in Writing"
+title:  "Breadth and depth in writing"
 date:   2021-06-02 00:00:00 -0500
 category: personal 
 tags: [writing, communication] 
