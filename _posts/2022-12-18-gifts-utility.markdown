@@ -36,7 +36,8 @@ Here are some of my thoughts anyways:
   How do I
     1. identify the _unknown unknowns_ in another person's life; and
     2. choose one that they would appreciate?
-  A gift that succeeds at these tasks could be called a _thoughtful gift_.
+
+* A gift that succeeds at these tasks could be called a _thoughtful gift_.
   I have known people who are skilled at giving gifts.
   I think it is a real skill, and has something to do with competence at tasks 1 and 2.
 * An additional human reality may make it easier to beat cash gifts: people have limited attention and memory.
