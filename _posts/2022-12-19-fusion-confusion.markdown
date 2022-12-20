@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Fusion Confusion"
+title:  "Fusion confusion"
 date:   2022-12-19 00:00:00 -0500
 category: news 
 tags: [science, physics, fusion] 
