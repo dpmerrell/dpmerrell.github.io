@@ -43,11 +43,11 @@ $$ \text{your stake} = \frac{\text{your shares}}{\text{total shares outstanding}
       The typical arrangement is "four year vesting with a one year cliff." This means you'll receive 0 options during the first year, and ~3,333 options the following three years (usually on a monthly basis). This schedule ends if you quit or get fired.
     - Liquidity. An early stage startup is usually a private company. It can be very difficult to sell the stock of a private company; you typically can't sell your stock until the company goes public or gets acquired (in which case the acquiring company may buy out your equity, though it's not guaranteed).
     - Strike price. It will cost money to exercise your options and get actual stock. For example, suppose we're back in the dream scenario and the strike price is $1 per share.
-      Then you would have to pay $10K to obtain all of your stock (which you could then resell for $1M, netting $990K). The strike price can vary over the vesting schedule as the valuation of the company changes.
+      Then you would have to pay $10K to obtain all of your stock (which you could then resell for $1M, netting $990K). The strike price may vary over the vesting schedule as the valuation of the company changes.
     - Taxes. You will have to pay taxes (a) when you exercise the options and (b) when you sell the stock. In the dream scenario, you will end up with much less than $990K post-tax.
     - If you quit or get fired, then you will be given a strict time limit to exercise your options&mdash;usually no more than 90 days. Otherwise you forfeit your options. This is a difficult situation if the shares are still illiquid! You either pay taxes and the strike price up front for illiquid stocks, waiting with the hope of a liquidity event in the future; or you throw away the options that you earned over years of employment. 
 
-Once the offer is accepted, the value of the stock options is a random number that depends on (a) the startup's success; (b) your employment status in the startup and (b) certain choices you make.
+Once the offer is accepted, the value of your stock options is a random number that depends on (a) the startup's success; (b) your employment status in the startup and (c) certain choices you make.
 It seemed natural to think of the situation as a [Markov decision process](https://en.wikipedia.org/wiki/Markov_decision_process).
 I went through the trouble of sketching it out in Inkscape:
 
