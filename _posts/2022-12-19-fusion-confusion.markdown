@@ -42,7 +42,7 @@ What's bothering me?
 
 I voice these concerns as somebody who is a big fan of fusion research.
 I wish it had more funding.
-But I don't think the discussion around recent events&mdash;by journalists and politicians&mdash;has been very honest.
+But I think the discussion around recent events&mdash;by journalists and politicians&mdash;has been confused or dishonest.
 
 \\( \blacksquare\\)  
 
