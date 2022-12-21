@@ -12,7 +12,7 @@ tags: [politics, news]
     - Violence between leftists and right wingers
         * Portland, OR
         * Kenosha, WI
-    - Closest historical analogy: clashes between leftists and fascists in Weimar Germany.
+    - Historical analogy: clashes between leftists and fascists in Weimar Germany.
     - Trump contested election scenario
 
 * History makes it clear that liberal democracy is the exception -- not the norm.
