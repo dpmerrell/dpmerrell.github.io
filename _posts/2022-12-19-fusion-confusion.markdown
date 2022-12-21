@@ -7,7 +7,7 @@ tags: [science, physics, fusion]
 ---
 
 I'm bothered by some of the media's breathless, credulous coverage of recent events in fusion research.
-People are too excited; they're taking away incorrect conclusions.
+People are too excited; they're taking away incorrect conclusions from the press.
 
 [This article from _Science_ is one of the better ones I've seen on the subject.](https://www.science.org/content/article/historic-explosion-long-sought-fusion-breakthrough)
 
