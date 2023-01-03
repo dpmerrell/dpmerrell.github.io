@@ -19,7 +19,7 @@ Some of the more helpful sources I found:
     - (I would guess Wellfound's numbers are more typical of software startups, which are much less capital-intensive than biotechs.)
 * GPT-3:
 
-![gpt-3 response]({{ site.baseurl }}/assets/images/equity-gpt3.jpg){:width="500px"} 
+![gpt-3 response]({{ site.baseurl }}/assets/images/equity-gpt3.jpg){:width="600px"} 
 
 
 With enough reading I was able to arrive at coarse-grained mental model of the decision-landscape presented by equity compensation.
@@ -47,11 +47,11 @@ $$ \text{your stake} = \frac{\text{your shares}}{\text{total shares outstanding}
     - Taxes. You will have to pay taxes (a) when you exercise the options and (b) when you sell the stock. In the dream scenario, you will end up with much less than $990K post-tax.
     - If you quit or get fired, then you will be given a strict time limit to exercise your options&mdash;usually no more than 90 days. Otherwise you forfeit your options. This is a difficult situation if the shares are still illiquid! You either pay taxes and the strike price up front for illiquid stocks, waiting with the hope of a liquidity event in the future; or you throw away the options that you earned over years of employment. 
 
-Once the offer is accepted, the value of your stock options is a random number that depends on (a) the startup's success; (b) your employment status in the startup and (c) certain choices you make.
+Once the offer is accepted, the value of your stock options is a random quantity that depends on (a) the startup's success; (b) your employment status in the startup and (c) certain choices you make.
 It seemed natural to think of the situation as a [Markov decision process](https://en.wikipedia.org/wiki/Markov_decision_process).
 I went through the trouble of sketching it out in Inkscape:
 
-![title text]({{ site.baseurl }}/assets/images/equity-compensation-mdp.svg){:width="500px"} 
+![title text]({{ site.baseurl }}/assets/images/equity-compensation-mdp.svg){:width="600px"} 
 
 You begin at the top of the image. Time flows downward and out, roughly speaking. 
 This doesn't show every possible state or action. My goal was to capture some of the more salient parts of the decision landscape.
