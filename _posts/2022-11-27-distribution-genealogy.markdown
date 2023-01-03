@@ -29,7 +29,7 @@ I really wanted to capture some of the _generative stories_ underlying these dis
 The diagram contains a combination of exact, approximate, asymptotic, and algorithmic relationships.
 Various other relationships are excluded: conjugate priors, for example.
 
-![title text]({{ site.baseurl }}/assets/images/distribution-genealogy.svg){:width="300px"} 
+![title text]({{ site.baseurl }}/assets/images/distribution-genealogy.svg){:width="600px"} 
 
 Try opening the image in a new tab and zooming in for a closer look.
 
