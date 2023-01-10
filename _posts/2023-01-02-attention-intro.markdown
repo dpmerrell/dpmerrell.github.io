@@ -99,14 +99,6 @@ The relevance score for a word is usually a function of (1) that word's vector r
 For example, contextual information could include a word's position in the document, its neighboring words, or some other vector embedding of the word. 
 Some of this contextual information may be appended to the word vector \\(x_i\\), but it's also typical to store context information in a separate vector. 
 
-<!--
-Typically \\(f\\) is (1) some learned transformation applied to each word in the document, followed by (2) a softmax function across all words in the document.
-The softmax ensures that the weights are positive and sum to 1.
-The function \\(f\\) usually takes contextual information into account&mdash;e.g., a word's position in the document, or its neighboring words. 
-Each word's context information can be encoded as a vector.
-An attention mechanism is designed such that a word will receive greater attention weight if its word vector and context vector are more "compatible" with each other.
--->
-
 For illustration, contrast this graphic with the previous one:
 
 ![attention model with context]({{ site.baseurl }}/assets/images/simple-attention-full.svg){:width="600px"} 
@@ -196,15 +188,20 @@ People call this "self-attention" or "intra-attention"; I prefer the term "intra
 Recall that global attention applies a single attention head \\(f\\) to the entire document \\(x_1, x_2, \ldots, x_N\\), producing a single vector \\(z\\).
 In contrast, imagine we have an attention head _for every word in the document_.
 
-More accurately, imagine we have a single attention head \\(f\\), but for each word \\(x_i\\) in the document we compute a new set of _keys_ tailored for that particular word: \\( key_{i,1}, key_{i,2}, \ldots, key_{i,N} \\).
-These keys encode the _relevance_ of words \\(x_1, \ldots, x_N\\) to word \\(x_i\\).
+More accurately, imagine we have a single attention head \\(f\\), but for each word \\(x_i\\) in the document we compute a new set of attention weights tailored to that word: \\( p_{i,1}, p_{i,2}, \ldots, p_{i,N} \\).
+These weights encode the strength of pairwise relationships between words \\(x_1, \ldots, x_N\\) and word \\(x_i\\).
 Then suppose we use the attention head \\(f\\) to compute \\(z_i \\); a new vector for word \\(i\\).
-If we do this for every word in the document, then we get outputs \\(z_1, z_2, \ldots, z_N\\).
-We can think of \\(z_1, z_2, \ldots, z_N\\) as _new_ vectors for the words in the document, updated to include information about other (related) words in the document.
+
+Here's a graphic, showing the situation for \\(i = 1\\):
+
+![keys, values, queries]({{ site.baseurl }}/assets/images/intra-attention.svg){:width="600px"} 
+
+If we do this for every word in the document, then we get end up computing \\(N^2\\) attention weights and producing outputs \\(z_1, z_2, \ldots, z_N\\).
+We can think of \\(z_1, z_2, \ldots, z_N\\) as _new_ vectors for the words in the document, updated to include information from pairwise relationships with other words in the document.
 
 Some important things to notice:
 
-* The time complexity of intra-attention grows quadratically with the length of the document.
+* The complexity of intra-attention grows quadratically with the length of the document.
   This is no surprise, since it introduces pairwise interactions between words.
   There are domain-specific strategies for overcoming the \\(O(N^2)\\) complexity, like ignoring words past a certain distance in the document.
 * Multiple rounds of intra-attention allow a model to capture higher-order relationships between words, rather than just pairwise relationships.
