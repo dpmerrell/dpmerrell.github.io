@@ -167,10 +167,10 @@ Global attention is interesting from an interpretability standpoint: for each in
 
 The attention mechanism described above has a fairly strong inductive bias: it assumes the output is a weighted average of item-specific vectors.
 To counter this bias, an attention layer can include _multiple_ attention heads.
-That is, the same set of queries/keys/values can be passed to multiple attention mechanisms \\(f_1, f_2, f_K\\); and afterward, the outputs of these mechanisms can be recombined in some fashion.
+That is, the same set of queries/keys/values can be passed to multiple attention mechanisms \\(f_1, f_2, \ldots, f_K\\); and afterward, the outputs of these mechanisms can be recombined in some fashion.
 For example, AIAYN concatenates their outputs.
 
-Ideally, the different attention heads \\(f_1, f_2, f_K\\) "pay attention" to \\(K\\) different aspects of the input; and their recombined output captures all of their "diverse perspectives". 
+Ideally, the different attention heads \\(f_1, f_2, \ldots, f_K\\) "pay attention" to \\(K\\) different aspects of the input; and their recombined output captures all of their "diverse perspectives". 
 This allows the output to _not_ be a simple weighted average of values.
 
 Multi-head attention is analogous to having multiple channels in a convolutional neural network.
