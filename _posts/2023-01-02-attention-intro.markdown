@@ -189,14 +189,14 @@ Recall that global attention applies a single attention head \\(f\\) to the enti
 In contrast, imagine we have an attention head _for every word in the document_.
 
 More accurately, imagine we have a single attention head \\(f\\), but for each word \\(x_i\\) in the document we compute a new set of attention weights tailored to that word: \\( p_{i,1}, p_{i,2}, \ldots, p_{i,N} \\).
-These weights encode the strength of pairwise relationships between words \\(x_1, \ldots, x_N\\) and word \\(x_i\\).
-Then suppose we use the attention head \\(f\\) to compute \\(z_i \\); a new vector for word \\(i\\).
+These weights encode the strength of pairwise relationships between word \\(x_i\\) and words \\(x_1, \ldots, x_N\\).
+Finally, suppose we use the attention head \\(f\\) to compute \\(z_i \\); a new vector for word \\(i\\).
 
 Here's a graphic, showing the situation for \\(i = 1\\):
 
 ![keys, values, queries]({{ site.baseurl }}/assets/images/intra-attention.svg){:width="600px"} 
 
-If we do this for every word in the document, then we get end up computing \\(N^2\\) attention weights and producing outputs \\(z_1, z_2, \ldots, z_N\\).
+If we do this for every word in the document, then we end up computing \\(N^2\\) attention weights and producing outputs \\(z_1, z_2, \ldots, z_N\\).
 We can think of \\(z_1, z_2, \ldots, z_N\\) as _new_ vectors for the words in the document, updated to include information from pairwise relationships with other words in the document.
 
 Some important things to notice:
