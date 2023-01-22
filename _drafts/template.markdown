@@ -14,7 +14,7 @@ Body
 -->
 
 <!-- Include an image
-![title text]({{ site.baseurl }}/assets/images/your-image.jpg){:height="200px" :width="300px"} 
+![title text]({{ site.baseurl }}/assets/images/your-image.jpg){:width="600px"} 
 -->
 
 \\( \blacksquare\\)  
