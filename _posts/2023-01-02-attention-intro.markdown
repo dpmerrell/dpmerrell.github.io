@@ -212,8 +212,12 @@ Do the natural thing&mdash;replace the single attention head with a multi-head m
 
 # Wrapping up
 
-I would have liked to cover transformers, but they're important enough to warrant their own post.
-(Also, I already spent too much time on this post.)
+~~I would have liked to cover transformers, but they're important enough to warrant their own post.
+(Also, I already spent too much time on this post.)~~
+
+Edit 2023-01-23: I've started writing a post about transformers. Read it here:
+
+[("A less-bad blog post about transformers")]({{site.url}}/technical/2023/01/02/transformers-intro.html)
 
 
 # Other reading
