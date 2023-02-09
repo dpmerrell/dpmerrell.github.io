@@ -160,6 +160,7 @@ With the right modification, it can be quite serviceable for other classes of ta
 
 * [Attention is All You Need (Vaswani et al. 2017)](https://arxiv.org/abs/1706.03762)
 * [The Illustrated Transformer (Jay Alammar)](https://jalammar.github.io/illustrated-transformer/)
+* [The Transformer Family (Lilian Weng)](https://lilianweng.github.io/posts/2023-01-27-the-transformer-family-v2/)
 * [On Layer Normalization in the Transformer Architecture (Xiong et al 2020)](https://arxiv.org/abs/2002.04745)
 
 \\( \blacksquare\\)  
