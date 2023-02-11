@@ -6,9 +6,11 @@ category: personal
 tags: [biology, physics, math, computer-science] 
 ---
 
-As a computer scientist/mathematician working on biological problems, this Richard Feynman story resonates with me. 
+I think of this Richard Feynman story pretty often.
 
-He's taking a graduate biology course&mdash;for curiosity's sake. The professor has assigned him to present a paper to the class:
+Apparently Feynman spent a short episode of his career dabbling in biology.
+This story recounts his experience taking a graduate level biology course. 
+The professor has assigned him to present a paper to the class:
 
 > "I began to read the paper. It kept talking about extensors and flexors, the gastrocnemius muscle, and so on. 
 > This and that muscle were named, but I hadn't the foggiest idea of where they were located in relation to the nerves or to the cat. 
@@ -25,8 +27,9 @@ He's taking a graduate biology course&mdash;for curiosity's sake. The professor 
 > 
 > &mdash;Richard Feynman (_Surely You're Joking, Mr. Feynman!_)
 
-I've found that physicists (and computer scientists) have very different sensibilities from biologists.
+This story resonates with me as a computer scientist/mathematician working on biological problems.
 
+I've found that physicists (and computer scientists) have very different sensibilities from biologists.
 I think Ernest Rutherford had these differences in mind when he said "All science is either physics or stamp collecting."
 
 Biologists are required to memorize a great many facts.
@@ -34,7 +37,7 @@ In contrast, computer scientists, mathematicians, and physicists only memorize a
 Those principles serve as a starting point to reason/solve problems/understand the world&mdash;you can get a lot of mileage out of a small number of good abstractions.
 
 Meanwhile, biological systems are like Rube Goldberg machines.
-Very little of biology can be explained from anything resembling "first principles"
+Very little of biology can be explained from anything resembling "first principles."
 The central dogma is the closest thing to a first principle I can think of, but it explains only a small fraction of the mechanisms people find interesting.
 
 A competent biologist must (a) learn a large number of facts and (b) form a unified understanding from them.
