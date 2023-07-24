@@ -14,11 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: David Merrell's Blogsite
-email: dmerrell at cs dot wisc dot edu
+email: merrell at broadinstitute dot org
 description: > #
-               I am a Computer Science[s] grad student at 
-               UW-Madison. This blog/website shows some of the
-               things I've been up to.
+               I am a computational biologist at Broad Institute. 
+               This blog/website shows some of the things I've been up to.
+               All opinions are my own and not the views of my employer.
 #  this means to ignore newlines until "baseurl:"
 #  Write an awesome description for your new site here. You can edit this
 #  line in _config.yml. It will appear in your document head meta (for
