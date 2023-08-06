@@ -69,8 +69,10 @@ permalink: /publications/
 <br>
 
 ## Other talks
+
+* [Dissertation defense (slides)](https://docs.google.com/presentation/d/1o3G9RmNtY8Inis2xxN0V4ZiiG1HNDdQkNKOozlwste0/edit?usp=sharing)
     
-* [Preliminary Exam (slides)](https://docs.google.com/presentation/d/1J-HdLrM7BzdCV4Z9zYN6w-w2wDr1slZ0EJiNI9kb7kY/edit?usp=sharing)
+* [Preliminary exam (slides)](https://docs.google.com/presentation/d/1J-HdLrM7BzdCV4Z9zYN6w-w2wDr1slZ0EJiNI9kb7kY/edit?usp=sharing)
 
 * [Discovery Seminar: A statistical model for multiomic data and biological pathways (slides)](https://docs.google.com/presentation/d/1OI0a2POmZjnNzj73T-N_BhFRYqco0rk8XLLaO7VtOCk/edit?usp=sharing)
 
