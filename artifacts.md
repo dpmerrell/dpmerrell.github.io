@@ -30,6 +30,19 @@ permalink: /publications/
 
 <br>
 
+## PhD Dissertation
+
+[Probabilistic Machine Learning with Omics Data and Biological Prior Knowledge (PDF)]({{site.url}}/assets/misc/dmerrell_dissertation.pdf)
+
+[(Slides from dissertation defense)](https://docs.google.com/presentation/d/1o3G9RmNtY8Inis2xxN0V4ZiiG1HNDdQkNKOozlwste0/edit?usp=sharing)
+
+
+<br>
+
+------
+
+<br>
+
 ## Other software
 
 * [PathwayMultiomics.jl: pathway-regularized matrix factorization for multiomic data](https://github.com/dpmerrell/PathwayMultiomics.jl)
@@ -70,8 +83,6 @@ permalink: /publications/
 
 ## Other talks
 
-* [Dissertation defense (slides)](https://docs.google.com/presentation/d/1o3G9RmNtY8Inis2xxN0V4ZiiG1HNDdQkNKOozlwste0/edit?usp=sharing)
-    
 * [Preliminary exam (slides)](https://docs.google.com/presentation/d/1J-HdLrM7BzdCV4Z9zYN6w-w2wDr1slZ0EJiNI9kb7kY/edit?usp=sharing)
 
 * [Discovery Seminar: A statistical model for multiomic data and biological pathways (slides)](https://docs.google.com/presentation/d/1OI0a2POmZjnNzj73T-N_BhFRYqco0rk8XLLaO7VtOCk/edit?usp=sharing)
@@ -90,6 +101,7 @@ permalink: /publications/
 
 
 ## Other technical writing
+
 
 * [Preliminary exam written report (PDF)]({{site.url}}/assets/research-notes/dmerrell-prelim-report.pdf)
 
