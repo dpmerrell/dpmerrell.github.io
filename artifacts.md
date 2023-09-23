@@ -4,6 +4,20 @@ title: Artifacts
 permalink: /publications/
 ---
 
+
+## PhD Dissertation
+
+[Probabilistic Machine Learning with Omics Data and Biological Prior Knowledge (PDF)]({{site.url}}/assets/misc/dmerrell_dissertation.pdf)
+
+[(Slides from dissertation defense)](https://docs.google.com/presentation/d/1o3G9RmNtY8Inis2xxN0V4ZiiG1HNDdQkNKOozlwste0/edit?usp=sharing)
+
+
+<br>
+
+------
+
+<br>
+
 ## Publications
 
 * **David Merrell**, Thevaa Chandereng, Yeonhee Park. *A Markov Decision Process for Response-Adaptive Randomization in Clinical Trials.* Computational Statistics and Data Analysis 2023.
@@ -30,18 +44,6 @@ permalink: /publications/
 
 <br>
 
-## PhD Dissertation
-
-[Probabilistic Machine Learning with Omics Data and Biological Prior Knowledge (PDF)]({{site.url}}/assets/misc/dmerrell_dissertation.pdf)
-
-[(Slides from dissertation defense)](https://docs.google.com/presentation/d/1o3G9RmNtY8Inis2xxN0V4ZiiG1HNDdQkNKOozlwste0/edit?usp=sharing)
-
-
-<br>
-
-------
-
-<br>
 
 ## Other software
 
