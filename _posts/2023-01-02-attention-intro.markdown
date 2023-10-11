@@ -217,7 +217,7 @@ Do the natural thing&mdash;replace the single attention head with a multi-head m
 
 Edit 2023-01-23: I've started writing a post about transformers. Read it here:
 
-[("A less-bad blog post about transformers")]({{site.url}}/technical/2023/01/02/transformers-intro.html)
+[("A less-bad blog post about transformers")]({{site.url}}/technical/2023/01/23/transformers-intro.html)
 
 
 # Other reading
