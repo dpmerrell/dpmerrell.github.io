@@ -25,5 +25,5 @@ Since then, I've done a lot of catching up in CS and biology.
 
 I hope this blog evolves into something useful and interesting.
 
-![profile photo]({{ site.url }}/assets/misc/profile_photo.JPG)
+![profile photo]({{ site.url }}/assets/misc/profile_photo.JPG){:width="300px"}
 
