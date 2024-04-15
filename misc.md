@@ -31,9 +31,9 @@ permalink: /miscellaneous/
 
 [Thinking, Fast and Slow (Daniel Kahneman)](https://www.amazon.com/dp/B00555X8OA/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 
-[12 Rules for Life (Jordan Peterson)](https://www.amazon.com/gp/product/B01FPGY5T0/ref=ppx_yo_dt_b_d_asin_title_o05?ie=UTF8&psc=1)
-
 [Algorithms to Live By (Brian Christian, Tom Griffiths)](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1250118360/ref=sr_1_1?s=books&ie=UTF8&qid=1518379407&sr=1-1&keywords=algorithms+to+live+by)
+
+[Outlive: The science and Art of Longevity (Peter Attia, Bill Gifford)](https://www.amazon.com/Outlive-Longevity-Peter-Attia-MD/dp/0593236599)
 
 ## Fiction 
 
@@ -83,8 +83,6 @@ permalink: /miscellaneous/
 
 [Kurzgesagt](https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q)
 
-[Bloggingheads.tv](https://www.youtube.com/c/BloggingheadsTV)
-
 [Sabine Hossenfelder](https://www.youtube.com/channel/UC1yNl2E66ZzKApQdRuTQ4tw)
 
 [Veritasium](https://www.youtube.com/c/veritasium)
@@ -117,7 +115,7 @@ acquaintances and did some touristy things.
 **2017-07** Went backpacking in King's Canyon National Park.
 [(Google Photos Album)](https://photos.app.goo.gl/t8XykVyqvMuYFnxA3)
 
-**2017-07** Climbed two "fourteeners" while visiting family. 
+**2017-07** Climbed two "fourteeners" with family. 
 [(Google Photos Album)](https://goo.gl/photos/QPfwSpYcBRjTTfDt5)
 
 **2016-04 -- 2016-08** Bicycle tour from Rome to Edinburgh. I occasionally cheated and took the train. [(Google Photos Album)](https://goo.gl/photos/9ZaJGTrX1ocAGx617)
@@ -145,14 +143,4 @@ David Merrell
 
 [dmerrell_gpg.txt]({{site.url}}/assets/misc/dmerrell_gpg.txt)
 
-<!---
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
--->
