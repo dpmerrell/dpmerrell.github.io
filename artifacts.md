@@ -38,6 +38,8 @@ permalink: /publications/
     - [IJCAI 2017 talk (PDF)]({{site.url}}/assets/presentations/wmi-ijcai-2017-08-17.pdf)
     - [conference poster (PDF)]({{site.url}}/assets/posters/poster-ijcai-2017-08-17.pdf)
 
+[Google Scholar profile](https://scholar.google.com/citations?user=YXS1tFIAAAAJ&hl=en&oi=sra)
+
 <br>
 
 ------
