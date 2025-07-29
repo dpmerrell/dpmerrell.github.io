@@ -7,7 +7,7 @@ permalink: /miscellaneous/
 
 # Curriculum Vitae 
 
-[PDF]({{site.url}}/assets/cv/dmerrell_cv.pdf)
+[PDF]({{site.url}}/assets/cv/dmerrell_resume.pdf)
 
 <br>
 
