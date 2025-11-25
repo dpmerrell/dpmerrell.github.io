@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-I work as a computational biologist in the [Getz Lab](https://getzlab.org/) at [Broad Institute](https://www.broadinstitute.org/).
+Until recently (Sep 2025), I worked as a computational biologist in the [Getz Lab](https://getzlab.org/) at [Broad Institute](https://www.broadinstitute.org/).
+I quit my job there and am figuring out next steps&mdash;I hope to find a role that involves more computing and less biology.
 
 I earned a PhD in [Computer Science\[s\]](http://cs.wisc.edu) at University of Wisconsin - Madison. 
 I was fortunate to be advised by [Tony Gitter](https://www.biostat.wisc.edu/~gitter/).
