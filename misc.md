@@ -17,6 +17,8 @@ permalink: /miscellaneous/
 
 # Some Favorites 
 
+Some media that have shaped how I think and feel about life...
+
 ## Nonfiction
 
 [Antifragile (Nassim Taleb)](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto-ebook/dp/B0083DJWGO/ref=sr_1_1?s=books&ie=UTF8&qid=1518379447&sr=1-1&keywords=antifragile)
@@ -33,7 +35,13 @@ permalink: /miscellaneous/
 
 [Algorithms to Live By (Brian Christian, Tom Griffiths)](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1250118360/ref=sr_1_1?s=books&ie=UTF8&qid=1518379407&sr=1-1&keywords=algorithms+to+live+by)
 
-[Outlive: The science and Art of Longevity (Peter Attia, Bill Gifford)](https://www.amazon.com/Outlive-Longevity-Peter-Attia-MD/dp/0593236599)
+[Outlive: The Science and Art of Longevity (Peter Attia, Bill Gifford)](https://www.amazon.com/Outlive-Longevity-Peter-Attia-MD/dp/0593236599)
+
+[Bonds that Make us Free (C. Terry Warner)](https://a.co/d/ixZxyWw)
+
+[Atomic Habits (James Clear)](https://a.co/d/7vLFF0j)
+
+[The DevOps Handbook (Gene Kim, Jez Humble, Patrick Debois, John Willis, Nicole Forsgren)](https://a.co/d/6ZxKeGA)
 
 ## Fiction 
 
@@ -41,11 +49,11 @@ permalink: /miscellaneous/
 
 [Snow Crash (Neal Stephenson)](https://www.amazon.com/Snow-Crash-Novel-Neal-Stephenson-ebook/dp/B000FBJCJE/ref=sr_1_1?keywords=neal+stephenson+snow+crash&qid=1572813735&s=digital-text&sr=1-1)
 
+[The Diamond Age (Neal Stephenson)](https://a.co/d/3juOZ8X)
+
 [East of Eden (John Steinbeck)](https://www.amazon.com/dp/B001BC5HXG/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 
 [The Three-Body Problem (Liu Cixin)](https://www.amazon.com/Three-Body-Problem-Cixin-Liu/dp/0765382032) 
-
-[Flowers for Algernon (Daniel Keyes)](https://www.amazon.com/dp/B003WJQ74E/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 
 [Thus Spake Zarathustra (Friedrich Nietzsche)](https://www.amazon.com/Thus-Spake-Zarathustra-book-none-ebook/dp/B0082USJ9Y/ref=sr_1_14?crid=3FB03NPPBG5LV&keywords=thus+spake+zarathustra+by+friedrich+nietzsche&qid=1572814055&sprefix=thus+spake+zar%2Caps%2C152&sr=8-14)
 
@@ -68,26 +76,11 @@ permalink: /miscellaneous/
 
 [Economist Radio (The Economist)](https://www.economist.com/podcasts/)
 
-[All-In Podcast (Chamath Palihapitiya, Jason Calacanis, David Sacks & David Friedberg)](https://www.youtube.com/@allin/about)
-
 [The Fifth Column (Kmele Foster, Michael Moynihan, Matt Welch)](https://wethefifth.com/)
 
 [Oh No Ross and Carrie (Ross Blocher, Carrie Poppy)](http://ohnopodcast.com/)
 
-[Honestly (Bari Weiss)](https://www.honestlypod.com/)
-
-
-## YouTube Channels
-
-[3Blue1Brown](https://www.youtube.com/c/3blue1brown) 
-
-[Kurzgesagt](https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q)
-
-[Sabine Hossenfelder](https://www.youtube.com/channel/UC1yNl2E66ZzKApQdRuTQ4tw)
-
-[Veritasium](https://www.youtube.com/c/veritasium)
-
-[Netherlands Bach Society](https://www.youtube.com/channel/UC2kF6qdHRTM_hDYfEmzkS9w)
+[The Journal (The Wall Street Journal)](https://www.wsj.com/podcasts/the-journal)
 
 
 <br>
@@ -105,21 +98,14 @@ permalink: /miscellaneous/
 **2019-08** Climbed Longs Peak with my dad.
 [(Google Photos Album)](https://photos.app.goo.gl/MyFujuMTdAs4YPX99)
 
-**2018-08** Went backpacking in North Cascades National Park.
-[(Google Photos Album)](https://photos.app.goo.gl/GpaPURX7irQWjg1G8)
-
 **2017-08** Attended IJCAI in Melbourne, Australia. Also visited 
 acquaintances and did some touristy things.
 [(Google Photos Album)](https://goo.gl/photos/nwE17GcCPsxdpGT39)
 
-**2017-07** Went backpacking in King's Canyon National Park.
-[(Google Photos Album)](https://photos.app.goo.gl/t8XykVyqvMuYFnxA3)
-
-**2017-07** Climbed two "fourteeners" with family. 
+**2017-07** Climbed Grays Peak and Torreys Peak with family. 
 [(Google Photos Album)](https://goo.gl/photos/QPfwSpYcBRjTTfDt5)
 
 **2016-04 -- 2016-08** Bicycle tour from Rome to Edinburgh. I occasionally cheated and took the train. [(Google Photos Album)](https://goo.gl/photos/9ZaJGTrX1ocAGx617)
-
 
 <br>
 
